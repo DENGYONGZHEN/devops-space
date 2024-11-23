@@ -8,12 +8,15 @@ import (
 	"os"
 )
 
-func countWordFlag(r io.Reader, countLine bool) int {
+func countWordFlag(r io.Reader, countType string) int {
 
 	scanner := bufio.NewScanner(r)
 
-	if !countLine {
+	if countType == "word" {
 		scanner.Split(bufio.ScanWords)
+	}
+	if countType == "byte" {
+		scanner.Split(bufio.ScanBytes)
 	}
 
 	wc := 0
@@ -26,8 +29,9 @@ func countWordFlag(r io.Reader, countLine bool) int {
 
 func main() {
 	//Defining a boolean flag -l to count lines instead of words
-	countLine := flag.Bool("l", false, "Count lines")
+	countType := flag.String("c", "line", "Count lines")
+
 	//Parsing the flags provided by the user
 	flag.Parse()
-	fmt.Println(countWordFlag(os.Stdin, *countLine))
+	fmt.Println(countWordFlag(os.Stdin, *countType))
 }
