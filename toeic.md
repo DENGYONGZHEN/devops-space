@@ -1762,704 +1762,1004 @@ recently（副詞） recent（形容詞）
 
 - (D) displayable
 
-1.The company picnic will be held on a beach, but the weather  is predicting heavy rain.
+☑ 1.The company picnic will be held on a beach, but the weather -------  is predicting heavy rain.
 
-- (A) forecast
-- (B)forecasts
-- (C)will forecast
+- ##### (A) forecast
+
+- (B) forecasts
+
+- (C) will forecast
+
 - (D) to forecast
 
-2. The board conducted a second round of ------- with the four  selected candidates for the position on Tuesday.
+☑<font color="red"> 2.</font>The board conducted a second round of ------- with the four  selected candidates for the position on Tuesday.
 
-- (A)interview
-- (B) interviews
-- (C)interviewed
+- (A) interview
+
+- ##### (B) interviews
+
+- (C) interviewed
+
 - (D) interviewer
 
-3. More than half of the respondents said television was more  than any other form of advertising.
+☑ 3.More than half of the respondents said television was more   -------  than any other form of advertising.
 
 - (A) memory
+
 - (B) memorize
-- (C) memorable
+
+- ##### (C) memorable
+
 - (D) memorably
 
-4. All students who wish to be considered for financial aid fo the  fall semester should file their ------- by May 30.
+☑ 4.All students who wish to be considered for financial aid for the  fall semester should file their ------- by May 30.
 
-- (A) applications
+- ##### (A) applications
+
 - (B) applicants
+
 - (C) applicability
+
 - (D) applies
 
-5. Texas Carbide is looking for three marketing professionals who  have work experience in the textile -------.
+☑ 5.Texas Carbide is looking for three marketing professionals who  have work experience in the textile -------.
 
-- (A)industry
+- ##### (A) industry
+
 - (B) industrialize
+
 - (C) industrial
+
 - (D) industrialist
 
-6. The company performed well this year and – ---- surpassed last  year’s profits.
+☑ 6.The company performed well this year and – ---- surpassed last  year’s profits.
 
 - (A) neared
-- (B) nearly
-- (C)nearest
-- (D)nearness
 
-7. After the six-month probationary period, new employees may be  eligible for an------- in salary.
+- ##### (B) nearly
 
-- (A)increase
+- (C) nearest
+
+- (D) nearness
+
+☑ 7.After the six-month probationary period, new employees may be  eligible for an------- in salary.
+
+- ##### (A) increase
+
 - (B) increasing
-- (C)increasingly
-- (D)increased
 
-8. It took several days for the managers to decide on which  applicant was the most------- for the position.
+- (C) increasingly
 
-- (A)qualify
-- (B) qualified
+- (D) increased
+
+☑ 8.It took several days for the managers to decide on which  applicant was the most------- for the position.
+
+- (A) qualify
+
+- ##### (B) qualified
+
 - (C) qualification
+
 - (D) qualifies
 
-9. In December, toy stores usually receive lots of shipments and  prices remain ------- until after the holidays.
-
-- (A)compete
-- (B) competitive
-- (C)competitively
-- (D) competition
-
-10.Because of its cool climate, the eastern region of Hokkaido is  ------- for dairy farming.
-
-- (A) ideal
-- (B) idea
-- (C) ideally
-- (D) idealistic
-
-11.Seth Greene agreed to undertake the ------- task of redesigning  the mining equipment.
-
-- (A) challenge
-- (B) challenges
-- (C)challenged
-- (D) challenging
-
-12.Mr. Song was recently awarded a prestigious research grant, which should come as no surprise to anyone -------with his work.
-
-- (A) familiar
-- (B)familiarize
-- (C)familiarizing
-- (D) familiarity
-
-13.A week has been set aside in February for new and current staff  to undergo employee------.
-
-- (A)train
-- (B)trainer
-- (C)trainable
-- (D)training
-
-14.Members of the finance------- have been in deliberations since  10 A.M., discussing the proposed budget cuts.
-
-- (A) committed
-- (B)committing
-- (C)commitment
-- (D)committee
-
-15.Fujiyama Restaurant offers a variety of dishes made from fresh  seasonal and------- grown vegetables.
-
-- (A)local
-- (B) locally
-- (C) locality
-- (D) localize
-
-16.The tables at the banquet were prepared in a style that was  yet elegant.
-
-- (A)simple
-- (B)simply
-- (C)simplify
-- (D) simplification
-
-17.Conference organizers made arrangements for all ---- guests  to be presented with an information package.
-
-- (A) arrive
-- (B) arrives
-- (C) arrival
-- (D) arriving
-
-18.The number of orders for the month of May was estimated  extremely------- resulting in a substantial reduction in waste.
-
-- (A) accurate
-- (B) accurately
-- (C)accuracy
-- (D) accuracies
-
-19.The store display attracted a lot of attention from customers  with its-------colored packages and entertaining animated mannequins.
-
-- (A)brighten
-- (B)brightly
-- (C)brightened
-- (D) brightness
-
-20. As one of the fastest------- distributors in the country, Falcon  Supply Inc., is known for its commitment to quality.
-
-- (A) grow
-- (B) grew
-- (C)growing
-- (D)growth
-
-21. Crown Corporation has been the leading --of innovative  fabrics for over 25 years.
-
-- (A) produce
-- (B) produced
-- (C) production
-- (D) producer
-
-22. If all single rooms are already booked, guests will be offered a  double room for single use at a ------- higher rate.
-
-- (A) correspond
-- (B) corresponding
-- (C)correspondingly
-- (D) correspondence
-
-23. Dylan Clarke has been promoted to the position of marketing  manager because he organized a national campaign-------.
-
-- (A)commend
-- (B) commendable
-- (C) commendably
-- (D) commended
-
-24.Although construction has already been approved, the city is still  looking for an ------- to coordinate the project.
-
-- (A) architect
-- (B) architecture
-- (C) architectural
-- (D) architecturally
-
-25. Since his appointment as CEO, Nathan Lee has been running the  company much -------than his predecessor.
-
-- (A) efficient
-- (B) efficiently
-- (C) more efficient
-- (D) more efficiently
-
-26.The Independent School Association has welcomed some of the  ------- lecturers, authors, and performing artists in California.
-
-- (A)more prominent
-- (B) most prominent
-- (C) more prominently
-- (D) most prominently
-
-27.The City University offers masters programs in civil engineering, construction, project-------, and information technology.
-
-- (A)manage
-- (B)managed
-- (C)manageable
-- (D) management
-
-28.Some contractors use special ------- tools to help pinpoint the  source of common home problems.
-
-- (A)diagnose
-- (B) diagnosed
-- (C)diagnostic
-- (D) diagnostically
-
-29.The policy that late fees are charged for books returned after the  due date is stated quite ------- in the agreement.
-
-- (A) clear
-- (B)clearly
-- (C) clarity
-- (D)clearer
-
-30. Tullox Shoes are constructed in South East Asia according to the  standards for durability and comfort.
-
-- (A) strictly
-- (B) more strictly
-- (C) strictest
-- (D) strictness
-
-31. The highly anticipated second album of William Roy is  from the first but no less remarkable.
-
-- (A)distinct
-- (B) distinguish
-- (C) distinction
-- (D) distinctly
-
-32. The mission of the university store is to provide a wide range of  ------- priced merchandise to students and faculty members.
+☑ <font color="red">9.</font>In December, toy stores usually receive lots of shipments and  prices remain ------- until after the holidays.
 
 - (A) compete
-- (B)competiive
+
+- ##### (B) competitive
+
 - (C) competitively
+
 - (D) competition
 
-33. Easy to handle, light, maneuverable, and powerful, the lawnmower  is perfectly -------to small lawns of up to 2,000 square feet.
+☑ 10.Because of its cool climate, the eastern region of Hokkaido is  ------- for dairy farming.
 
-- (A) suit
-- (B) suited
-- (C)suiting
-- (D) suits
+- ##### (A) ideal
 
-34.Japanese cuisine has received a lot of attention in the last 10 years, and ------- has gained popularity all over the world.
+- (B) idea
 
-- (A)consequent
-- (B) consequently
-- (C)consequence
-- (D) consequences
+- (C) ideally
 
-35. Should you require------- with your selection of tools, please talk  to one of our experienced advisors.
+- (D) idealistic
 
-- (A) assist
-- (B)assisted
-- (C) assistance
-- (D) assists
+☑ 11.Seth Greene agreed to undertake the ------- task of redesigning  the mining equipment.
 
-36. Not only does the new sedan have an ------- design, but it also  offers its passengers more luggage room.
+- (A) challenge
 
-- (A) appeal
-- (B) appealed
-- (C)appealing
-- (D) appealingly
+- (B) challenges
 
-37.-------scheduling vacation leave of one full week or more must  obtain permission from their supervisors in advance.
+- (C) challenged
 
-- (A) Employs
-- (B) Employed
-- (C)Employment
-- (D) Employees
+- ##### (D) challenging
 
-38. New- are eligible for a 30 day free trial period and will  receive one free song download upon signing up.
+☑ 12.Mr. Song was recently awarded a prestigious research grant, which should come as no surprise to anyone -------with his work.
 
-- (A)subscribe
-- (B) subscriptions
-- (C) subscribed
-- (D) subscribers
+- ##### (A) familiar
 
-39.Rubber------- are working hard to fill orders from the automobile  industry which is expecting to sell record numbers of vehicles this year.
+- (B) familiarize
+
+- (C) familiarizing
+
+- (D) familiarity
+
+☑ 13.A week has been set aside in February for new and current staff  to undergo employee------.
+
+- (A) train
+
+- (B) trainer
+
+- (C) trainable
+
+- ##### (D) training
+
+☑ 14.Members of the finance------- have been in deliberations since  10 A.M., discussing the proposed budget cuts.
+
+- (A) committed
+
+- (B) committing
+
+- (C) commitment
+
+- ##### (D) committee
+
+☑ 15.Fujiyama Restaurant offers a variety of dishes made from fresh  seasonal and------- grown vegetables.
+
+- (A) local
+
+- ##### (B) locally
+
+- (C) locality
+
+- (D) localize
+
+☑ 16.The tables at the banquet were prepared in a  ---- style that was  yet elegant.
+
+- ##### (A) simple
+
+- (B) simply
+
+- (C) simplify
+
+- (D) simplification
+
+☑ <font color="red">17.</font>Conference organizers made arrangements for all ---- guests  to be presented with an information package.
+
+- (A) arrive
+
+- (B) arrives
+
+- (C) arrival
+
+- ##### (D) arriving
+
+☑ <font color="red">18.</font>The number of orders for the month of May was estimated  extremely------- resulting in a substantial reduction in waste.
+
+- (A) accurate
+
+- ##### (B) accurately
+
+- (C) accuracy
+
+- (D) accuracies
+
+☑ 19.The store display attracted a lot of attention from customers  with its-------colored packages and entertaining animated mannequins.
+
+- (A) brighten
+
+- ##### (B) brightly
+
+- (C) brightened
+
+- (D) brightness
+
+☑ <font color="red">20.</font>As one of the fastest------- distributors in the country, Falcon  Supply Inc., is known for its commitment to quality.
+
+- (A) grow
+
+- (B) grew
+
+- ##### (C)growing
+
+- (D)growth
+
+☑ 21.Crown Corporation has been the leading --of innovative  fabrics for over 25 years.
 
 - (A) produce
-- (B)produces
-- (C) productions
-- (D) producers
 
-40.Fast & Falls is a Dallas-based interior design firm, known for  service and a sophisticated style.
+- (B) produced
 
-- (A)personalized
-- (B) personalize
-- (C) personalizes
-- (D) personalizing
+- (C) production
 
-41.This-------should only be taken as directed by a qualified  physician.
+- ##### (D) producer
 
-- (A) medication
-- (B)medically
-- (C) medicated
-- (D) medications
+☑ 22.If all single rooms are already booked, guests will be offered a  double room for single use at a ------- higher rate.
 
-42.The jewelry box is covered in a thin layer of hand-stitched black  leather stretched------- around the frame.
+- (A) correspond
 
-- (A) tightening
-- (B)tightly
-- (C)tighten
-- (D) tightness
+- (B) corresponding
 
-43.Fun Toys is pleased to announce two shipments of the popular  game will arrive this month, the first of which should come --.
+- ##### (C) correspondingly
 
-- (A)shortly
-- (B)shorten
-- (C)short
-- (D)shortness
+- (D) correspondence
 
-44.Ms. Watanabe’s new coffee tumbler, which cost over 30 dollars, is stylish as well as-------.
+☑ 23.Dylan Clarke has been promoted to the position of marketing  manager because he organized a national campaign-------.
 
-- (A)function
-- (B) functioned
-- (C) functional
-- (D) functionally
+- (A) commend
 
-45. When placing an order during holiday seasons, please note that  it will take --five to seven days for the delivery.
+- (B) commendable
 
-- (A) approximate
-- (B) approximately
-- (C) approximation
-- (D) approximates
+- ##### (C) commendably
 
-46.Justin Moore’s -------jazz album from Spark Records combines  modern rhythms with traditional elements.
+- (D) commended
 
-- (A)newer
-- (B) newly
-- (C)newest
-- (D)newness
+☑ 24.Although construction has already been approved, the city is still  looking for an ------- to coordinate the project.
 
-47.The Darren Theater opened on Oct.5, 1987,-------eight years  before Ms. Gonzalez was hired.
+- ##### (A) architect
 
-- (A)precise
-- (B) precision
-- (C)precisely
-- (D)preciseness
+- (B) architecture
 
-48. Mr.McConnell studied Japanese business culture and practices  ------- before transferring to the Sendai branch.
+- (C) architectural
 
-- (A)exhaustive
-- (B) exhaustion
-- (C)exhausting
-- (D)exhaustively
+- (D) architecturally
 
-49. Located near the Dallas Convention Center, Hotel Camel is the  perfect choice for convention-------who want accommodations close to the venue.
+☑ <font color="red">25.</font>Since his appointment as CEO, Nathan Lee has been running the  company much -------than his predecessor.
 
-- (A) attendance
-- (B) attendees
-- (C)attend
-- (D) attended
+- (A) efficient
 
-50.Mr. Larsen’s name, which appeared in the original movie, was  mistakenly removed from the -------version.
+- (B) efficiently
 
-- (A) edit
-- (B)edited
-- (C)editing
-- (D) edits
+- (C) more efficient
 
-51.Only one year after its-------, Denton Publishing was awarded  the Prize for Exceptional Creativity at an international competition in Vienna.
+- ##### (D) more efficiently
 
-- (A) found
-- (B) foundations
-- (C)founded
-- (D)foundation
+☑ 26.The Independent School Association has welcomed some of the  ------- lecturers, authors, and performing artists in California.
 
-52.Grape Computers is known for running – commercials to  promote its innovative electronic devices.
+- (A) more prominent
 
-- (A) imaginative
-- (B) imagination
-- (C)imagine
-- (D)imaginary
+- ##### (B) most prominent
 
-53. Original copies of Pirate Island are ------- rare, with only 18 copies in existence, of which 12 are in private hands.
+- (C) more prominently
 
-- (A)excessive
-- (B)exceed
-- (C)excess
-- (D) exceedingly
+- (D) most prominently
 
-54. Most users agree that the new smartphone has a- — better  picture and sound quality.
+☑ 27.The City University offers masters programs in civil engineering, construction, project-------, and information technology.
 
-- (A) notice
-- (B) noticeable
-- (C)noticeably
-- (D)noticing
+- (A) manage
 
-55.While Fire Art’s new video games have already been launched in  Asia, they will not be available-------anytime soon.
+- (B) managed
 
-- (A)globe
-- (B)global
-- (C)globally
-- (D) globalization
+- (C) manageable
 
-56.Presented by Whole Family Foods, the event will feature cooking  and activities for kids.
+- ##### (D) management
 
-- (A) demonstrations
-- (B) demonstrates
-- (C) demonstrator
-- (D) demonstrated
+☑ <font color="red">28.</font>Some contractors use special ------- tools to help pinpoint the  source of common home problems.
 
-57. Paul Tanaka, the founder of Wheaton Technology, will come to  the Seattle headquarters to participate in------- and interact with employees.
+- (A) diagnose
 
-- (A)lecture
-- (B) lectured
-- (C) lectures
-- (D)lecturer
+- (B) diagnosed
 
-58.All staff members of Premium Promotion have extensive  experience in------- or a related field.
+- ##### (C) diagnostic
 
-- (A) advertising
-- (B) advertiser
-- (C) advertised
-- (D) advertises
+- (D) diagnostically
 
-59.The award ceremony would not have been possible without  - from several members, notably Mal Benjamin, who chairs the award committee.
+☑<font color="red"> 29.</font>The policy that late fees are charged for books returned after the  due date is stated quite ------- in the agreement.
 
-- (A) contribute
-- (B) contributed
-- (C)contributions
-- (D) contributor
+- (A) clear
 
-60. Since the benefits seemed evident, Mr. Tucker was ----that his  proposal would be accepted by the board of directors.
+- ##### (B) clearly
 
-- (A) confident
-- (B) confidential
-- (C) confidently
-- (D) confidence
+- (C) clarity
 
-61.All requests for personal time off must be submitted for  using the appropriate request form.
+- (D)clearer
 
-- (A) approve
-- (B) approved
-- (C) approval
-- (D) approvingly
+☑ 30.Tullox Shoes are constructed in South East Asia according to the -------  standards for durability and comfort.
 
-62.The assistant office manager,Ms. Reed, will explainthe  paper recycling policy at the next weekly meeting.
+- (A) strictly
 
-- (A) revise
-- (B)revised
-- (C) revising
-- (D)revision
+- (B) more strictly
 
-63.Pacific Home Designs has been a reliable -------of home  furnishings for morethan 30 years.
+- ##### (C) strictest
 
-- (A) manufacture
-- (B) manufactures
-- (C) manufacturing
-- (D) manufacturer
-
-64.Mr. Li should be available to meet with the newly hired employees  this week as he has no ------- travel plans.
-
-- (A)schedule
-- (B) scheduled
-- (C) scheduling
-- (D)scheduler
-
-65.To spread the workload more------- within the organization, the  project team has decided to assign roles to specific individuals.
-
-- (A) even
-- (B) evens
-- (C)evening
-- (D) evenly
-
-66. -------are nearly complete for the product demonstration at the  press conference on Friday next week.
-
-- (A)Preparations
-- (B)Prepare
-- (C) Prepares
-- (D) Preparers
-
-67.An-------large number of our customers now make reservations  online rather than by phone.
-
-- (A) increase
-- (B) increases
-- (C)increasing
-- (D)increasingly
-
-68.News of Felix Schneider’s retirement spread quickly as he had  made many friendsand ------- during his 20 years on the job.
-
-- (A) acquaint
-- (B) acquainted
-- (C)acquaintance
-- (D) acquaintances
-
-69.The advertising campaigns Mr. Weyden had developed before he  left were-------implemented by his colleagues.
-
-- (A)subsequent
-- (B) most subsequent
-- (C)subsequently
-- (D) subsequence
-
-70. Under-------and CEO Jack Thompson, Thompson Legal has  become a successful law firm within a relatively short span of time.
-
-- (A) foundation
-- (B)founder
-- (C)found
-- (D)founded
-
-71.Mr. Aiden Roy,an award-winning------- at Calgary Daily Press, has agreed to chair an ad hoc committee on the newspaper’s 75th anniversary.
-
-- (A) journal
-- (B)journalism
-- (C) journalist
-- (D)journalistic
-
-72.The award will promote workplace values within the company  by giving recognition to successful managers who demonstrate for subordinates.
-
-- (A) respect
-- (B)respected
-- (C) respecting
-- (D)respectable
-
-73.Small manufacturers operating using a limited workforce with  skills have recently been on the rise.
-
-- (A) specialize
-- (B) specialized
-- (C) specializing
-- (D) specialization
-
-74.Happy Wholesale is the main-------of Wonder Toys’ products  including toys, video games, and kids’ PCs.
-
-- (A)distributor
-- (B) distributing
-- (C)distribute
-- (D) distribution
-
-75. Current plant workers will be given hiring preference for the newly  ------- jobs at the company’s production facility in Kawasaki.
-
-- (A) creates
-- (B) creating
-- (C) created
-- (D) creation
-
-76. As of February 1, the no-smoking policy at the Mountain Tower  apartments will be more-------enforced.
-
-- (A)strict
-- (B) strictly
-- (C) stricter
 - (D) strictness
 
-77.In the last decade, there has been a ------- rapid increase in the  number of public locations for wireless Internet usage.
+☑ 31.The highly anticipated second album of William Roy is -------   from the first but no less remarkable.
+
+- ##### (A) distinct
+
+- (B) distinguish
+
+- (C) distinction
+
+- (D) distinctly
+
+☑ 32.The mission of the university store is to provide a wide range of  ------- priced merchandise to students and faculty members.
+
+- (A) compete
+
+- (B) competiive
+
+- ##### (C) competitively
+
+- (D) competition
+
+☑ <font color="red">33.</font>Easy to handle, light, maneuverable, and powerful, the lawnmower  is perfectly -------to small lawns of up to 2,000 square feet.
+
+- (A) suit
+
+- ##### (B) suited
+
+- (C) suiting
+
+- (D) suits
+
+☑ 34.Japanese cuisine has received a lot of attention in the last 10 years, and ------- has gained popularity all over the world.
+
+- (A) consequent
+
+- ##### (B) consequently
+
+- (C) consequence
+
+- (D) consequences
+
+☑ 35.Should you require------- with your selection of tools, please talk  to one of our experienced advisors.
+
+- (A) assist
+
+- (B) assisted
+
+- ##### (C) assistance
+
+- (D) assists
+
+☑ 36.Not only does the new sedan have an ------- design, but it also  offers its passengers more luggage room.
+
+- (A) appeal
+
+- (B) appealed
+
+- ##### (C) appealing
+
+- (D) appealingly
+
+☑ 37.-------scheduling vacation leave of one full week or more must  obtain permission from their supervisors in advance.
+
+- (A) Employs
+
+- (B) Employed
+
+- (C) Employment
+
+- ##### (D) Employees
+
+☑ 38.New - - - - are eligible for a 30 day free trial period and will  receive one free song download upon signing up.
+
+- (A) subscribe
+
+- (B) subscriptions
+
+- (C) subscribed
+
+- ##### (D) subscribers
+
+☑ 39.Rubber------- are working hard to fill orders from the automobile  industry which is expecting to sell record numbers of vehicles this year.
+
+- (A) produce
+
+- (B) produces
+
+- (C) productions
+
+- ##### (D) producers
+
+☑ 40.Fast & Falls is a Dallas-based interior design firm, known for -------  service and a sophisticated style.
+
+- ##### (A) personalized
+
+- (B) personalize
+
+- (C) personalizes
+
+- (D) personalizing
+
+☑ 41.This-------should only be taken as directed by a qualified  physician.
+
+- ##### (A) medication
+
+- (B) medically
+
+- (C) medicated
+
+- (D) medications
+
+☑ 42.The jewelry box is covered in a thin layer of hand-stitched black  leather stretched------- around the frame.
+
+- (A) tightening
+
+- ##### (B) tightly
+
+- (C) tighten
+
+- (D) tightness
+
+☑ 43.Fun Toys is pleased to announce two shipments of the popular  game will arrive this month, the first of which should come --.
+
+- ##### (A) shortly
+
+- (B) shorten
+
+- (C) short
+
+- (D) shortness
+
+☑ <font color="red">44.</font>Ms. Watanabe’s new coffee tumbler, which cost over 30 dollars, is stylish as well as-------.
+
+- (A) function
+
+- (B) functioned
+
+- ##### (C) functional
+
+- (D) functionally
+
+☑ 45.When placing an order during holiday seasons, please note that  it will take ------five to seven days for the delivery.
+
+- (A) approximate
+
+- ##### (B) approximately
+
+- (C) approximation
+
+- (D) approximates
+
+☑ 46.Justin Moore’s -------jazz album from Spark Records combines  modern rhythms with traditional elements.
+
+- (A) newer
+
+- (B) newly
+
+- ##### (C)newest
+
+- (D)newness
+
+☑ 47.The Darren Theater opened on Oct.5, 1987,-------eight years  before Ms. Gonzalez was hired.
+
+- (A) precise
+
+- (B) precision
+
+- ##### (C) precisely
+
+- (D) preciseness
+
+☑ 48.Mr.McConnell studied Japanese business culture and practices  ------- before transferring to the Sendai branch.
+
+- (A) exhaustive
+
+- (B) exhaustion
+
+- (C) exhausting
+
+- ##### (D) exhaustively
+
+☑ 49.Located near the Dallas Convention Center, Hotel Camel is the  perfect choice for convention-------who want accommodations close to the venue.
+
+- (A) attendance
+
+- ##### (B) attendees
+
+- (C) attend
+
+- (D) attended
+
+☑ 50.Mr. Larsen’s name, which appeared in the original movie, was  mistakenly removed from the -------version.
+
+- (A) edit
+
+- ##### (B) edited
+
+- (C) editing
+
+- (D) edits
+
+☑ 51.Only one year after its-------, Denton Publishing was awarded  the Prize for Exceptional Creativity at an international competition in Vienna.
+
+- (A) found
+
+- (B) foundations
+
+- (C) founded
+
+- ##### (D) foundation
+
+☑ 52.Grape Computers is known for running –––– commercials to  promote its innovative electronic devices.
+
+- ##### (A) imaginative
+
+- (B) imagination
+
+- (C) imagine
+
+- (D) imaginary
+
+☑ 53.Original copies of Pirate Island are ------- rare, with only 18 copies in existence, of which 12 are in private hands.
+
+- (A) excessive
+
+- (B) exceed
+
+- (C) excess
+
+- ##### (D) exceedingly
+
+☑ <font color="red">54.</font>Most users agree that the new smartphone has a- ---— better  picture and sound quality.
+
+- (A) notice
+
+- (B) noticeable
+
+- ##### (C)noticeably
+
+- (D)noticing
+
+☑ 55.While Fire Art’s new video games have already been launched in  Asia, they will not be available-------anytime soon.
+
+- (A) globe
+
+- (B) global
+
+- ##### (C) globally
+
+- (D) globalization
+
+☑ 56.Presented by Whole Family Foods, the event will feature cooking -------  and activities for kids.
+
+- ##### (A) demonstrations
+
+- (B) demonstrates
+
+- (C) demonstrator
+
+- (D) demonstrated
+
+☑ <font color="red">57.</font>Paul Tanaka, the founder of Wheaton Technology, will come to  the Seattle headquarters to participate in------- and interact with employees.
+
+- (A) lecture
+
+- (B) lectured
+
+- ##### (C) lectures
+
+- (D)lecturer
+
+☑ 58.All staff members of Premium Promotion have extensive  experience in------- or a related field.
+
+- ##### (A) advertising
+
+- (B) advertiser
+
+- (C) advertised
+
+- (D) advertises
+
+☑ 59.The award ceremony would not have been possible without  ------- from several members, notably Mal Benjamin, who chairs the award committee.
+
+- (A) contribute
+
+- (B) contributed
+
+- ##### (C)contributions
+
+- (D) contributor
+
+☑ 60.Since the benefits seemed evident, Mr. Tucker was ----that his  proposal would be accepted by the board of directors.
+
+- ##### (A) confident
+
+- (B) confidential
+
+- (C) confidently
+
+- (D) confidence
+
+☑ 61.All requests for personal time off must be submitted for  -------  using the appropriate request form.
+
+- (A) approve
+
+- (B) approved
+
+- ##### (C) approval
+
+- (D) approvingly
+
+☑ 62.The assistant office manager,Ms. Reed, will explain the -------  paper recycling policy at the next weekly meeting.
+
+- (A) revise
+
+- ##### (B) revised
+
+- (C) revising
+
+- (D)revision
+
+☑ 63.Pacific Home Designs has been a reliable -------of home  furnishings for morethan 30 years.
+
+- (A) manufacture
+
+- (B) manufactures
+
+- (C) manufacturing
+
+- ##### (D) manufacturer
+
+☑ 64.Mr. Li should be available to meet with the newly hired employees  this week as he has no ------- travel plans.
+
+- (A) schedule
+
+- ##### (B) scheduled
+
+- (C) scheduling
+
+- (D) scheduler
+
+☑ <font color="red">65.</font>To spread the workload more------- within the organization, the  project team has decided to assign roles to specific individuals.
+
+- (A) even
+
+- (B) evens
+
+- (C) evening
+
+- ##### (D) evenly
+
+☑ 66.-------are nearly complete for the product demonstration at the  press conference on Friday next week.
+
+- ##### (A) Preparations
+
+- (B) Prepare
+
+- (C) Prepares
+
+- (D) Preparers
+
+☑ 67.An-------large number of our customers now make reservations  online rather than by phone.
+
+- (A) increase
+
+- (B) increases
+
+- (C) increasing
+
+- ##### (D) increasingly
+
+☑ <font color="red">68.</font>News of Felix Schneider’s retirement spread quickly as he had  made many friendsand ------- during his 20 years on the job.
+
+- (A) acquaint
+
+- (B) acquainted
+
+- (C)acquaintance
+
+- ##### (D) acquaintances
+
+☑ 69.The advertising campaigns Mr. Weyden had developed before he  left were-------implemented by his colleagues.
+
+- (A) subsequent
+
+- (B) most subsequent
+
+- ##### (C) subsequently
+
+- (D) subsequence
+
+☑ 70.Under-------and CEO Jack Thompson, Thompson Legal has  become a successful law firm within a relatively short span of time.
+
+- (A) foundation
+
+- ##### (B) founder
+
+- (C) found
+
+- (D) founded
+
+☑ 71.Mr. Aiden Roy,an award-winning------- at Calgary Daily Press, has agreed to chair an ad hoc committee on the newspaper’s 75th anniversary.
+
+- (A) journal
+
+- (B) journalism
+
+- ##### (C) journalist
+
+- (D)journalistic
+
+☑ 72.The award will promote workplace values within the company  by giving recognition to successful managers who demonstrate -------  for subordinates.
+
+- ##### (A) respect
+
+- (B)respected
+
+- (C) respecting
+
+- (D)respectable
+
+☑ 73.Small manufacturers operating using a limited workforce with  ------- skills have recently been on the rise.
+
+- (A) specialize
+
+- ##### (B) specialized
+
+- (C) specializing
+
+- (D) specialization
+
+☑ 74.Happy Wholesale is the main-------of Wonder Toys’ products  including toys, video games, and kids’ PCs.
+
+- ##### (A) distributor
+
+- (B) distributing
+
+- (C) distribute
+
+- (D) distribution
+
+☑ 75.Current plant workers will be given hiring preference for the newly  ------- jobs at the company’s production facility in Kawasaki.
+
+- (A) creates
+
+- (B) creating
+
+- ##### (C) created
+
+- (D) creation
+
+☑ <font color="red">76.</font>As of February 1, the no-smoking policy at the Mountain Tower  apartments will be more-------enforced.
+
+- (A) strict
+
+- ##### (B) strictly
+
+- (C) stricter
+
+- (D) strictness
+
+☑ 77.In the last decade, there has been a ------- rapid increase in the  number of public locations for wireless Internet usage.
 
 - (A) remark
-- (B) remarks
-- (C) remarking
-- (D) remarkably
 
-78. All products made by Trust Computers come with a user’s  manual that contains------- for installation as well as operating procedures.
+- (B) remarks
+
+- (C) remarking
+
+- ##### (D) remarkably
+
+☑ <font color="red">78.</font>All products made by Trust Computers come with a user’s  manual that contains------- for installation as well as operating procedures.
 
 - (A) explain
-- (B) explanatory
-- (C)explanations
-- (D)explaining
 
-79. During the workshop, small business owners will learn how to  develop------- business relationships with their clients.
+- (B) explanatory
+
+- ##### (C) explanations
+
+- (D) explaining
+
+☑ <font color="red">79.</font>During the workshop, small business owners will learn how to  develop------- business relationships with their clients.
 
 - (A) prosper
+
 - (B) prosperity
-- (C) prosperous
+
+- ##### (C) prosperous
+
 - (D)prospered
 
-80.Green Net Corporation reported a net profit of 40 millin dollars  for the third quarter,------- exceeding analysts’ forecasts.
+☑ 80.Green Net Corporation reported a net profit of 40 millin dollars  for the third quarter,------- exceeding analysts’ forecasts.
 
-- (A)easy
+- (A) easy
+
 - (B) easing
-- (C)ease
-- (D)easily
 
-81.Tiger Motors intentionally cut back on fleet sales, which are less  than sales to individual customers.
+- (C) ease
+
+- ##### (D) easily
+
+☑ <font color="red">81.</font>Tiger Motors intentionally cut back on fleet sales, which are less -------  than sales to individual customers.
 
 - (A) profit
-- (B) profitable
+
+- ##### (B) profitable
+
 - (C) profitably
+
 - (D) profits
 
-82.Newly hired staff members are required to attend a three-day  training course on airport-------.
+☑ 82.Newly hired staff members are required to attend a three-day  training course on airport-------.
 
 - (A) secure
+
 - (B) secured
-- (C)security
+
+- ##### (C) security
+
 - (D) securely
 
-83.Diego Martinez is going to appear on a prime-time news program  as a ------- for the anchor,David Lee.
+☑ 83.Diego Martinez is going to appear on a prime-time news program  as a ------- for the anchor,David Lee.
 
-- (A) substitute
+- ##### (A) substitute
+
 - (B) substitutive
+
 - (C) substitutions
+
 - (D) substitutes
 
-84. Charlie Evans starts his day with a cup of coffee at Turner’s Café ----- every morning.
+☑ 84.Charlie Evans starts his day with a cup of coffee at Turner’s Café ----- every morning.
 
 - (A) practical
-- (B) practically
+
+- ##### (B) practically
+
 - (C) practice
+
 - (D) practicing
 
-85.If you wish to enroll in the course, please complete the  application form and send it to us as quickly as possible.
+☑ 85.If you wish to enroll in the course, please complete the   ------- application form and send it to us as quickly as possible.
 
 - (A) attach
+
 - (B) attaching
-- (C) attached
+
+- ##### (C) attached
+
 - (D) attachment
 
-86.The delayed departure of the plane added a further to Mr. Gonzalez’s journey.
+☑ 86.The delayed departure of the plane added a further  ------- to Mr. Gonzalez’s journey.
 
 - (A) complications
+
 - (B) complicated
-- (C)complicating
-- (D) complication
 
-87. Nelson College of Marketing will take on a more -------strategy  to attract participants for its training workshops.
+- (C) complicating
 
-- (A)aggressive
+- ##### (D) complication
+
+☑ 87.Nelson College of Marketing will take on a more -------strategy  to attract participants for its training workshops.
+
+- ##### (A) aggressive
+
 - (B) aggressively
+
 - (C) aggression
+
 - (D) aggressor
 
-88.Charmody skin cream is only effective if applied-------and  immediately after the skin has been washed.
+☑ 88.Charmody skin cream is only effective if applied-------and  immediately after the skin has been washed.
 
 - (A) correction
-- (B) correctly
+
+- ##### (B) correctly
+
 - (C) correcting
+
 - (D) corrects
 
-89. Every business owner knows that quality of service is a top  ------ to attract and retain customers.
+☑ 89.Every business owner knows that quality of service is a top  ------ to attract and retain customers.
 
 - (A) prior
-- (B) priority
+
+- ##### (B) priority
+
 - (C) prioritize
+
 - (D) prioritized
 
-90.Lion Construction reported yesterday that its net income had  increased by nearly 20 percent in the second quarter, mainly because of------- market conditions.
+☑ 90.Lion Construction reported yesterday that its net income had  increased by nearly 20 percent in the second quarter, mainly because of------- market conditions.
 
 - (A) improve
-- (B) improved
+
+- ##### (B) improved
+
 - (C) improves
+
 - (D) improvement
 
-91.With time running out before the busy season, the board  approved a plan to hire temporary factory workers until production targets were met.
+☑ 91.With time running out before the busy season, the board ------- approved a plan to hire temporary factory workers until production targets were met.
 
-- (A) swiftly
-- (B)swift
+- ##### (A) swiftly
+
+- (B) swift
+
 - (C)swiftness
+
 - (D)swifts
 
-92.The hiring committee have-------decided that they will appoint  Mr.Tremblay as the next CEO.
+☑ 92.The hiring committee have-------decided that they will appoint  Mr.Tremblay as the next CEO.
 
-- (A)seeming
-- (B)seemingly
-- (C)to seem
+- (A) seeming
+
+- ##### (B) seemingly
+
+- (C) to seem
+
 - (D) seems
 
-93.Tracy Hahn is a ------- trained pastry chef who has been working  professionally with chocolate for over 10 years.
+☑ 93.Tracy Hahn is a ------- trained pastry chef who has been working  professionally with chocolate for over 10 years.
 
 - (A) formal
-- (B)formally
+
+- ##### (B)formally
+
 - (C)formalize
+
 - (D) formality
 
-94.Mr. Gao-------grants interviews and almost never allows  journalists onto his company’s campus.
+☑ 94.Mr. Gao-------grants interviews and almost never allows  journalists onto his company’s campus.
 
 - (A) rare
-- (B) rarely
+
+- ##### (B) rarely
+
 - (C) rarity
+
 - (D) rareness
 
-95. Big Buy, an appliance-------serving New Jersey, has recently  opened a new store on Route 17 in Paramus.
+☑ 95.Big Buy, an appliance-------serving New Jersey, has recently  opened a new store on Route 17 in Paramus.
 
-- (A) retailer
-- (B)retail
+- ##### (A) retailer
+
+- (B) retail
+
 - (C) retailed
+
 - (D) retailers
 
-96.Janet Morris ------- declined an award for product design, as she  felt others had contributed much more than her.
+☑ 96.Janet Morris ------- declined an award for product design, as she  felt others had contributed much more than her.
 
-- (A)respect
+- (A) respect
+
 - (B) respectful
-- (C)respectfully
+
+- ##### (C) respectfully
+
 - (D) respects
 
-97. After their flight was canceled, the airline assured passengers  that------- had been made for them to stay at a hotel.
+☑ 97.After their flight was canceled, the airline assured passengers  that------- had been made for them to stay at a hotel.
 
 - (A) arrange
-- (B)arranges
-- (C)arranging
-- (D) arrangements
 
-98. Walter Kling, an accomplished fashion-------, has been hired by  the company to create images for the May catalog.
+- (B) arranges
 
-- (A)photograph
-- (B)photography
-- (C)photographic
-- (D) photographer
+- (C) arranging
 
-99.A team of animators was employed to create ------- unique  animated logos for the company’s television advertisements.
+- ##### (D) arrangements
+
+☑ 98.Walter Kling, an accomplished fashion-------, has been hired by  the company to create images for the May catalog.
+
+- (A) photograph
+
+- (B) photography
+
+- (C) photographic
+
+- ##### (D) photographer
+
+☑ 99.A team of animators was employed to create ------- unique  animated logos for the company’s television advertisements.
 
 - (A) visualize
+
 - (B) visuals
-- (C) visually
+
+- ##### (C) visually
+
 - (D) visualizes
 
-100.Please refer to the product identification-------, which is printed  in the upper right hand corner of the warranty.
+☑ 100.Please refer to the product identification-------, which is printed  in the upper right hand corner of the warranty.
 
-- (A) number
+- ##### (A) number
+
 - (B) numbers
+
 - (C) numbered
+
 - (D)numbering
 
 1. Residents were concerned about increased traffic and—so, considering the size of the housing project approved for their suburb.
