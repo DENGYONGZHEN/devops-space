@@ -2762,804 +2762,1025 @@ recently（副詞） recent（形容詞）
 
 - (D)numbering
 
-1. Residents were concerned about increased traffic and—so, considering the size of the housing project approved for their suburb.
+##### ☑ 1.Residents were concerned about increased traffic and--------so, considering the size of the housing project approved for their suburb.
 
 - (A) understood
+
 - (B) understandable
-- (C) understandably
+
+- ##### (C) understandably
+
 - (D) understanding
 
-2. Any information about the impending merger with Sakura First  Bank should be kept strictly--------
+☑ 2.Any information about the impending merger with Sakura First  Bank should be kept strictly--------
 
-- (A)confide
-- (B)confides
-- (C) confidential
+- (A) confide
+
+- (B) confides
+
+- ##### (C) confidential
+
 - (D) confidentially
 
-3. The Archeological Museum of New York is an inexpensive attraction  that is not listed in major guidebooks but well ------- a visit.
+☑ 3.The Archeological Museum of New York is an inexpensive attraction  that is not listed in major guidebooks but well ------- a visit.
 
-- (A) worth
+- ##### (A) worth
+
 - (B) worthy
-- (C)worthwhile
-- (D)worthless
 
-4. the most important invention of the last 60 years, computers are used in almost every aspect of our lives.
+- (C) worthwhile
+
+- (D) worthless
+
+##### ☑ 4. ------- the most important invention of the last 60 years, computers are used in almost every aspect of our lives.
 
 - (A) Argue
-- (B)Arguing
-- (C)Arguably
+
+- (B) Arguing
+
+- ##### (C) Arguably
+
 - (D) Argument
 
-5. with this letter is a survey, which should be returned using  the self-addressed envelope also supplied.
+☑ 5. ------- with this letter is a survey, which should be returned using  the self-addressed envelope also supplied.
 
-- (A)Enclosed
-- (B)Enclose
-- (C)Enclosing
+- ##### (A) Enclosed
+
+- (B) Enclose
+
+- (C) Enclosing
+
 - (D) Enclosure
 
-6. The Green Scholars Program offers undergraduate students who  have a-------interest in environmental issues an opportunity to attend the Oslo Green Forum.
+☑ 6.The Green Scholars Program offers undergraduate students who  have a-------interest in environmental issues an opportunity to attend the Oslo Green Forum.
 
 - (A) demonstrate
-- (B) demonstrated
+
+- ##### (B) demonstrated
+
 - (C) demonstrating
+
 - (D) demonstration
 
-7. The ideal candidate for the position will require at least 10 years  of work experience in human resources at a -------level.
+##### ☑ 7.The ideal candidate for the position will require at least 10 years  of work experience in human resources at a -------level.
 
 - (A)manage
+
 - (B) manageable
+
 - (C)manageably
-- (D) managerial
 
-8. To ventilate your home duringthe summer, windows and internal  doors should be left ------- overnight in a secure manner.
+- ##### (D) managerial
 
-- (A)open
-- (B)opening
-- (C)opener
+☑ 8.To ventilate your home during the summer, windows and internal  doors should be left ------- overnight in a secure manner.
+
+- ##### (A) open
+
+- (B) opening
+
+- (C) opener
+
 - (D) opens
 
-9. Scientists at Warsaw’s Central Laboratory have been trying to  find cleaner ways of-------coal.
+☑ 9.Scientists at Warsaw’s Central Laboratory have been trying to  find cleaner ways of-------coal.
 
-- (A)burn
-- (B)burned
-- (C)burning
-- (D)burns
+- (A) burn
 
-10.All -------must be picked up from the storage room at least one  hour before the store opens.
+- (B) burned
 
-- (A)delivery
-- (B) deliveries
-- (C)delivers
+- ##### (C) burning
+
+- (D) burns
+
+☑ 10.All -------must be picked up from the storage room at least one  hour before the store opens.
+
+- (A) delivery
+
+- ##### (B) deliveries
+
+- (C) delivers
+
 - (D) delivering
 
-11. A survey shows that only an ------- 30 percent of the workforce in  the textile industry is female.
+☑ 11.A survey shows that only an ------- 30 percent of the workforce in  the textile industry is female.
 
 - (A) estimate
-- (B) estimates
-- (C) estimated
-- (D)estimating
 
-12.Nishiwaki Corporation has been acquired by Blue Ocean  Electronics in a deal ------- at 1 billion yen.
+- (B) estimates
+
+- ##### (C) estimated
+
+- (D) estimating
+
+##### ☑ 12.Nishiwaki Corporation has been acquired by Blue Ocean  Electronics in a deal ------- at 1 billion yen.
 
 - (A) value
-- (B) valued
+
+- ##### (B) valued
+
 - (C) valuation
+
 - (D) values
 
-13.The rules-------employee use of company-owned mobile  phones are outlined in the employee handbook.
+☑ 13.The rules-------employee use of company-owned mobile  phones are outlined in the employee handbook.
 
-- (A)concerning
+- ##### (A) concerning
+
 - (B) concern
-- (C)concerns
+
+- (C) concerns
+
 - (D) concerned
 
-14.Factory workers were ------- of the company for its failure to  keep them informed about the shutdown plans.
+##### ☑ 14.Factory workers were ------- of the company for its failure to  keep them informed about the shutdown plans.
 
-- (A) critical
+- ##### (A) critical
+
 - (B) critic
+
 - (C) criticized
+
 - (D) criticism
 
-15. FastLine Computers opened 10 call centers last year and plans  to add another 10 this year as part of its growth -------.
+☑ 15.FastLine Computers opened 10 call centers last year and plans  to add another 10 this year as part of its growth -------.
 
 - (A) initial
+
 - (B) initially
-- (C) initiative
+
+- ##### (C) initiative
+
 - (D) initialization
 
-16.------- to the state from Europe consist of food and beverages  despite the large farming industry that exists here.
+##### ☑ 16.------- to the state from Europe consist of food and beverages  despite the large farming industry that exists here.
 
-- (A) Imports
+- ##### (A) Imports
+
 - (B) Importing
-- (C)Importers
+
+- (C) Importers
+
 - (D) Imported
 
-17.Only applications from candidates who meet all eligibility  will be replied to.
+☑ 17.Only applications from candidates who meet all eligibility ------- will be replied to.
 
 - (A) require
+
 - (B) requirement
-- (C) requirements
+
+- ##### (C) requirements
+
 - (D) requires
 
-18. Some industry experts predict that Sunrise Computers will  continue to make ------- in computer technology.
+##### ☑ 18.Some industry experts predict that Sunrise Computers will  continue to make ------- in computer technology.
 
-- (A)advance
-- (B) advances
-- (C)advancing
+- (A) advance
+
+- ##### (B) advances
+
+- (C) advancing
+
 - (D) advanced
 
-19.Icon Air confirmed today that it plans to resume aircraft — ---at  its factory in Kerrville in January after a five-year absence from the market.
+☑ 19.Icon Air confirmed today that it plans to resume aircraft — ---at  its factory in Kerrville in January after a five-year absence from the market.
 
 - (A) product
-- (B)produced
-- (C)produce
-- (D) production
 
-20.Furniture------- made online may be returned for any reason, so  long as the packaging has not been removed.
+- (B) produced
+
+- (C) produce
+
+- ##### (D) production
+
+☑ 20.Furniture------- made online may be returned for any reason, so  long as the packaging has not been removed.
 
 - (A) purchase
-- (B) purchases
-- (C)purchased
+
+- ##### (B) purchases
+
+- (C) purchased
+
 - (D) purchasing
 
-21.Prospective students are required to complete the introductory  course prior to-------for Advanced Programming Theory.
+##### ☑ 21.Prospective students are required to complete the introductory  course prior to-------for Advanced Programming Theory.
 
-- (A)register
+- (A) register
+
 - (B) registered
-- (C) registering
+
+- ##### (C) registering
+
 - (D) registrar
 
-22. Far more calls were received from disappointed fans than  after the concerts by Jack Chan were canceled.
+☑ 22.Far more calls were received from disappointed fans than ------- after the concerts by Jack Chan were canceled.
 
 - (A) anticipate
-- (B) anticipation
-- (C) anticipating
-- (D) anticipated
 
-23.The Indiana Mineral Association has secured a room rate of $109 per night ------- taxes at the Marion Hotel during the annual convention.
+- (B) anticipation
+
+- (C) anticipating
+
+- ##### (D) anticipated
+
+☑ 23.The Indiana Mineral Association has secured a room rate of $109 per night ------- taxes at the Marion Hotel during the annual convention.
 
 - (A) exclude
-- (B)excluded
-- (C) excluding
+
+- (B) excluded
+
+- ##### (C) excluding
+
 - (D) excludes
 
-24.Cooper House dental surgery recognizes that all members of  the team have a legal and ethical duty to keep patient confidential.
+##### ☑ 24.Cooper House dental surgery recognizes that all members of  the team have a legal and ethical duty to keep patient ------- confidential.
 
-- (A)informed
+- (A) informed
+
 - (B) informative
-- (C)informatively
-- (D) information
 
-25.The amount of traffic the company Web site attracted before the  product launch was an ------- sign for the marketing division.
+- (C) informatively
+
+- ##### (D) information
+
+☑ 25.The amount of traffic the company Web site attracted before the  product launch was an ------- sign for the marketing division.
 
 - (A) encourage
+
 - (B) encouraged
-- (C) encouraging
+
+- ##### (C) encouraging
+
 - (D) encourages
 
-26.As a special benefit for conference attendees, complimentary  Wi-Fi service will be available in hotel rooms ------- through this Web site.
+☑ 26.As a special benefit for conference attendees, complimentary  Wi-Fi service will be available in hotel rooms ------- through this Web site.
 
-- (A)book
-- (B)booked
-- (C)books
-- (D)booking
+- (A) book
 
-27.It was decided to post the important safety video on the Internet  to ensure that it reached the-------possible audience.
+- ##### (B) booked
 
-- (A)broadest
-- (B)broad
-- (C)broadly
+- (C) books
+
+- (D) booking
+
+##### ☑ 27.It was decided to post the important safety video on the Internet  to ensure that it reached the-------possible audience.
+
+- ##### (A) broadest
+
+- (B) broad
+
+- (C) broadly
+
 - (D) broaden
 
-28. The parks department has plans for three new inner city parks  and has made the information------- accessible from its Web site.
+☑ 28.The parks department has plans for three new inner city parks  and has made the information------- accessible from its Web site.
 
-- (A)readily
-- (B)ready
-- (C)readying
+- ##### (A) readily
+
+- (B) ready
+
+- (C) readying
+
 - (D) readiness
 
-29. Eagle Joe’s Pizza delivers to Mermaid Waters and — areas at  no extra cost.
+☑ 29.Eagle Joe’s Pizza delivers to Mermaid Waters and — areas at  no extra cost.
 
-- (A)surround
-- (B) surrounding
-- (C)surrounded
+- (A) surround
+
+- ##### (B) surrounding
+
+- (C) surrounded
+
 - (D) surrounds
 
-30.Alan Chan was entrusted with a ------- and costly project due to  the high degree of success he had been enjoying.
+☑ 30.Alan Chan was entrusted with a ------- and costly project due to  the high degree of success he had been enjoying.
 
 - (A) challenge
+
 - (B) challenged
-- (C)challenging
+
+- ##### (C) challenging
+
 - (D) challengingly
 
-31.-------housed in a facility designed by a Swiss architecture firm, the Nagano Youth Museum reopened in October 2012.
+☑ 31.-------housed in a facility designed by a Swiss architecture firm, the Nagano Youth Museum reopened in October 2012.
 
 - (A) New
-- (B)Newest
-- (C)Newness
-- (D) Newly
 
-32.The apparel catalog is divided into ------- by clothing type so that  customers can easily locate the items they wish to purchase.
+- (B) Newest
+
+- (C) Newness
+
+- ##### (D) Newly
+
+☑ 32.The apparel catalog is divided into ------- by clothing type so that  customers can easily locate the items they wish to purchase.
 
 - (A) section
-- (B)sections
-- (C)sectioning
-- (D)sectioned
 
-33. With its spas, saunas, massage rooms, and fitness center, Stallard Towers Hotel provides a ------- stay for business and leisure travelers alike.
+- ##### (B) sections
+
+- (C) sectioning
+
+- (D) sectioned
+
+☑ 33.With its spas, saunas, massage rooms, and fitness center, Stallard Towers Hotel provides a ------- stay for business and leisure travelers alike.
 
 - (A) refresh
-- (B)refreshed
-- (C)refreshing
+
+- (B) refreshed
+
+- ##### (C) refreshing
+
 - (D) refreshments
 
-34. Colorado Café will introduce a new line of coffee with a free  at Braxton Supermarket on Thursday, June 16, from 2 P.M.
+##### ☑ 34.Colorado Café will introduce a new line of coffee with a free  -------  at Braxton Supermarket on Thursday, June 16, from 2 P.M.
 
-- (A) tasting
+- ##### (A) tasting
+
 - (B) tasty
-- (C)tasted
+
+- (C) tasted
+
 - (D) taste
 
-35. A recent survey found that more than a quarter of Japanese  mobile broadband subscribers are ------- to renew their contracts.
+##### ☑ 35.A recent survey found that more than a quarter of Japanese  mobile broadband subscribers are ------- to renew their contracts.
 
-- (A)unlike
+- (A) unlike
+
 - (B) unlikable
-- (C)unlikely
-- (D)unlikeness
 
-36. After having lived in a small town in Ohio for ten years, Ms. Wright wants to move to a more------- city like New York.
+- ##### (C) unlikely
+
+- (D) unlikeness
+
+☑ 36.After having lived in a small town in Ohio for ten years, Ms. Wright wants to move to a more------- city like New York.
 
 - (A)stimulate
-- (B) stimulated
-- (C)stimulates
-- (D) stimulating
 
-37.This book contains 15 tips to help improve ------- morale and  boost productivity within an organization.
+- (B) stimulated
+
+- (C)stimulates
+
+- ##### (D) stimulating
+
+☑ 37.This book contains 15 tips to help improve ------- morale and  boost productivity within an organization.
 
 - (A) employ
-- (B)employed
-- (C)employs
-- (D) employee
 
-38. Now the owner of a large restaurant chain, Mr. Lim believes that  persistence is a ------- of a successful entrepreneur.
+- (B) employed
+
+- (C) employs
+
+- ##### (D) employee
+
+##### ☑ 38.Now the owner of a large restaurant chain, Mr. Lim believes that  persistence is a ------- of a successful entrepreneur.
 
 - (A) characterize
+
 - (B) characters
-- (C)characteristic
+
+- ##### (C) characteristic
+
 - (D) characterization
 
-39. According to a recent survey, real estate agencies remain  cautiously------- about the housing market in Miami.
+##### ☑ 39.According to a recent survey, real estate agencies remain  cautiously------- about the housing market in Miami.
 
-- (A) optimistic
+- ##### (A) optimistic
+
 - (B) optimize
+
 - (C) optimistically
+
 - (D) optimism
 
-40.In her recent book, Marketing Success, the author claims that  ------ targeting specific audiences are often the most successful.
+☑ 40.In her recent book, Marketing Success, the author claims that  ------ targeting specific audiences are often the most successful.
 
-- (A) advertisements
+- ##### (A) advertisements
+
 - (B) advertised
+
 - (C) advertising
+
 - (D) advertises
 
-41. Thanks to clear skies and careful -------, the seventh annual  Greenfield Road Race saw its biggest turnout yet,with approximately 500 runners.
+##### ☑ 41.Thanks to clear skies and careful -------, the seventh annual  Greenfield Road Race saw its biggest turnout yet,with approximately 500 runners.
 
 - (A) plan
-- (B)planned
-- (C)planning
+
+- (B) planned
+
+- ##### (C) planning
+
 - (D) planner
 
-42.The Axis 3000, a new energy-efficient hybrid car, has extraordinary  ------- for global sales, said automotive writer, Alex Tokudaiji.
+##### ☑ 42.The Axis 3000, a new energy-efficient hybrid car, has extraordinary  ------- for global sales, said automotive writer, Alex Tokudaiji.
 
 - (A) potent
-- (B) potential
-- (C)potentially
+
+- ##### (B) potential
+
+- (C) potentially
+
 - (D) potentiality
 
-43. Mr. Hoffman, a company spokesperson, said on TV that Nile  Electronics Ltd. has raised worker-------through consistent training programs.
+##### ☑ 43.Mr. Hoffman, a company spokesperson, said on TV that Nile  Electronics Ltd. has raised worker-------through consistent training programs.
 
-- (A) productivity
+- ##### (A) productivity
+
 - (B) produces
+
 - (C) to produce
-- (D)productively
 
-44.Since its -------50 years ago, the Richmond Chamber of  Commerce has worked tirelessly to build the local economy.
+- (D) productively
 
-- (A)establish
-- (B) establishment
+##### ☑ 44.Since its -------50 years ago, the Richmond Chamber of  Commerce has worked tirelessly to build the local economy.
+
+- (A) establish
+
+- ##### (B) establishment
+
 - (C) establishments
+
 - (D) established
 
-45.Seaside Resort Hotel is offering------- of up to 40 percent on all  stays until September 30 as long as they are booked by July 1.
+☑ 45.Seaside Resort Hotel is offering------- of up to 40 percent on all  stays until September 30 as long as they are booked by July 1.
 
-- (A) discounts
+- ##### (A) discounts
+
 - (B) discount
-- (C)discounter
+
+- (C) discounter
+
 - (D) discounting
 
-46.If guests find noise from the renovation work-------,they may  transfer to another local hotel after the first day.
+##### ☑ 46.If guests find noise from the renovation work-------,they may  transfer to another local hotel after the first day.
 
 - (A) object
-- (B) objected
-- (C) objecting
-- (D) objectionable
 
-47.When renovations are required, a completed building – - form  must be forwarded to the department head.
+- (B) objected
+
+- (C) objecting
+
+- ##### (D) objectionable
+
+☑ 47.When renovations are required, a completed building – - form  must be forwarded to the department head.
 
 - (A) modify
-- (B) modifiable
-- (C) to modify
-- (D) modification
 
-48.Superior Design Company has held ------- among its employees  to create its new company logo.
+- (B) modifiable
+
+- (C) to modify
+
+- ##### (D) modification
+
+☑ 48.Superior Design Company has held ------- among its employees  to create its new company logo.
 
 - (A) competes
+
 - (B) competing
-- (C)competitions
+
+- ##### (C) competitions
+
 - (D) competitively
 
-49. As part of the marketing study, customers were given samples of  three different fruit juices with brand labels-------concealed.
+☑ 49.As part of the marketing study, customers were given samples of  three different fruit juices with brand labels-------concealed.
 
 - (A) purposeless
+
 - (B) purpose
+
 - (C) purposeful
-- (D) purposely
 
-50.Some business leaders believe increasing the size of their  organizations will lead to corporate
+- ##### (D) purposely
 
-- (A) prosperity
+##### ☑ 50.Some business leaders believe increasing the size of their -------  organizations will lead to corporate
+
+- ##### (A) prosperity
+
 - (B) prosperous
+
 - (C)prosperously
+
 - (D) prospered
 
-51.The application deadline for Speedsoft’s summer internship  program is drawing -------, so interested students should contact the office by April 30.
+##### ☑ 51.The application deadline for Speedsoft’s summer internship  program is drawing -------, so interested students should contact the office by April 30.
 
-- (A) near
-- (B)nearly
-- (C)nears
+- ##### (A) near
+
+- (B) nearly
+
+- (C) nears
+
 - (D) nearby
 
-52.Classic Line perfume is the -------of one of the most well-known  fragrance designers in Asia.
+☑ 52.Classic Line perfume is the -------of one of the most well-known  fragrance designers in Asia.
 
-- (A) creation
+- ##### (A) creation
+
 - (B) creator
+
 - (C) created
+
 - (D) creating
 
-53.There is still some uncertainty among the employees as to how  ------- the new advertising campaign will be in boosting sales.
+☑ 53.There is still some uncertainty among the employees as to how  ------- the new advertising campaign will be in boosting sales.
 
-- (A)effect
-- (B)effectively
+- (A) effect
+
+- (B) effectively
+
 - (C) to effect
-- (D) effective
 
-54.The Flagstaff city council is committed to-------- the environment  and has approved a plan to encourage more residents to commute by bicycle.
+- ##### (D) effective
+
+##### ☑ 54.The Flagstaff city council is committed to-------- the environment  and has approved a plan to encourage more residents to commute by bicycle.
 
 - (A)preserve
+
 - (B)preserved
-- (C) preserving
+
+- ##### (C) preserving
+
 - (D)preserves
 
-55. The new range of McGinty silicon mobile phone covers are  fashionable and-------priced.
+##### ☑ 55.The new range of McGinty silicon mobile phone covers are  fashionable and-------priced.
 
-- (A)afford
+- (A) afford
+
 - (B) affordable
-- (C)affordably
+
+- ##### (C) affordably
+
 - (D) affordability
 
-56.Max Davis’s books are borrowed from the library so that it  has become necessary to purchase additional copies.
+##### ☑ 56.Max Davis’s books are borrowed from the library so -------  that it  has become necessary to purchase additional copies.
 
 - (A) frequent
-- (B)frequency
-- (C)frequencies
-- (D)frequently
 
-57.An------- 10 percent discount is available to shoppers who show  their loyalty card to staff at the register.
+- (B)frequency
+
+- (C)frequencies
+
+- ##### (D)frequently
+
+☑ 57.An------- 10 percent discount is available to shoppers who show  their loyalty card to staff at the register.
 
 - (A) additive
-- (B) additional
-- (C)additionally
+
+- ##### (B) additional
+
+- (C) additionally
+
 - (D) addition
 
-58. The seminar started about 30 minutes later than  scheduled, as many of those who had signed up were delayed by the weather.
+☑ 58.The seminar started about 30 minutes later than  scheduled, as many of those who had signed up were delayed by the weather.
 
 - (A) original
-- (B)originally
+
+- ##### (B) originally
+
 - (C) originate
+
 - (D)origin
 
-59. Professor Santiago is ------- that he can find a qualified assistant  by the end of the month.
+☑ 59.Professor Santiago is ------- that he can find a qualified assistant  by the end of the month.
 
-- (A)doubt
+- (A) doubt
+
 - (B) doubted
-- (C) doubtful
-- (D)doubtfully
 
-60.Barrow Construction is committed to providing the highest  quality service to our customers in a------- and efficient fashion.
+- ##### (C) doubtful
+
+- (D) doubtfully
+
+##### ☑ 60.Barrow Construction is committed to providing the highest  quality service to our customers in a------- and efficient fashion.
 
 - (A) time
-- (B)timely
-- (C)timing
+
+- ##### (B) timely
+
+- (C) timing
+
 - (D) timeliness
 
-61.Now that Alex Gupta has hired additional sales clerks for the  store, he hopes that there will be fewer ------- from shoppers.
+##### ☑ 61.Now that Alex Gupta has hired additional sales clerks for the  store, he hopes that there will be fewer ------- from shoppers.
 
-- (A)complains
+- (A) complains
+
 - (B) complainer
-- (C)complaining
-- (D) complaints
 
-62.All inquiries------- the Orange Appliance returns policy should be  directed to the e-mail address provided on the warranty form.
+- (C) complaining
 
-- (A)regard
-- (B) regarding
-- (C)regarded
+- ##### (D) complaints
+
+##### ☑ 62.All inquiries------- the Orange Appliance returns policy should be  directed to the e-mail address provided on the warranty form.
+
+- (A) regard
+
+- ##### (B) regarding
+
+- (C) regarded
+
 - (D) regards
 
-63.All car batteries sold at Oil World come with a - two-year  warranty.
+☑ 63.All car batteries sold at Oil World come with a ------- two-year  warranty.
 
-- (A) comprehensive
+- ##### (A) comprehensive
+
 - (B) comprehensively
+
 - (C) more comprehensively
+
 - (D) comprehensiveness
 
-64.All of the negotiations that had been held between the two  companies became------- after ownership changed hands this month.
+☑ 64.All of the negotiations that had been held between the two  companies became------- after ownership changed hands this month.
 
 - (A)point
+
 - (B)pointing
+
 - (C)pointed
-- (D)pointless
 
-65.Breakthrough Business School is rated highly among students  as its teachers -------engage in discussions with students before and after classes.
+- ##### (D)pointless
 
-- (A)active
-- (B) actively
+☑ 65.Breakthrough Business School is rated highly among students  as its teachers -------engage in discussions with students before and after classes.
+
+- (A) active
+
+- ##### (B) actively
+
 - (C) activate
-- (D)activity
 
-66.In recent years, municipal governments have taken on  more responsibilities for social services and community development than in the past.
+- (D) activity
+
+☑ 66.In recent years, municipal governments have taken on -------  more responsibilities for social services and community development than in the past.
 
 - (A) considerable
+
 - (B) consideration
+
 - (C) considerate
-- (D) considerably
 
-67.Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his  decision to appoint Ms. Moretti as vice-president,-------next month.
+- ##### (D) considerably
 
-- (A)effective
-- (B)effect
-- (C)effects
+☑ 67.Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his  decision to appoint Ms. Moretti as vice-president,------- next month.
+
+- ##### (A) effective
+
+- (B) effect
+
+- (C) effects
+
 - (D) effectively
 
-68. All of the artwork used in the short film was painted by John  English, a local animation-------.
+☑ 68.All of the artwork used in the short film was painted by John  English, a local animation-------.
 
 - (A) enthusiastic
+
 - (B) enthusiastically
+
 - (C) enthusiasm
-- (D)enthusiast
 
-69.Donations to the school’s art department are strictly — and  contributions are only accepted anonymously.
+- ##### (D) enthusiast
 
-- (A) voluntary
+##### ☑ 69.Donations to the school’s art department are strictly — and  contributions are only accepted anonymously.
+
+- ##### (A) voluntary
+
 - (B) volunteer
-- (C) volunteering
-- (D)volunteered
 
-70.Tullworth Stores provide refunds and exchanges only for items  ------- by the original receipts.
+- (C) volunteering
+
+- (D) volunteered
+
+☑ 70.Tullworth Stores provide refunds and exchanges only for items  ------- by the original receipts.
 
 - (A) accompany
+
 - (B) accompanies
+
 - (C) accompanying
-- (D) accompanied
 
-71. As-------, Nobel Corporations’ new advertising campaign has  increased its sales substantialy in the southern region of the country.
+- ##### (D) accompanied
 
-- (A)predict
+☑ 71.As-------, Nobel Corporations’ new advertising campaign has  increased its sales substantialy in the southern region of the country.
+
+- (A) predict
+
 - (B) prediction
-- (C)predictably
-- (D) predicted
 
-72.At Metal Rock Magazine, rules regarding the submission  deadlines for articls are applied ------- than at other publications.
+- (C) predictably
+
+- ##### (D) predicted
+
+##### ☑ 72.At Metal Rock Magazine, rules regarding the submission  deadlines for articls are applied ------- than at other publications.
 
 - (A) stringent
+
 - (B) stringently
-- (C)more stringent
-- (D) more stringently
 
-73.The Thomas Walker Comic Fair’s director of public relations said  that he was surprised at how ------- the tickets had been sold.
+- (C) more stringent
 
-- (A)quicker
-- (B)quickly
+- ##### (D) more stringently
+
+☑ 73.The Thomas Walker Comic Fair’s director of public relations said  that he was surprised at how ------- the tickets had been sold.
+
+- (A) quicker
+
+- ##### (B) quickly
+
 - (C) quickness
+
 - (D) quickest
 
-74. With thousands of visitors attending the Harbor Markets’ events, all vendors must park their cars in the —area.
+☑ 74.With thousands of visitors attending the Harbor Markets’ events, all vendors must park their cars in the —area.
 
 - (A) designate
-- (B)designated
+
+- ##### (B) designated
+
 - (C) designating
+
 - (D) designation
 
-75. BookOn has reported that Oliver Harris, a senior vice president, is a------- candidate to take over from Ms. Hoffmann as CEO.
+##### ☑ 75.BookOn has reported that Oliver Harris, a senior vice president, is a------- candidate to take over from Ms. Hoffmann as CEO.
 
-- (A)like
-- (B)liking
-- (C)likely
+- (A) like
+
+- (B) liking
+
+- ##### (C) likely
+
 - (D) likeness
 
-□76.Your mailing and e-mail addresses are kept entirely-------and □ used solely for the purpose of notifying you of upcoming shows at Roadside Theater.
+☑ 76.Your mailing and e-mail addresses are kept entirely-------and used solely for the purpose of notifying you of upcoming shows at Roadside Theater.
 
-(A)private
+- ##### (A)private
 
-(B) privatize
+- (B) privatize
 
-(C)privatizing
+- (C)privatizing
 
-(D) privately
+- (D) privately
 
-1. When making an online flight booking, passengers are requested □ to specify their meal-------.
+☑ 77. When making an online flight booking, passengers are requested to specify their meal-------.
 
-(A) preferable
+- (A) preferable
 
-(B) preferred
+- (B) preferred
 
-(C)preferably
+- (C)preferably
 
-(D) preferences
+- ##### (D) preferences
 
-□78. The results of the survey were declared— ---- when an error was □ found in the counting system.
+##### ☑ 78. The results of the survey were declared— ---- when an error was found in the counting system.
 
-(A)invalid
+- ##### (A)invalid
 
-(B)invalidly
+- (B)invalidly
 
-(C)invalidity
+- (C)invalidity
 
-(D) invalided
+- (D) invalided
 
-□79. The Glasgow Glass Factory recently issued important updates to □ its-------regulations for employees.
+☑ 79. The Glasgow Glass Factory recently issued important updates to its-------regulations for employees.
 
-(A)safe
+- (A)safe
 
-(B)safely
+- (B)safely
 
-(C)safety
+- ##### (C)safety
 
-(D)safes
+- (D)safes
 
-1. According to a recent survey, a company’s performance is □ ---- on employees’ perceptions that they are receiving fair performance evaluations.
+##### ☑ 80.According to a recent survey, a company’s performance is ---- on employees’ perceptions that they are receiving fair performance evaluations.
 
-(A) depended
+- (A) depended
 
-(B)dependence
+- (B)dependence
 
-(C) dependable
+- (C) dependable
 
-(D) dependent
+- ##### (D) dependent
 
-□81. An-------from Ms. Nielsen’s award-winning novel, Number the □ Stars was printed in today’s Copenhagen Times.
+##### ☑ 81. An-------from Ms. Nielsen’s award-winning novel, Number the Stars was printed in today’s Copenhagen Times.
 
-(A) extract
+- ##### (A) extract
 
-(B) extractable
+- (B) extractable
 
-(C) extracted
+- (C) extracted
 
-(D) extractability
+- (D) extractability
 
-□82. Mr. Schulz said that results in the first half of the fiscal year were □ not always ------- of outcomes for the full year.
+##### ☑ 82. Mr. Schulz said that results in the first half of the fiscal year were not always ------- of outcomes for the full year.
 
-(A)indicate
+- (A) indicate
 
-(B) indicative
+- ##### (B) indicative
 
-(C) indicated
+- (C) indicated
 
-(D)indication
+- (D) indication
 
-83.Mars Motors’ new clamping system makes their vehicles □ even during emergency braking.
+☑ 83.Mars Motors’ new clamping system makes their vehicles ------- even during emergency braking.
 
-(A)controlling
+- (A) controlling
 
-(B) controllable
+- ##### (B) controllable
 
-(C)controllability
+- (C) controllability
 
-(D) controls
+- (D) controls
 
-1. The newspaper recently employed an interior designer to match □ the drapes and wallpaper------- with the antique desk in the editor’s office.
+☑ 84. The newspaper recently employed an interior designer to match the drapes and wallpaper------- with the antique desk in the editor’s office.
 
-(A)perfect
+- (A)perfect
 
-(B) perfected
+- (B) perfected
 
-(C) perfectly
+- ##### (C) perfectly
 
-(D) perfection
+- (D) perfection
 
-□85. The walls of the main dining room were decorated with a pattern □ -------different from the other dining areas to create a sense of exclusivity.
+☑ 85. The walls of the main dining room were decorated with a pattern -------different from the other dining areas to create a sense of exclusivity.
 
-(A) distinct
+- (A) distinct
 
-(B) distinctly
+- ##### (B) distinctly
 
-(C) distinguish
+- (C) distinguish
 
-(D) distinction
+- (D) distinction
 
-1. Yamato Insurance Group has designed a new automobile □ insurance policy ------- to appeal to senior drivers.
+##### ☑ 86.Yamato Insurance Group has designed a new automobile insurance policy ------- to appeal to senior drivers.
 
-(A)specify
+- (A)specify
 
-(B)specifying
+- (B)specifying
 
-(C) specifications
+- (C) specifications
 
-(D) specifically
+- ##### (D) specifically
 
-87.OnePhone is getting ready to send a software update to its □ customers that will allow the device to more ------- display signal reception.
+☑ 87.OnePhone is getting ready to send a software update to its customers that will allow the device to more ------- display signal reception.
 
-(A)accurate
+- (A) accurate
 
-(B) accurately
+- ##### (B) accurately
 
-(C) accuracy
+- (C) accuracy
 
-(D) accuracies
+- (D) accuracies
 
-1. A number of major airlines are planning to offer Internet — to □ passengers on international flights for a fee.
+☑ 88.A number of major airlines are planning to offer Internet -------to passengers on international flights for a fee.
 
-(A)connect
+- (A) connect
 
-(B) connecting
+- (B) connecting
 
-(C) connections
+- ##### (C) connections
 
-(D)connects
+- (D) connects
 
-1. Mr. Lydon is an -------musician who has performed with several □ of the world’s most famous symphonic orchestras.
+##### ☑ 89.Mr. Lydon is an -------musician who has performed with several of the world’s most famous symphonic orchestras.
 
-(A)accomplish
+- (A) accomplish
 
-(B) accomplished
+- ##### (B) accomplished
 
-(C) accomplishing
+- (C) accomplishing
 
-(D) accomplishment
+- (D) accomplishment
 
-1. Due to low------- last year, it has been decided that this year’s □ conference will be held in a smaller venue.
+☑ 90.Due to low------- last year, it has been decided that this year’s conference will be held in a smaller venue.
 
-(A) attend
+- (A) attend
 
-(B)attendees
+- (B) attendees
 
-(C) attendance
+- ##### (C) attendance
 
-(D) attending
+- (D) attending
 
-1. Tropical Hotel’s central location makes it ------- for business and □ leisure travelers who wish to stay in the hub of Melbourne.
+☑ 91.Tropical Hotel’s central location makes it ------- for business and leisure travelers who wish to stay in the hub of Melbourne.
 
-(A)ideal
+- ##### (A) ideal
 
-(B)idealize
+- (B) idealize
 
-(C)ideally
+- (C) ideally
 
-(D) idealization
+- (D) idealization
 
-1. Many restaurants in the state have been selling their □ cooking oil for use as an alternative fuel source.
+☑ 92.Many restaurants in the state have been selling their ------- cooking oil for use as an alternative fuel source.
 
-(A) use
+- (A) use
 
-(B)used
+- ##### (B) used
 
-(C)using
+- (C) using
 
-(D)uses
+- (D) uses
 
-1. Some delays can be expected during the------- of the Southeast □ Freeway from two lanes to four.
+##### ☑ 93.Some delays can be expected during the------- of the Southeast Freeway from two lanes to four.
 
-(A) widening
+- ##### (A) widening
 
-(B) wide
+- (B) wide
 
-(C)widely
+- (C) widely
 
-(D)width
+- (D) width
 
-□94. Seminar------- who filled in the survey on the last day were □ awarded a pen marked with the logo of the organizers.
+☑ 94.Seminar------- who filled in the survey on the last day were awarded a pen marked with the logo of the organizers.
 
-(A) participate
+- (A) participate
 
-(B) participant
+- (B) participant
 
-(C)participation
+- (C)participation
 
-(D) participants
+- ##### (D) participants
 
-95.Lucas Janssen has requested that the marketing department □ examine trends------- when implementing promotional campaigns.
+☑ 95.Lucas Janssen has requested that the marketing department examine trends------- when implementing promotional campaigns.
 
-(A)attentive
+- (A) attentive
 
-(B)attention
+- (B) attention
 
-(C) most attentive
+- (C) most attentive
 
-(D)more attentively
+- ##### (D) more attentively
 
-1. Each------- is asked to fill out an evaluation form to provide □ comments and suggestions for improving the workshop.
+##### ☑ 96.Each------- is asked to fill out an evaluation form to provide comments and suggestions for improving the workshop.
 
-(A) individual
+- ##### (A) individual
 
-(B) individuals
+- (B) individuals
 
-(C) individualistic
+- (C) individualistic
 
-(D) individualism
+- (D) individualism
 
-1. The acknowledgements section of a book usually appears on the □ page- ----the table of contents.
+☑ 97.The acknowledgements section of a book usually appears on the page- ----the table of contents.
 
-(A)follow
+- (A) follow
 
-(B)following
+- ##### (B) following
 
-(C)follows
+- (C) follows
 
-(D)follower
+- (D) follower
 
-1. Philips Pharmaceuticals announced to ------- that its sales □ revenue in the fourth quarter is likely to exceed expectations.
+##### ☑ 98.Philips Pharmaceuticals announced to ------- that its sales  revenue in the fourth quarter is likely to exceed expectations.
 
-(A)invest
+- (A) invest
 
-(B) investments
+- (B) investments
 
-(C) investors
+- ##### (C) investors
 
-(D)investing
+- (D) investing
 
-□99. Of all the ------- in the museum, the landscape painting by Susan □ Owen is by far the most famous.
+☑ 99.Of all the ------- in the museum, the landscape painting by Susan Owen is by far the most famous.
 
-(A)work
+- (A) work
 
-(B)works
+- ##### (B) works
 
-(C) working
+- (C) working
 
-(D)worked
+- (D) worked
 
-100.Please ensure that your submissions are------- with the □ requirements of the Jules Mann Art Prize as outlined in the rulebook.
+##### ☑ 100.Please ensure that your submissions are------- with the  requirements of the Jules Mann Art Prize as outlined in the rulebook.
 
-(A)complied
+- (A) complied
 
-(B) compliance
+- (B) compliance
 
-(C)comply
+- (C) comply
 
-(D) compliant
+- ##### (D) compliant
 
 #### 名词公式
 
-品詞問題の頻出パターンを一覧にまとめました。文頭から意味をとりながら解答することが基本ですが、もし「どうしても」という場合には、次の公式を頭に入れておくと（もちろん例外はありますが）、解答の助けとなるはずです。
-
-| 正解             | 公式                           | 例                                 |
-| ---------------- | ------------------------------ | ---------------------------------- |
-| ＜名詞》が正解   | ＜冠詞-------前置詞＞          | a store in Tokyo                   |
-| ＜名詞》が正解   | ＜冠詞＋形容詞-------前置詞＞  | a large store in Tokyo             |
-| ＜名詞》が正解   | ＜他動詞-------前置詞＞        | open stores in Tokyo               |
-| ＜名詞》が正解   | ＜前置詞 ------- 前置詞＞      | for stores in Tokyo                |
-| ＜形容詞》が正解 | ＜冠詞-------名詞＞            | a nice restaurant                  |
-| ＜形容詞》が正解 | ＜冠詞＋副詞-------名詞＞      | a really nice restaurant           |
-| ＜形容詞》が正解 | ＜所有格-------名詞＞          | his nice restaurant                |
-| ＜形容詞》が正解 | ＜be 動詞＋副詞-------＞       | The weather was really nice.       |
-| ＜副詞＞が正解   | <have [has/had]過去分詞＞      | Tex has easily solved the problem. |
-| ＜副詞＞が正解   | ＜主語-------述語動詞＞        | Tex easily solved the problem.     |
-| ＜副詞＞が正解   | ＜完全文-------.（ビリオド）＞ | Tex solved the problem             |
-| ＜副詞＞が正解   | ＜完全文-------.（ビリオド）＞ | easily.                            |
-| ＜副詞＞が正解   | ＜自動詞 —.(ピリオド)>         | The tickets sold easily.           |
-| ＜副詞＞が正解   | ＜助動詞- ----原形動詞＞       | Tex can easily solve the problem.  |
-| ＜副詞＞が正解   | ＜be 動詞-- ----形容詞＞       | The problem was easily avoidable.  |
-| ＜副詞＞が正解   | ＜be動詞 分詞(Ving/Ved)>       | The problem was easily solved.     |
-| ＜副詞＞が正解   | ＜be 動詞＋過去分詞 ->         | The problem was solved easily.     |
+| **名词**   | **冠词 + …… + 介词**                    | a store in Tokyo                   |
+| ---------- | --------------------------------------- | ---------------------------------- |
+| **名词**   | **冠词 + 形容词 + …… + 介词**           | a large store in Tokyo             |
+| **名词**   | **及物动词 + …… + 介词**                | open stores in Tokyo               |
+| **名词**   | **介词 + …… + 介词**                    | for stores in Tokyo                |
+| **形容词** | **冠词 + …… + 名词**                    | a nice restaurant                  |
+| **形容词** | **冠词 + 副词 + …… + 名词**             | a really nice restaurant           |
+| **形容词** | **所有格 + …… + 名词**                  | his nice restaurant                |
+| **形容词** | **be 动词 + 副词 + ……**                 | The weather was really nice.       |
+| **副词**   | **have [has/had] + 过去分词**           | Tex has easily solved the problem. |
+| **副词**   | **主语 + …… + 谓语动词**                | Tex easily solved the problem.     |
+| **副词**   | **完整句子 + …… + 句号**                | Tex solved the problem easily.     |
+| **副词**   | **不及物动词 + …… + 句号**              | The tickets sold easily.           |
+| **副词**   | **助动词 + …… + 原形动词**              | Tex can easily solve the problem.  |
+| **副词**   | **be 动词 + …… + 形容词**               | The problem was easily avoidable.  |
+| **副词**   | **be 动词 + 分词（现在分词/过去分词）** | The problem was easily solved.     |
+| **副词**   | **be 动词 + 过去分词 + ……**             | The problem was solved easily.     |
 
 ### 动词
 
@@ -3569,9 +3790,9 @@ recently（副詞） recent（形容詞）
 | -en  | broaden、widen、sharpen       |
 | -ate | create、indicate、donate      |
 
-## 1＜主述の一致＞の視点で解く
+#### 1＜主谓一致＞的视角解题
 
-＜主述の一致＞とは、主語の人称と数に、動詞の形をそろえることをいいます。基本的なことですが、見落としやすいポイントです。
+“主谓一致”是指动词的形式需要与主语的人称和数量相匹配。这是一个基本的语法规则，但容易被忽视。
 
 | The new supervisor ------- an open-door policy for staff to come in and talk about their concerns with day-to-day operations. |
 | ------------------------------------------------------------ |
@@ -3580,72 +3801,114 @@ recently（副詞） recent（形容詞）
 | (C) to institute                                             |
 | (D) have instituted                                          |
 
-## 2＜態》の視点で解く
+------
 
-主語が何かを「する」のが能動態。何かを「される」のが受動態。この見極めを行います。
+#### 2＜语态＞的视角解题
 
-·「~する」か「~される」か
+主语执行动作时，使用主动语态；主语接受动作时，使用被动语态。我们需要判断句子的语态。
 
-チェックポイント ·空所後の目的語の有無
+##### 关键点
 
-3＜時制》の視点で解く
+- 判断主语是“执行”动作还是“被执行”动作
+- 检查空格后的宾语是否存在
 
-動詞が表す動作·状態は、いつのことなのか。過去、現在、未来······、時制を特定するキーワードを見つけます。
+------
 
-チェック ·時のキーワード
+#### 3＜时态＞的视角解题
 
-ポイント
+动词所表达的动作或状态是发生在什么时候？过去、现在、还是未来？找出能够确定时态的关键词。
 
-では、それぞれ例題を解きながら、ポイントを見ていきます。
+##### 关键点
 
-## ①選択肢をチェック
+- 句中的时间关键词
 
-選択肢には、（A）原形·現在形／（B）現在進行形／（C）不定詞／（D）現在完了形、というように動詞instituteの異なる形が並んでいます。ちなみに、instituteは動詞では「（制度等）を始める、導入する」の意味ですが、《動詞問題》では仮に意味がわからなくても解けます。重要なのは形です。
+------
 
-## ②主語（S）と述語動詞（V）をチェック
+##### 示例解析
 
-次に文の主語（S）と述語動詞（V）を確認しましょう。この問題文の主語はThe new supervisorですが、述語動詞が見当たりません（to come in and talkは不定詞）。つまり、空所に求められているのは述語動詞です。この時点で、不定詞の（C）は正解候補から外れます。
+###### **①检查选项**
 
-## ③三単現のsをチェック
+选项中提供了 institute 的不同动词形式：
 
-次のチェックポイントは＜三単現の s＞ です。これは、主語が三人称単数で時制が現在形の場合、動詞に付くrSJrSJのこと。ここでは主語がThe new supervisor（新しい責任者）で＜三人称単数＞なので、現在形の（A）は institutes、現在完了形の（D）はhas instituted でなくてはいけません。よって、唯一、主述が正しく一致している現在進行形の（B）is institutingが正解だと判断します。
+- (A) 原形/一般现在时
+- (B) 现在进行时
+- (C) 不定式
+- (D) 现在完成时
 
-正解
+动词 **institute** 作为动词时，意思是“（正式地）建立、制定”。不过，在解题时，即使不知道单词的意思，也可以通过语法结构找到正确答案。
 
-訳 その新しい責任者は、日常業務についての心配事をスタッフが中に入って話せるよう、部屋のドアを開放する方針を導入している。
+###### **②检查主语（S）和谓语动词（V）**
 
-## 2＜態》の視点で解く
+句子的主语是 **The new supervisor**，但是找不到谓语动词（to come in and talk 是不定式短语）。因此，空格处需要填入一个谓语动词。这意味着 **(C) to institute**（不定式）不能作为谓语动词，因此排除。
 
-| 例題0336 空所に入る語句を（A）～（D） から1 つ選びましょう。The Employee of the Year Award ------- to Office Support Assistant, Joyce Perry for her outstanding work ethic. |
+###### **③检查三单形式**
+
+接下来，我们检查 **三单（第三人称单数）动词形式**。这里的主语 **The new supervisor** 是**第三人称单数**，如果要用一般现在时，动词 institute 需要变为 **institutes**，而如果是现在完成时，应该是 **has instituted**。
+
+但选项 (A) 和 (D) 的形式并不符合这一要求，因此，它们不是正确答案。
+
+因此，唯一符合主谓一致的选项是 **(B) is instituting**（现在进行时）。
+
+###### **正确答案**
+
+(B) **is instituting**
+
+###### **翻译**
+
+新任主管正在推行一项开放政策，以便员工可以进来谈论他们对日常运营的担忧。
+
+------
+
+#### 2＜语态＞的视角解题
+
+| **例题0336** 选择一个正确答案填入空格：                      |
 | ------------------------------------------------------------ |
-| (A)was presenting (B) has presented (C)was presented         |
+| The Employee of the Year Award ------- to Office Support Assistant, Joyce Perry for her outstanding work ethic. |
+| (A) was presenting                                           |
+| (B) has presented                                            |
+| (C) was presented                                            |
 | (D) had been presenting                                      |
 
-解き方の基本
+##### **解题步骤**
 
-## ①選択肢をチェック
+###### **①检查选项**
 
-（A）過去進行形／（B）現在完了形／（C）受動態の過去形／（D）過去完了進行形、となっていますね。異なる態が含まれていることを頭に入れておきましょう。
+选项分别是：
 
-![img](https://web-api.textin.com/ocr_image/external/6970f60228672c46.jpg)
+- (A) 过去进行时
+- (B) 现在完成时
+- (C) 过去时的被动语态
+- (D) 过去完成进行时
 
-## ②主語（S）と述語動詞（V）をチェック
+可以看到，不同选项中包含不同的语态，因此可以用语态分析法来解题。
 
-この問題文の主語（S）は The Employee of the Year Award。述語動詞（V）が見あたらないので、空所には述語動詞が入ります。選択肢は4つとも述語動詞になり得る形です。しかも、いずれも三人称単数の主語に正しく対応しているので、＜主述の一致＞の視点では解けません。
+###### **②检查主语（S）和谓语动词（V）**
 
-## ③「~する」か「~される」かをチェック
+本句的主语是 **The Employee of the Year Award**（年度最佳员工奖），但句中缺少谓语动词。因此，空格处需要填入一个谓语动词，而选项中的所有动词形式都可以作为谓语。
 
-次に、＜態＞の視点で選択肢を見ると、（C）が受動態＜be動詞＋過去分詞＞で、ほかは能動態です。問題文の意味を考えると、主語のAward（賞）と動詞present（～を授与する）の間には、賞が授与される」という受身の関係があります。よって、唯一の受動態である（C）was presentedが正解とわかります。
+###### **③判断主动还是被动**
 
-## ④目的語の有無をチェック
+动词 **present**（授予）的意思是“颁发、授予”，但主语是“奖项”（Award），它**不是执行授予动作的一方，而是被授予的对象**，因此，动词必须使用被动语态。
 
-また、presentは他動詞なので、能動態なら必ず目的語が必要です。ここでは空所後が前置詞toで、目的語となる名詞がありません。この点からも、問題文は目的語が主語の位置に移動した受動態の文だと判断し、（C）を選ぶことができます。もし、本試験で動詞の意味がわからなければ、空所後の目的語の有無に着目しましょう。目的語（名詞）があれば能動態、なければ受動態を選ぶというのが動詞問題を解く際の鉄則です。
+选项中，只有 **(C) was presented** 是被动语态 **(be + 过去分词)**，因此，这是正确答案。
 
-## 3＜時制》の視点で解く
+###### **④检查宾语**
 
-0337
+动词 **present** 是及物动词，如果使用主动语态，应该接宾语。但空格后面是 **to Office Support Assistant**（没有直接宾语），这进一步确认了本句是被动语态。
 
-| 例題0337 空所に入る語句を（A）～（D）から1つ選びましょう。   |
+###### **正确答案**
+
+(C) **was presented**
+
+###### **翻译**
+
+年度最佳员工奖被授予办公室助理 Joyce Perry，以表彰她卓越的职业道德。
+
+------
+
+#### 3＜时态＞的视角解题
+
+| **例题0337** 选择一个正确答案填入空格：                      |
 | ------------------------------------------------------------ |
 | The accounting department ------- travel reimbursement forms at the meeting next week. |
 | (A) distributed                                              |
@@ -3653,133 +3916,142 @@ recently（副詞） recent（形容詞）
 | (C) was distributing                                         |
 | (D) will distribute                                          |
 
-第2章
+##### **解题步骤**
 
-《動詞問題》
+###### **①检查选项**
 
-解き方の基本
+选项中提供了不同的时态：
 
-①選択肢をチェック
+- (A) 过去时
+- (B) 现在分词/动名词
+- (C) 过去进行时
+- (D) 将来时
 
-（A）過去形·過去分詞／（B）現在分詞·動名詞／（C）過去進行形／（D）未来形、となっています。
+###### **②检查主语（S）和谓语动词（V）**
 
-### ②主語（S）と述語動詞（V）をチェック
+主语是 **The accounting department**（会计部门），而空格处需要填入一个谓语动词。因此，我们可以排除 **(B) distributing**，因为分词不能单独作为句子的谓语。
 
-この文の主語はThe accounting department で、空所には述語動詞が求められています。したがって、まず、（B）distributingが正解候補から外れます（ing形が述語動詞になるには必ずbe動詞が必要です）。
+###### **③检查时态关键词**
 
-## ③く時のキーワード》をチェック
+句子最后有 **next week（下周）** 这一**时间关键词**，它明确表示句子的时态应为**将来时**。
 
-残りの選択肢は、すべて主述が一致し、能動態なので、く主述の一致＞＜態＞の視点ではこれ以上正解を絞り込めません。そこで、＜時制＞の視点で問題文を一読すると、最後にnext week（来週）という＜時のキーワード＞が見つかります。これが空所の動詞のタイミングを示しているので、（D）will distributeが正解です。
+在选项中，只有 **(D) will distribute** 是将来时，因此，这是正确答案。
 
-正解
+###### **正确答案**
 
-訳 経理部では、出張経費の払い戻し用紙を来週の会議で配付する予定です。
+(D) **will distribute**
 
-注 reimbursement：払い戻し
+###### **翻译**
 
-大
+会计部门将在下周的会议上分发差旅报销表。
 
-## 3つの視点のコンビネーション
+------
 
-選択肢に同じ動詞の異なる形が並ぶ問題は、ここまで解説した＜主述の一致＞＜態＞＜時制＞の3つの視点で考えるのが基本です。
+##### 3种解题视角的综合运用
 
-ここでは、個別に見ていきましたが、本試験では＜主述の一致と態＞、＜態と時制＞といったコンビネーション問題も出題されます。以降の演習にはそうした問題も含めているので、3つの視点をうまく併用して解くコツをつかみましょう。
+在选择题中，如果选项提供了相同动词的不同变形，我们应该综合运用 **主谓一致、语态和时态** 这三种解题视角。
 
-# ing 形について
+在本次讲解中，我们分别使用了不同的解题技巧：
 
-実際に《動詞問題》に挑戦する前に、ing形について触れておきたいと思います。私は普段、専門学校でTOEIC L＆Rを指導していますが、初中級者の学生の多くは、このing形の理解があやふやです。特に《動詞問題》においては、ing形の正しい理解が不可欠ですので、以下で簡単にまとめてみます。
+- **第一题** 通过 **主谓一致** 判断正确选项
+- **第二题** 通过 **语态分析** 选出被动语态的答案
+- **第三题** 通过 **时态分析** 选出正确的时态
+
+在正式考试中，这三种解题视角通常会交叉出现，比如：
+
+- **主谓一致 + 语态**
+- **语态 + 时态**
+
+在后续的练习中，我们将看到更多综合考察这些解题技巧的题目，希望大家掌握这三种解题方法，提高答题准确率。
+
+### 关于 ing 形式
+
+
 
 ![img](https://web-api.textin.com/ocr_image/external/ecef381adba15144.jpg)
 
-まず、ing形は、＜現在分詞＞と＜動名詞＞の2つに分けられます。
+首先，-ing形式可分为**现在分词**和**动名词**两种。
 
-## ·現在分詞
+#### 现在分词
 
 ![img](https://web-api.textin.com/ocr_image/external/2315265fc06f3049.jpg)
 
-進行形·形容詞·分詞構文の3つの用法があります。
+具有进行时、形容词、分词构句三种用法。
 
-## 1進行形
+##### 1. 进行时
 
-例1のように、＜be動詞＋現在分詞＞の形で述語動詞として用いられます。
+如例1所示，以“be动词+现在分词”的形式用作谓语动词。
 
-## 2形容詞
+##### 2. 形容词
 
-分詞形容詞と呼ばれる用法です。単独では、例② It was an exciting game.のように名詞の前で名詞を修飾します。
+称为分词形容词。单独使用时，如例2中的“It was an exciting game.”，在名词前修饰名词。
 
-原則として、修飾語を伴い2語以上になると、例3 There is a man working in an office.のように、名詞を後ろから修飾します。
+原则上，当带有修饰语且由两个以上词组成时，如例3中的“There is a man working in an office.”，从名词后进行修饰。
 
-## 3分詞構文
+##### 3. 分词构句
 
-第2章
+例4：Mr. Kato entered the room, holding a cup of coffee.（加藤先生拿着一杯咖啡走进房间），在句末放置以-ing形式开头的短语，表示“～しながら（～的同时）”。这个“holding a cup of coffee（拿着一杯咖啡）”的短语作为副词修饰整个句子。
 
-《動詞問題》
+此外，例5：Over 1,000 people attended the event, making it a big success.（超过1000人参加了活动，使之大获成功），以相同形式，为前句添加补充信息。
 
-例4 Mr．Kato entered the room， holding a cup of coffee．（Katoさんはコーヒーカップを持ちながら部屋に入った）のように、文の最後にing形で始まるカタマリを置いて、「～しながら」という意味を表すことができます。このholding a cup of coffee（コーヒーカップを持ちながら）というカタマリは、それまでの文全体を修飾する副詞として機能しています。
+以现在分词开头的句子，如“Ving～，SV.”的分词构句中，分词开头的短语作为副词短语为逗号后的句子添加补充信息。在任何形式中，注意句子的主语（S）与现在分词之间存在“主语主动做某事”的关系。
 
-また、例⑤ Over 1,000 people attended the event， making it a big success． （1000人以上がそのイベントに参加し、大成功した）のように、同じ形で、前の文に補足情報を加えることもできます。
+#### 动名词
 
-現在分詞が文頭に来るくVing～，SV.＞の形の分詞構文でも、分詞で始まるカタマリは、カンマ以降の文に補足情報を加える副詞句として機能します。いずれの形でも、文の主語（S）と現在分詞との間に、「Sが～する、Sが～している」という能動の関係があることも押さえておきましょう。
+与名词相同，主要作为主语、及物动词或介词的宾语、表语等功能（参见左侧例句）。
 
-## 動名詞
+如此，-ing形式仅在“be动词+现在分词”的进行时情况下，作为谓语动词发挥作用。在《动词问题》中，如果空格处需要谓语动词，不能选择没有be动词的单独-ing形式。
 
-名詞同様、主語、他動詞·前置詞の目的語、補語として主に機能します（左記例文参照）。
+#### 关于-ed形式
 
-このように、ing形は、＜be動詞＋現在分詞＞の進行形の場合のみ、述語動詞として機能します。《動詞問題》で、空所に述語動詞が必要な場合、be動詞がない単独のing形を選んではいけません。
+与-ing形式一样，正确理解-ed形式对于解答语法问题也至关重要。
 
-## ed 形について
+| -ed形式 |      | 动词     | 过去式   | ①I visited Hawaii last summer.                               |
+| ------- | ---- | -------- | -------- | ------------------------------------------------------------ |
+| -ed形式 |      | 过去分词 | 被动态   | ②Hawaii is visited by millions of tourists every year.       |
+| -ed形式 |      | 过去分词 | 完成时   | ③I have visited Hawaii twice. ④Oahu is the most visited island in Hawaii. ⑤Kauai was the first Hawaiian Island visited by Captain Cook. |
+| -ed形式 |      | 过去分词 | 形容词   | ③I have visited Hawaii twice. ④Oahu is the most visited island in Hawaii. ⑤Kauai was the first Hawaiian Island visited by Captain Cook. |
+| -ed形式 |      | 过去分词 | 分词构句 | ⑥Hawaii is a popular tourist destination, visited by millions of tourists every year. ⑦Visited by millions of tourists, Waikiki is one of the most popular beaches in the world. |
 
-ing形と並んでed形の正しい理解も文法問題を解く際には不可欠です。
+首先，-ed形式可分为**动词（过去式）\**和\**过去分词**两种。
 
-| -ed形 |      | 動詞     | 過去形   | ①I visited Hawaii last summer.                               |
-| ----- | ---- | -------- | -------- | ------------------------------------------------------------ |
-| -ed形 |      | 過去分詞 | 受動態   | ② Hawaii is visited by millions of tourists every year.      |
-| -ed形 |      | 過去分詞 | 完了形   | ③ I have visited Hawaii twice. ④ Oahu is the most visited island in Hawaii. ⑤ Kauai was the first Hawaiian Island visited by Captain Cook. |
-| -ed形 |      | 過去分詞 | 形容詞   | ③ I have visited Hawaii twice. ④ Oahu is the most visited island in Hawaii. ⑤ Kauai was the first Hawaiian Island visited by Captain Cook. |
-| -ed形 |      | 過去分詞 | 分詞構文 | ⑥ Hawaii is a popular tourist destination, visited by millions of tourists every year. ⑦ Visited by millions of tourists,Waikiki is one of the most popular beaches in the world. |
+##### 动词（过去式）
 
-まず、ed形は、＜動詞（過去形）＞と＜過去分詞＞の2つに分けられます。
+如例1所示，作为句子的谓语动词。
 
-## 動詞（過去形）
+##### 过去分词
 
-例①のように、文の述語動詞になります。
+###### 1. 被动态
 
-## ·過去分詞
+如例2：Hawaii is visited by millions of tourists every year.（夏威夷每年被数百万游客访问），以“be动词+过去分词”的组合构成被动态，表示“被～”。
 
-## 1受動態
+###### 2. 完成时
 
-例② Hawaii is visited by millions of tourists every year.（ハワイは毎年数百万人の観光客に訪れられます）のように、＜be動詞＋過去分詞＞のセットで「～される」という意味を表す受動態を作ります。
+如例3中的“have [has]+过去分词”的现在完成时、“had+过去分词”的过去完成时、“will have+过去分词”的将来完成时，表示某一时间点之前的完成或持续。
 
-### ②完了形
+###### 3. 形容词
 
-例3のような＜have ［has］＋過去分詞＞の現在完了形、＜had＋過去分詞＞の過去完了形、＜will have＋過去分詞＞の未来完了形のような、ある時点までの完了や継続を表す完了時制を作ります。
+与-ing形式一样，可作形容词。如例4：Oahu is the most visited island in Hawaii.（瓦胡岛是夏威夷访问人数最多的岛屿），他动词的过去分词单独修饰名词，表示被动意义的“被～”。
 
-## 3形容詞
+自动词的过去分词也可如fallen leaves（落叶）或returned CEO（回归的CEO）那样单独修饰名词，表示完成的意思，但用例有限。
 
-ing形と同じく形容詞になります。例④Oahu is the most visited island in Hawaii.（オアフはハワイで最もたくさんの人に訪れられる島です）のように、他動詞の過去分詞は単独で名詞を修飾し、「～される」という受動の意味を表します。
+此外，与-ing形式或普通形容词相同，当带有修饰语且由两个以上词组成的短语时，原则上从名词后进行修饰，如例5：Kauai was the first Hawaiian Island visited by Captain Cook.（考艾岛是库克船长首次访问的夏威夷岛屿）。
 
-自動詞の過去分詞もfallen leaves（落ちた葉）や returned CEO（復帰したCEO）のように単独で名詞を修飾し、完了の意味を表すことができますが、用例は限られています。
+###### 4. 分词构句
 
-また、ing形や普通の形容詞同様、修飾語を伴い2語以上のカタマリになると、例5Kauai was the first Hawaiian Island visited by Captain Cook. （初めてのハワイの島←キャプテン·クックによって訪問された）のように原則として名詞を後ろから修飾します。
+如例6：Hawaii is a popular tourist destination, visited by millions of tourists every year.（夏威夷是一个受欢迎的旅游胜地，每年有数百万游客访问），以“S V，Ved～.”的形式，作为副词短语为前句添加补充信息。
 
-《動詞問題》
+如例7：Visited by millions of tourists, Waikiki is one of the most popular beaches in the world.（被数百万游客访问的威基基是世界上最受欢迎的海滩之一），以过去分词开头的副词短语位于句首，形式为“Ved～，S V.”。在这种情况下，注意句子的主语（S）与过去分词之间存在被动关系。
 
-第2章
-
-## 4分詞構文
-
-例⑥ Hawaii is a popular tourist destination， visited by millions of tourists every year.（ハワイは人気の観光名所で、毎年数百万人の観光客が訪れます）のように、＜S V，Ved～.＞の形で前の文に補足情報を加える副詞のカタマリを作ります。
-
-例⑦ Visited by millions of tourists，Waikiki is one of the most popular beaches in the world.のように、過去分詞で始まる副詞のカタマリが文頭に来る＜Ved～，S V.＞の形もあります。この場合も、文の主語（S）と過去分詞との間に受動の関係があることを押さえておきましょう。
-
-| まとめ                                                       |
+| 总结                                                         |
 | ------------------------------------------------------------ |
-| □＜主述の一致》＜態》＜時制＞の3つの視点で解く               |
-| □＜主述の一致＞のチェックポイント·SVの確認·三単現のs         |
-| □＜態》のチェックポイント                                    |
-| ·「~する」か「~される」か·空所後の目的語の有無               |
-| □《時制》のチェックポイント·時のキーワード                   |
-| 次ページからは練習問題です。ここで学んだ＜解き方＞を実践してみましょう。 |
+| □ 从**主谓一致**、**语态**、**时态**三个角度解题             |
+| □ **主谓一致**的检查要点：确认主语和谓语的关系，第三人称单数的s |
+| □ **语态**的检查要点：                                       |
+| · 是“主动”还是“被动”；· 空格后的宾语是否存在                 |
+| □ **时态**的检查要点：时间关键词                             |
+
+
 
 □1. Seaside Hotel is now ------- a manager for their newly opened □ branch in Urayasu.
 
