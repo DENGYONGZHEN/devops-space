@@ -8387,11 +8387,11 @@ x
 
 - (D) reduction
 
-🎈4. -------, the conference was attended by over a thousand people  from the leisure industry.
+🎈🤫4. -------, the conference was attended by over a thousand people  from the leisure industry.
 
-- (A) Altogether
+- ##### (A) Altogether
 
-- ##### (B) Largely
+- (B) Largely 🔐
 
 - (C) Always
 
@@ -8407,23 +8407,23 @@ x
 
 - ##### (D) performance
 
-🎈6. Professor James Nichol will be here next week to share his ------- of knowledge on document filing.
+🎈🤫6. Professor James Nichol will be here next week to share his ------- of knowledge on document filing.
 
-- (A)wealth
+- ##### (A)wealth
 
 - (B) wealthier
 
-- ##### (C)wealthy
+- (C)wealthy 🔐
 
 - (D) wealthily
 
-🎈7.Many people who attend workshops underestimate how much  they can learn from-------participants.
+🎈🤫7.Many people who attend workshops underestimate how much  they can learn from-------participants.
 
 - (A)another
 
-- ##### (B)others
+- (B)others  🔐
 
-- (C)the other
+- ##### (C)the other
 
 - (D) one another
 
@@ -8437,13 +8437,13 @@ x
 
 - (D)to order
 
-🎈9. Mr. Okubo has arranged ------- Ms. Grace to speak at the  meeting on his behalf because he has other obligations.
+🎈🤫9. Mr. Okubo has arranged ------- Ms. Grace to speak at the  meeting on his behalf because he has other obligations.
 
-- ##### (A)upon
+- (A)upon 🔐
 
 - (B)with
 
-- (C)for
+- ##### (C)for
 
 - (D)by
 
@@ -8487,15 +8487,15 @@ x
 
 - (D) more appropriate
 
-🎈14. Mr. Griffin called all the hotels near the convention venue, ------- find that they were all fully booked.
+🎈🤫14. Mr. Griffin called all the hotels near the convention venue, ------- find that they were all fully booked.
 
-- ##### (A) so as
+- (A) so as 🔐
 
 - (B) even though
 
 - (C)in order that
 
-- (D) only to
+- ##### (D) only to
 
 🎈15.------- who wishes to participate in the negotiation skills training  course should contact Ms.Moore on extension 990 by this coming Friday.
 
@@ -8517,15 +8517,15 @@ x
 
 - (D) necessarily
 
-🎈17.After a preliminary consultation, Miller System Service ----a  plan outlining the types of services that will benefit your business.
+🎈🤫17.After a preliminary consultation, Miller System Service ----a  plan outlining the types of services that will benefit your business.
 
 - (A) was created
 
-- ##### (B)having created
+- (B)having created🔐
 
 - (C) had been created
 
-- (D)will create
+- ##### (D)will create
 
 🎈18.The position of marketing director will be assigned to either  Mr. Hanyu in the marketing department------- Mr. Nishikori, who was interviewed on Monday.
 
@@ -8557,21 +8557,21 @@ x
 
 - (D) negotiates
 
-🎈21. ------- secure a seat at the upcoming seminar, participants must  submit an application form along with the $500 registration fee by September 15.
+🎈🤫21. ------- secure a seat at the upcoming seminar, participants must  submit an application form along with the $500 registration fee by September 15.
 
 - (A) In addition to
 
-- (B) In order to
+- ##### (B) In order to
 
 - (C) As soon as
 
-- ##### (D) With regard to
+- (D) With regard to 🔐
 
-🎈22. Executives at Carlton Department Store are excited-------the fresh  perspective that the new CEO is expected to bring to the organization.
+🎈🤫22. Executives at Carlton Department Store are excited-------the fresh  perspective that the new CEO is expected to bring to the organization.
 
-- (A)about
+- ##### (A)about
 
-- ##### (B) to
+- (B) to 🔐
 
 - (C) from
 
@@ -8607,53 +8607,53 @@ x
 
 - (D)even
 
-🎈26. Frank Rich, a theater critic and columnist at Mongolia Times, -------the paper to join Darkhan City magazine.
+🎈🤫26. Frank Rich, a theater critic and columnist at Mongolia Times, -------the paper to join Darkhan City magazine.
 
 - (A) leave
 
 - (B) has been left
 
-- (C) is leaving
+- ##### (C) is leaving
 
-- ##### (D) leaving
+- (D) leaving 🔐
 
-🎈27.A committee has been created to------- new strategies to  alleviate crowding on arterial roads during the rush hour.
+🎈🤫27.A committee has been created to------- new strategies to  alleviate crowding on arterial roads during the rush hour.
 
 - (A) deal
 
-- ##### (B)proceed
+- (B)proceed 🔐
 
-- (C)identify
+- ##### (C)identify
 
 - (D) agree
 
-🎈28. With regard to the performance review, project managers ------- accountable for both their personal and team achievements.
+🎈🤫28. With regard to the performance review, project managers ------- accountable for both their personal and team achievements.
 
 - (A)had held
 
-- (B)were held
+- ##### (B)were held
 
 - (C)were holding
 
-- ##### (D)was held
+- (D)was held  🔐
 
-🎈29. Ms. Grace would like to extend her------- to everyone for not  being able to attend the award ceremony in person.
+🎈🤫29. Ms. Grace would like to extend her------- to everyone for not  being able to attend the award ceremony in person.
 
-- ##### (A)apologize
+- (A)apologize  🔐
 
-- (B) apologies
+- ##### (B) apologies
 
 - (C) apologetic
 
 - (D) apologized
 
-🎈30.Several convenient technologies have become available and  it is necessary to update the Web site------- to maintain client satisfaction.
+🎈🤫30.Several convenient technologies have become available and  it is necessary to update the Web site------- to maintain client satisfaction.
 
 - (A)accord
 
-- ##### (B)according
+- (B)according 🔐
 
-- (C) accordingly
+- ##### (C) accordingly
 
 - (D) accordance
 
@@ -8767,15 +8767,15 @@ x
 
 - (D)since
 
-🎈12. -------to gain approval for construction of a new retail outlet in  the city center prompted the developers to look elsewhere for suitable locations.
+🎈🤫12. -------to gain approval for construction of a new retail outlet in  the city center prompted the developers to look elsewhere for suitable locations.
 
-- (A) Failure
+- ##### (A) Failure
 
 - (B)To have failed
 
 - (C) Fails
 
-- ##### (D)By failing
+- (D)By failing 🔐
 
 🎈13.-------has been said about the painter’s outstanding technique, but few people comment on the subjects of her paintings.
 
@@ -8787,13 +8787,13 @@ x
 
 - (D)Nobody
 
-🎈14. Ms. Narita is best suited for the position, because she is well  ------- with China and speaks fluent Mandarin.
+🎈🤫14. Ms. Narita is best suited for the position, because she is well  ------- with China and speaks fluent Mandarin.
 
-- ##### (A) acquaint
+- (A) acquaint 🔐
 
 - (B) acquainting
 
-- (C) acquainted
+- ##### (C) acquainted
 
 - (D) acquaintance
 
@@ -8817,13 +8817,13 @@ x
 
 - (D) now that
 
-🎈17.Please be aware that information is automatically exchanged  between your computer and our server-------you access our Web site.
+🎈🤫17.Please be aware that information is automatically exchanged  between your computer and our server-------you access our Web site.
 
-- (A)as soon as
+- ##### (A)as soon as
 
 - (B) on the other hand
 
-- ##### (C) as well as
+- (C) as well as 🔐
 
 - (D) instead of
 
@@ -8857,13 +8857,13 @@ x
 
 - (D) regulator
 
-🎈21.Kim’s Oriental Restaurant ------- in the heart of Tokyo, within  walking distance of Tokyo Sky Tower.
+🎈🤫21.Kim’s Oriental Restaurant ------- in the heart of Tokyo, within  walking distance of Tokyo Sky Tower.
 
 - (A)situate
 
-- ##### (B) situating
+- (B) situating 🔐
 
-- (C) is situated
+- ##### (C) is situated
 
 - (D) has situated
 
@@ -8937,23 +8937,23 @@ x
 
 - (D) establishes
 
-🎈29. Dolphin Hotel is conveniently located------- the Sherwood  Central Station and a short walk from the heart of the city center.
+🎈🤫29. Dolphin Hotel is conveniently located------- the Sherwood  Central Station and a short walk from the heart of the city center.
 
-- (A) opposite
+- ##### (A) opposite
 
 - (B) across
 
 - (C)next
 
-- ##### (D)nearby
+- (D)nearby 🔐
 
-🎈30. The GHV Sahara earned the highest safety rating for any vehicle  in its class ------- tested by writers from Motors Magazine.
+🎈🤫30. The GHV Sahara earned the highest safety rating for any vehicle  in its class ------- tested by writers from Motors Magazine.
 
 - (A)this
 
-- ##### (B)are
+- (B)are 🔐
 
-- (C)when
+- ##### (C)when
 
 - (D)from
 
@@ -9017,11 +9017,11 @@ x
 
 - (D)directory
 
-🎈7. Some of the flights from Kobe Airport have been delayed due to  heavy snow,but------- were canceled throughout the day.
+🎈🤫7. Some of the flights from Kobe Airport have been delayed due to  heavy snow,but------- were canceled throughout the day.
 
-- ##### (A)nobody
+- (A)nobody 🔐
 
-- (B)none
+- ##### (B)none 
 
 - (C) nothing
 
@@ -9077,11 +9077,11 @@ x
 
 - (D)other
 
-🎈13.The T&T Cooling Pad fits neatly------- most laptops and may  extend the life of your computer’s components.
+🎈🤫13.The T&T Cooling Pad fits neatly------- most laptops and may  extend the life of your computer’s components.
 
-- ##### (A) toward
+- (A) toward  🔐
 
-- (B) underneath
+- ##### (B) underneath  
 
 - (C)away
 
@@ -9107,15 +9107,15 @@ x
 
 - (D)what
 
-🎈16.Expert System 990 provides its customers with key competitive  advantages, such as improved energy efficiency,process reliability------- overall productivity.
+🎈🤫16.Expert System 990 provides its customers with key competitive  advantages, such as improved energy efficiency,process reliability------- overall productivity.
 
 - (A)whether
 
 - (B) even though
 
-- ##### (C) in order to
+- (C) in order to  🔐
 
-- (D) as well as
+- ##### (D) as well as
 
 🎈17. The latest novel by Hilda Clarke has a consistent------- of focus  and stays resolutely grounded in its characters until the very end.
 
@@ -9157,15 +9157,15 @@ x
 
 - (D)close by
 
-🎈21.Presidents of both Bear Airways and Panda Airlines ------- comment about the rumor of the merger.
+🎈🤫21.Presidents of both Bear Airways and Panda Airlines ------- comment about the rumor of the merger.
 
 - (A)to withhold
 
-- ##### (B) has withheld
+- (B) has withheld  🔐
 
 - (C) withholding
 
-- (D) withheld
+- ##### (D) withheld
 
 🎈22.Modigliani Motors plans to release its new model sports car not  only in Europe, but in the USA-------.
 
@@ -9207,13 +9207,13 @@ x
 
 - ##### (D) dividers
 
-🎈26.Your completed online application form will be ------- to our hiring  committee for consideration.
+🎈🤫26.Your completed online application form will be ------- to our hiring  committee for consideration.
 
-- ##### (A)forward
+- (A)forward 🔐
 
 - (B)forwards
 
-- (C)forwarded
+- ##### (C)forwarded
 
 - (D)forwarding
 
@@ -9257,13 +9257,13 @@ x
 
 - (D) In addition
 
-🎈1. Although-------have confirmed their participation in this year’s  International Jazz Festival, the tickets have already sold out.
+🎈1. 🤫Although-------have confirmed their participation in this year’s  International Jazz Festival, the tickets have already sold out.
 
-- (A) few
+- ##### (A) few
 
 - (B) other
 
-- ##### (C)someone
+- (C)someone 🔐
 
 - (D) everybody
 
@@ -9277,15 +9277,15 @@ x
 
 - (D) frequencies
 
-🎈3. Emiko Brooks swiftly became the head of a major auction house  -------her lack of art expertise.
+🎈🤫3. Emiko Brooks swiftly became the head of a major auction house  -------her lack of art expertise.
 
-- ##### (A)even though
+- (A)even though 🔐
 
 - (B) instead
 
 - (C)furthermore
 
-- (D)despite
+- ##### (D)despite
 
 🎈4. PUV Productions is looking into a method for ------- its  distribution procedure.
 
@@ -9297,15 +9297,15 @@ x
 
 - (D) simplification
 
-🎈5. The Mizuno Auto Company has signed up about 300 of its  -------customers for a program using its newest electric cars.
+🎈🤫5. The Mizuno Auto Company has signed up about 300 of its  -------customers for a program using its newest electric cars.
 
 - (A)reside
 
-- ##### (B) resided
+- (B) resided 🔐
 
 - (C)residence
 
-- (D) residential
+- ##### (D) residential
 
 🎈6. Harukichi Murakami had never written a book in his life, -------did he have any intention of writing one in the future.
 
@@ -9397,25 +9397,25 @@ x
 
 - (D) Past
 
-🎈15.Once the new computers are installed, employees will be  required to return ------- old machines to the rental company.
+🎈🤫15.Once the new computers are installed, employees will be  required to return ------- old machines to the rental company.
 
 - (A) they
 
-- ##### (B) them
+- (B) them 🔐
 
-- (C) their
+- ##### (C) their 
 
 - (D) theirs
 
-🎈16.Most of the employees------- said that they would prefer to work  longer hours every day if they could take Friday off.
+🎈🤫16.Most of the employees------- said that they would prefer to work  longer hours every day if they could take Friday off.
 
 - (A) question
 
-- (B) questioned
+- ##### (B) questioned
 
 - (C) questions
 
-- ##### (D) questionnaire
+- (D) questionnaire 🔐
 
 🎈17. All physicians should find the time to bring themselves  up-to-date with new drugs, no matter------- busy they are.
 
@@ -9457,15 +9457,15 @@ x
 
 - (D)from
 
-🎈21.The company concluded that renovating the existing facilities  would be a------- choice than relocating the business.
+🎈🤫21.The company concluded that renovating the existing facilities  would be a------- choice than relocating the business.
 
-- ##### (A)wise
+- (A)wise 🔐
 
 - (B)more wisely
 
 - (C)most wisely
 
-- (D)wiser
+- ##### (D)wiser
 
 🎈22.Tanton City is known for its emphasis on social welfare and a  strong------- to environment protection.
 
@@ -9507,11 +9507,11 @@ x
 
 - (D) Unless
 
-🎈26. The factory received a perfect score on safety and waste  management when-------reviewed by council inspectors.
+🎈🤫26. The factory received a perfect score on safety and waste  management when-------reviewed by council inspectors.
 
-- (A) last
+- ##### (A) last
 
-- ##### (B)recent
+- (B)recent 🔐
 
 - (C)soon
 
@@ -9537,11 +9537,11 @@ x
 
 - (D)expectantly
 
-🎈29. For most individuals, a home represents the ------- largest  investment they will make in their lives.
+🎈🤫29. For most individuals, a home represents the ------- largest  investment they will make in their lives.
 
-- (A)single
+- ##### (A)single
 
-- ##### (B)singly
+- (B)singly 🔐
 
 - (C) singled
 
@@ -9557,13 +9557,13 @@ x
 
 - ##### (D) relief
 
-🎈1. At a company luncheon next week, Ms. Inoue will receive an  award for her------- contribution to Perfect Tools Inc.
+🎈🤫1. At a company luncheon next week, Ms. Inoue will receive an  award for her------- contribution to Perfect Tools Inc.
 
 - (A)impress
 
-- (B) impressive
+- ##### (B) impressive
 
-- ##### (C) impressed
+- (C) impressed 🔐
 
 - (D) impressively
 
@@ -9667,23 +9667,23 @@ x
 
 - (D) habitation
 
-🎈12.Interns at Harbor Publishing may choose to assist with ongoing  research projects, or design one of -------, with an opportunity to publish their results.
+🎈🤫12.Interns at Harbor Publishing may choose to assist with ongoing  research projects, or design one of -------, with an opportunity to publish their results.
 
 - (A)they
 
 - (B)their
 
-- ##### (C)themselves
+- (C)themselves 🔐
 
-- (D) their own
+- ##### (D) their own
 
-🎈13.The global project manager’s challenge is to create a team  ------- members work well together although they see each other infrequently.
+🎈🤫13.The global project manager’s challenge is to create a team  ------- members work well together although they see each other infrequently.
 
-- (A)whose
+- ##### (A)whose
 
 - (B) its
 
-- ##### (C)that
+- (C)that 🔐
 
 - (D)which
 
@@ -9717,13 +9717,13 @@ x
 
 - (D) excellently
 
-🎈17.Compared with other fast-food chains, Hungry Burgers places  ------- emphasis on employee education.
+🎈🤫17.Compared with other fast-food chains, Hungry Burgers places  ------- emphasis on employee education.
 
-- (A) greater
+- ##### (A) greater
 
 - (B) greatly
 
-- ##### (C) more greatly
+- (C) more greatly 🔐
 
 - (D) as great as
 
@@ -9737,25 +9737,25 @@ x
 
 - ##### (D)other
 
-🎈19.The snowstorm left many airline passengers ---- at the airport  because many hotels were already fully booked.
+🎈🤫19.The snowstorm left many airline passengers ---- at the airport  because many hotels were already fully booked.
 
 - (A)strand
 
-- ##### (B)stranding
+- (B)stranding  🔐
 
-- (C) stranded
+- ##### (C) stranded
 
 - (D) strands
 
-🎈20.Happy Department Store is relocating to a building ------- from  its current location on Madison Avenue to address its growing storage needs.
+🎈🤫20.Happy Department Store is relocating to a building ------- from  its current location on Madison Avenue to address its growing storage needs.
 
-- ##### (A)between
+- (A)between 🔐
 
 - (B) around
 
 - (C)to
 
-- (D) across
+- ##### (D) across
 
 🎈21. One of the programs instituted by the new company director is to  assign mentors to ------- to provide access to advice from more experienced employees.
 
@@ -9787,25 +9787,25 @@ x
 
 - (D)off
 
-🎈24.An extremely------- research project was carried out to assess  the viability of expanding the firm internationally.
+🎈🤫24.An extremely------- research project was carried out to assess  the viability of expanding the firm internationally.
 
 - (A) costs
 
 - (B) costing
 
-- (C) costly
+- ##### (C) costly
 
-- ##### (D) cost
+- (D) cost  🔐
 
-🎈25.To ease traffic congestion on James River Freeway, a new  300-meter-long tunnel has been- ----.
+🎈🤫25.To ease traffic congestion on James River Freeway, a new  300-meter-long tunnel has been- ----.
 
 - (A) construction
 
-- ##### (B) constructing
+- (B) constructing  🔐
 
 - (C)construct
 
-- (D) constructed
+- ##### (D) constructed
 
 🎈26.All restaurants in Breeze Town must undergo a health ------- every three months.
 
@@ -9847,15 +9847,15 @@ x
 
 - (D) due to
 
-🎈30. Meetings to discuss the status of the latest construction project  ------- due to an unforeseen delay caused by the weather.
+🎈🤫30. Meetings to discuss the status of the latest construction project  ------- due to an unforeseen delay caused by the weather.
 
 - (A)was rescheduled
 
-- ##### (B)will reschedule
+- (B)will reschedule 🔐
 
 - (C) rescheduled
 
-- (D) have been rescheduled
+- ##### (D) have been rescheduled
 
 🎈1.The quarterly results,announced on Wednesday,exceeded  -------, and Victoria Department Store raised its yearly sales forecast.
 
@@ -9877,21 +9877,21 @@ x
 
 - (D) legible
 
-🎈3. When [Speednet.com](http://speednet.com/) requires a new employee, a significant  amount of time is spent identifying and interviewing ------- candidates.
+🎈🤫3. When [Speednet.com](http://speednet.com/) requires a new employee, a significant  amount of time is spent identifying and interviewing ------- candidates.
 
 - (A)promise
 
 - (B)promises
 
-- ##### (C)promised
+- (C)promised 🔐
 
-- (D) promising
+- ##### (D) promising
 
-🎈4. Orion Corporation has decided------- building a new headquarters  in Tokyo and will instead expand its existing facilities in Chiba.
+🎈🤫4. Orion Corporation has decided------- building a new headquarters  in Tokyo and will instead expand its existing facilities in Chiba.
 
-- (A)against
+- ##### (A)against
 
-- ##### (B)except
+- (B)except 🔐
 
 - (C)within
 
@@ -9917,21 +9917,21 @@ x
 
 - (D) the earliest
 
-🎈7. Mr. Tan’s recent research ------- that students learn more  effectively when listening to classical music has received almost no attention from academics.
+🎈🤫7. Mr. Tan’s recent research ------- that students learn more  effectively when listening to classical music has received almost no attention from academics.
 
 - (A) suggests
 
-- ##### (B) has suggested
+- (B) has suggested 🔐
 
-- (C) suggesting
+- ##### (C) suggesting
 
 - (D) is suggesting
 
-🎈8. ------- several local companies have recently advertised job  openings indicates that the economic situation is on the mend.
+🎈🤫8. ------- several local companies have recently advertised job  openings indicates that the economic situation is on the mend.
 
-- (A) The fact that
+- ##### (A) The fact that
 
-- ##### (B) There are
+- (B) There are 🔐
 
 - (C) Now
 
@@ -9947,15 +9947,15 @@ x
 
 - ##### (D) highly
 
-🎈10.To -------the press conference for the launch of the film,media  representatives must submit their applications by March 31.
+🎈🤫10.To -------the press conference for the launch of the film,media  representatives must submit their applications by March 31.
 
 - (A)reply
 
 - (B) participate
 
-- ##### (C) meet
+- (C) meet 🔐
 
-- (D) attend
+- ##### (D) attend
 
 🎈11.In addition to its sleek and modern design, the new laptop from  Cool Electronics is highly-------
 
@@ -10007,11 +10007,11 @@ x
 
 - (D) to attribute
 
-🎈16.There is ongoing debate among the city council members ------- whether or not to allow developers to renovate the historical building on Palm Street.
+🎈🤫16.There is ongoing debate among the city council members ------- whether or not to allow developers to renovate the historical building on Palm Street.
 
-- ##### (A) up to
+- (A) up to 🔐
 
-- (B) as to
+- ##### (B) as to
 
 - (C)out of
 
@@ -10037,19 +10037,19 @@ x
 
 - (D) optimizes
 
-🎈19.Candidates for the position need to be able to work efficiently on  ------- as well as in a team.
+🎈🤫19.Candidates for the position need to be able to work efficiently on  ------- as well as in a team.
 
 - (A)they
 
 - (B) their
 
-- ##### (C)themselves
+- (C)themselves  🔐
 
-- (D)their own
+- ##### (D)their own
 
 🎈20.Once the document is inserted and the envelope affixed to a box, the envelope has to be cut -------to retrieve its contents.
 
-- (A) open
+- ##### (A) open
 - (B)opens
 - (C) opener
 - (D) opening
@@ -10059,55 +10059,55 @@ x
 - (A)without
 - (B)despite
 - (C)since
-- (D)unless
+- ##### (D)unless
 
-🎈22. Hassan Engineering hopes to make partnerships with the  contractors-------than they have been to maintain its competitive pricing strategy.
+🎈🤫22. Hassan Engineering hopes to make partnerships with the  contractors-------than they have been to maintain its competitive pricing strategy.
 
-- (A)stronger
+- ##### (A)stronger
 - (B) strongest
-- (C) more strongly
+- (C) more strongly 🔐
 - (D) most strongly
 
-🎈23.Mr.Reed was surprised at the participation of the  attendees at his business seminar.
+🎈23.Mr.Reed was surprised at the participation of the ------- attendees at his business seminar.
 
 - (A) enthusiast
 - (B) enthusiasm
-- (C) enthusiastic
+- ##### (C) enthusiastic
 - (D) enthusiastically
 
-🎈24.Stronger customer demand has triggered several auto  manufacturers to develop hybrid vehicles that are economically efficient and environmentally friendly.
+🎈24.Stronger customer demand has triggered several auto  manufacturers to develop hybrid vehicles that are ------- economically efficient and environmentally friendly.
 
 - (A) as
-- (B)both
+- ##### (B)both
 - (C)if so
 - (D) not only
 
 🎈25. Gooday Electronics recently hired Benjamin Fischer, an -------in  mobile phone technology.
 
-- (A)expert
+- ##### (A)expert
 - (B) expertise
 - (C) expertize
 - (D) expertized
 
-🎈26. Ms. Brooks suggested that she would be -------staying in the  company than leaving after her maternity leave.
+🎈🤫26. Ms. Brooks suggested that she would be -------staying in the  company than leaving after her maternity leave.
 
 - (A)happy
-- (B) happily
+- (B) happily 🔐
 - (C) happiness
-- (D) happier
+- ##### (D) happier
 
 🎈27. The book, A Comprehensive Guide for Job Interviews, can be  useful to people who are unsure of -------.
 
 - (A)them
-- (B) themselves
+- ##### (B) themselves
 - (C) us
 - (D) ourselves
 
-🎈28. James Nichol has been ------- in obtaining a loan to the museum  of an exhibit from the Royal French Historical Society.
+🎈🤫28. James Nichol has been ------- in obtaining a loan to the museum  of an exhibit from the Royal French Historical Society.
 
 - (A)instrument
-- (B) instrumental
-- (C) instrumentally
+- ##### (B) instrumental 
+- (C) instrumentally  🔐
 - (D) instruments
 
 🎈29.If requested, Hanz Confectionary-------an extended leave of  absence for employees who have worked at the company for longer than five years.
@@ -10115,32 +10115,32 @@ x
 - (A) arrange
 - (B) has arranged
 - (C) arranging
-- (D)will arrange
+- ##### (D)will arrange
 
 🎈30.Employees are provided a safety helmet which they should keep  ------ the length of their employment at Kramer Industries.
 
 - (A)until
 - (B)and
 - (C)then
-- (D)for
+- ##### (D)for
 
 🎈1. Attendance at County Stadium------- at 50,000 on October 8, when the Osaka Panthers defended the Pacific Championship title.
 
 - (A) enlarged
 - (B) attained
-- (C)peaked
+- ##### (C)peaked
 - (D) reached
 
 🎈2. Through her-------negotiations with Wallaby Airways,the CEO  of Kangaroo Air has removed a major obstacle in bringing the two airlines together.
 
 - (A) success
-- (B) successful
+- ##### (B) successful
 - (C) successfully
 - (D)succeed
 
 🎈3. Computer software is used to analyze the amount of time staff  members spend -------each stage of the project.
 
-- (A)on
+- ##### (A)on
 - (B) from
 - (C)of
 - (D)as
@@ -10150,18 +10150,18 @@ x
 - (A)they
 - (B)their
 - (C)them
-- (D)theirs
+- ##### (D)theirs
 
-🎈5. Alpha Taxi plans to relocate since the current------- does not  have sufficient room to accommodate the growing number of vehicles it operates.
+🎈🤫5. Alpha Taxi plans to relocate since the current------- does not  have sufficient room to accommodate the growing number of vehicles it operates.
 
 - (A)locate
 - (B)located
-- (C) locates
-- (D) location
+- (C) locates 🔐
+- ##### (D) location
 
 🎈6. ------- two years, the Kyoto Airport conducts a study of the  passengers to learn how to better attend to their needs.
 
-- (A) Every
+- ##### (A) Every
 - (B) Within
 - (C) For
 - (D)Before
@@ -10169,14 +10169,14 @@ x
 🎈7. The Web site contains-------reviews of classic movies as well as  the latest movies and documentaries.
 
 - (A) count
-- (B) countless
+- ##### (B) countless
 - (C)counting
 - (D)counts
 
 🎈8. A survey estimated that 43 percent of households in Britain have  ---- a garage nor a driveway, forcing vehicle owners to park on the street.
 
 - (A) every
-- (B) neither
+- ##### (B) neither
 - (C) all
 - (D) either
 
@@ -10184,19 +10184,19 @@ x
 
 - (A)know
 - (B) knew
-- (C)to know
+- ##### (C)to know
 - (D)knowing
 
 🎈10.EG Equipment provides customers with the highest quality  materials, competitive prices, and-------service.
 
 - (A)depend
 - (B) depending
-- (C)dependable
+- ##### (C)dependable
 - (D) dependably
 
 🎈11.Construction of the new city museum will begin shortly after the  contractor------- by the city council.
 
-- (A) has been authorized
+- ##### (A) has been authorized
 - (B) has authorized
 - (C)will authorize
 - (D) authorized
@@ -10211,15 +10211,15 @@ x
 
 - (D)limitedly
 
-🎈13.Golden Babylonia can translate Arabic into English – —than  any other software on the market.
+🎈🤫13.Golden Babylonia can translate Arabic into English – —than  any other software on the market.
 
 - (A) accurately
 
 - (B) accurate
 
-- (C) more accurately
+- ##### (C) more accurately
 
-- ##### (D) more accurate
+- (D) more accurate 🔐
 
 🎈14. ------- interested in attending the seminar should register early  because there is a limited number of seats.
 
@@ -10265,12 +10265,12 @@ x
 - (C) developed
 - (D) developing
 
-🎈19. At Coral Reef Hotel, special meals are available upon request for  -------with dietary restrictions.
+🎈🤫19. At Coral Reef Hotel, special meals are available upon request for  -------with dietary restrictions.
 
 - (A)them
-- (B)those
+- ##### (B)those
 - (C)which
-- ##### (D)whose
+- (D)whose 🔐
 
 🎈20. Mr.Dubois turned the company around by utilizing customer  feedback in a highly--------manner.
 
@@ -10370,11 +10370,11 @@ x
 - ##### (C) periodically
 - (D) periodicals
 
-🎈4. Emma Simon can arrange a factory tour for your clients if you let  know at least a week in advance.
+🎈🤫4. Emma Simon can arrange a factory tour for your clients if you let  know at least a week in advance.
 
-- ##### (A)she
+- (A)she  🔐
 - (B)hers
-- (C)her
+- ##### (C)her
 - (D)herself
 
 🎈5. The Louisville Museum will be open ------- the public on Sunday, following nearly two years of renovation.
@@ -10531,11 +10531,11 @@ x
 - ##### (C) greatest
 - (D) greatness
 
-🎈27. Some industry analysts predict that the worldwide mobile phone  market will show signs of-------toward the end of the year.
+🎈🤫27. Some industry analysts predict that the worldwide mobile phone  market will show signs of-------toward the end of the year.
 
 - (A) utility
-- (B) improvement
-- ##### (C) rise
+- ##### (B) improvement
+- (C) rise 🔐
 - (D) relocation
 
 🎈28. Sales of portable printers have been-------improving since the  lighter, faster models were released last year.
@@ -10552,7 +10552,7 @@ x
 - (C) what
 - (D) who
 
-🎈30. People who -------to the Sakura Fund had their names inscribed  on a memorial plaque.
+🎈30. People who ------- to the Sakura Fund had their names inscribed  on a memorial plaque.
 
 - (A)supported
 - ##### (B) donated
@@ -10563,21 +10563,21 @@ x
 
 - (A) thorough
 - (B) more thorough
-- (C)thoroughly
+- ##### (C)thoroughly
 - (D) thoroughness
 
-🎈2. a large international company, Horizon Ltd. started as a small  business in South Melbourne.
+🎈🤫2. ------- a large international company, Horizon Ltd. started as a small  business in South Melbourne.
 
-- (A) Now
+- ##### (A) Now
 - (B) Become
 - (C) After
-- (D) Prior
+- (D) Prior 🔐
 
-🎈3. Townsend Corporation continuously looks --new ways to save  money while protecting the environment.
+🎈3. Townsend Corporation continuously looks ------- new ways to save  money while protecting the environment.
 
 - (A) like
 - (B)around
-- (C) for
+- ##### (C) for
 - (D) inside
 
 🎈4.Independent tests by several respected magazines confirmed the  outstanding-------of Colombo Motors’ newest sedan.
@@ -10585,25 +10585,25 @@ x
 - (A)rely
 - (B)reliable
 - (C)reliably
-- (D) reliability
+- ##### (D) reliability
 
 🎈5. Sunrise Financial Advisers relies mostly on word-of-mouth publicity  which means it saves a lot of money on ------- its services.
 
 - (A) advertise
 - (B) advertised
-- (C) advertising
+- ##### (C) advertising
 - (D) advertisements
 
 🎈6. Student loan applications will be ------- promptly in chronological  order according to the date on the receipt.
 
-- (A)processed
+- ##### (A)processed
 - (B) process
 - (C)processes
 - (D)processing
 
-🎈7. the motivational speaker addressed new staff members, a  technician recorded her presentation.
+🎈7.------- the motivational speaker addressed new staff members, a  technician recorded her presentation.
 
-- (A) While
+- ##### (A) While
 - (B)Rather than
 - (C) Yet
 - (D) As if
@@ -10611,7 +10611,7 @@ x
 🎈8. After a three-month delay, Olivia Evans is-------ready to launch a  sequel to her popular debut novel.
 
 - (A) final
-- (B) finally
+- ##### (B) finally
 - (C)finalizing
 - (D) finals
 
@@ -10619,19 +10619,19 @@ x
 
 - (A) suggest
 - (B) suggests
-- (C) suggested
+- ##### (C) suggested
 - (D) suggestions
 
-🎈10.Items in the canned food section should be stacked with – to  avoid any damage from accidental bumps and scrapes.
+🎈🤫10.Items in the canned food section should be stacked with ------- to  avoid any damage from accidental bumps and scrapes.
 
-- (A) care
+- ##### (A) care 🔐
 - (B) careful
 - (C) carefully
 - (D) cared
 
-🎈11.Mr. Park will be posted to the customer service department  he has been trained for three weeks under Ms. Williams.
+🎈11.Mr. Park will be posted to the customer service department ------- he has been trained for three weeks under Ms. Williams.
 
-- (A)after
+- ##### (A)after
 - (B)while
 - (C)then
 - (D)that
@@ -10640,55 +10640,55 @@ x
 
 - (A) of
 - (B)out
-- (C)from
+- ##### (C)from
 - (D)than
 
 🎈13.Factory supervisors are responsible for -------that all employees  are updated on safety regulations.
 
 - (A)ensure
-- (B) ensuring
+- ##### (B) ensuring
 - (C) ensures
 - (D)ensured
 
-🎈14.The cap on the gas tank should be- tightened before starting  the engine.
+🎈14.The cap on the gas tank should be ------- tightened before starting  the engine.
 
 - (A)firm
-- (B) firmer
+- (B)firmer
 - (C)firmness
-- (D) firmly
+- ##### (D)firmly
 
 🎈15.While Sophia Gonzalez’s promotion to the director position took  place a month ago, her previous position is ------- to be filled.
 
 - (A)even
-- (B) recent
+- (B)recent
 - (C)like
-- (D) yet
+- ##### (D)yet
 
 🎈16.The administrative assistant was required by her supervisor to  restock the shelves with office-------.
 
 - (A)supply
 - (B)supplied
 - (C) supplier
-- (D) supplies
+- ##### (D) supplies
 
 🎈17.Joe Oliver,the British celebrity chef, has made it his mission in  recent years, to break people’s ------- on fast food.
 
 - (A) dependent
-- (B)depends
-- (C) dependence
+- (B) depends
+- ##### (C)  dependence
 - (D) dependently
 
 🎈18. Participants will receive copies of all materials used -------the  workshop sessions and will be encouraged to use them at their workplaces.
 
-- (A)during
-- (B) while
+- ##### (A)during
+- (B)while
 - (C)when
 - (D)once
 
-🎈19.Senior sales representatives can obtain ----access to  their team’s sales figures using one of the computers in the administration office.
+🎈🤫19.Senior sales representatives can obtain ----access to  their team’s sales figures using one of the computers in the administration office.
 
-- (A)secure
-- (B) securely
+- ##### (A)secure
+- (B) securely 🔐
 - (C)secures
 - (D)securing
 
@@ -10697,74 +10697,74 @@ x
 - (A)assured
 - (B)pointed
 - (C)offered
-- (D) indicated
+- ##### (D) indicated
 
-🎈21.The Mansfield Domestic Airport built just six years ago has  been expanded to accommodate international flights.
+🎈🤫21.The Mansfield Domestic Airport built just six years ago has ------- been expanded to accommodate international flights.
 
-- (A)soon
+- (A)soon 🔐
 - (B)yet
-- (C) since
+- ##### (C)since
 - (D)after
 
 🎈22. Unless George’s Appliances-------a more aggressive business  plan immediately, it will lose market share to new rivals.
 
-- (A)adopts
-- (B) coincides
+- ##### (A)adopts                
+- (B)coincides
 - (C)proceeds
 - (D)agrees
 
-🎈23.Applications for business trips must have a manager’s signed  before they are submitted to administration.
+🎈23.Applications for business trips must have a manager’s signed ------- before they are submitted to administration.
 
 - (A)approve
 - (B) approved
 - (C)approves
-- (D) approval
+- ##### (D) approval
 
-🎈24. Quick Communication’s newest mobile phone is far smaller  the palm of a typical user.
+🎈24. Quick Communication’s newest mobile phone is far smaller -------  the palm of a typical user.
 
 - (A) at
 - (B)with
-- (C)than
+- ##### (C)than
 - (D) when
 
 🎈25.If the copy machine is out of paper, add------- from the storage  cupboard located beside the door to the kitchen.
 
 - (A)other
-- (B) more
+- ##### (B)more
 - (C)few
 - (D)one
 
-🎈26.Considering her exceptional work at the regional ofice, we believe  Ms. Gupta is------- a qualified candidate for general manager.
+🎈🤫26.Considering her exceptional work at the regional ofice, we believe  Ms. Gupta is------- a qualified candidate for general manager.
 
 - (A)sure
-- (B)surely
-- (C)surest
+- ##### (B)surely 
+- (C)surest 🔐
 - (D)sureness
 
-🎈27. The parking area near the front entrance of the main office  for outside visitors.
+🎈27. The parking area near the front entrance of the main office ------- for outside visitors.
 
-- (A) to be allocated
-- (B) has been allocated
-- (C) allocates
+- (A)to be allocated
+- ##### (B)has been allocated
+- (C)allocates
 - (D)was allocating
 
-🎈28. Angela Ocampo attended last Tuesday’s seminar on business  and learned how to reduce costs and increase profits.
+🎈28. Angela Ocampo attended last Tuesday’s seminar on business ------- and learned how to reduce costs and increase profits.
 
-- (A)finance
-- (B) financial
-- (C) financially
+- ##### (A)finance
+- (B)financial
+- (C)financially
 - (D)financed
 
 🎈29. Most industry experts expect prices – — relatively constant for  the next five years.
 
 - (A)remain
-- (B) to remain
+- ##### (B) to remain
 - (C)remaining
 - (D)remains
 
 🎈30.Any reasonable expenses incurred in holding business meetings will  be reimbursed -------the company.
 
-- (A)by
+- ##### (A)by
 - (B)after
 - (C)on
 - (D)with
@@ -10773,12 +10773,12 @@ x
 
 - (A) transportable
 - (B) transporting
-- (C) transportation
+- ##### (C) transportation
 - (D) transported
 
 🎈2. Over the weekend, either Ms. Parker-------Mr. Scott will be in the  office to answer customer calls.
 
-- (A)or
+- ##### (A)or
 - (B)unless
 - (C)then
 - (D)and
@@ -10787,49 +10787,49 @@ x
 
 - (A) provided that
 - (B) in the event of
-- (C)instead of
+- ##### (C)instead of
 - (D) as much as
 
 🎈4. The detailed terms and conditions of your employment are set forth  in the -------employment agreement.
 
 - (A)enclose
-- (B)enclosed
+- ##### (B)enclosed
 - (C) enclosing
 - (D)encloses
 
 🎈5. The CEO said a suburban location would be more convenient  and less expensive ------- the current corporate headquarters in downtown New York.
 
-- (A)than
+- ##### (A)than
 - (B)and
 - (C)but
 - (D) while
 
-🎈6. Meridian Town was already participating in Bigmart’s same-day  program,which began in select markets last fall.
+🎈6. Meridian Town was already participating in Bigmart’s same-day -------  program,which began in select markets last fall.
 
 - (A) deliver
 - (B) delivered
 - (C)delivers
-- (D)delivery
+- ##### (D)delivery
 
 🎈7. The Drover’s Bookshop carries a large ------- of books signed  by their authors, in addition to rare first editions and hard-to-find books.
 
-- (A) stock
+- ##### (A) stock
 - (B) stocks
 - (C)stocked
 - (D) stocking
 
 🎈8. Tourist information and brochures can be found— --the front  desk in the lobby.
 
-- (A) at
+- ##### (A) at
 - (B) after
 - (C) into
 - (D) between
 
-🎈9. FutureNet/ announced on Monday that it had acquired  Next Networks, a Web video production company based in San Francisco.
+🎈9. FutureNet ------- announced on Monday that it had acquired  Next Networks, a Web video production company based in San Francisco.
 
 - (A) formal
 - (B)formality
-- (C)formally
+- ##### (C)formally
 - (D) formalize
 
 🎈10.Melware Corporation reserves the right------- service to users who  do not abide by the terms of the contract.
@@ -10837,110 +10837,110 @@ x
 - (A) cancel
 - (B) canceling
 - (C) canceled
-- (D) to cancel
+- ##### (D) to cancel
 
-🎈11. The Laurent Museum in Paris is home to the world’s largest  of impressionist paintings.
+🎈11. The Laurent Museum in Paris is home to the world’s largest ------- of impressionist paintings.
 
 - (A)collect
 - (B)collected
 - (C)collects
-- (D)collection
+- ##### (D)collection
 
 🎈12.The company will ------- be organizing a nationwide campaign for  its new line of mobile phones in April.
 
 - (A)want
-- (B) most likely
+- ##### (B) most likely
 - (C)the one
 - (D) to
 
-🎈13.In order for an employee to register for a seminar, all application  forms must be filled in------- and signed.
+🎈🤫13.In order for an employee to register for a seminar, all application  forms must be filled in------- and signed.
 
 - (A) complete
 - (B) completes
-- (C)completing
-- (D) completely
+- (C)completing 🔐
+- ##### (D) completely
 
-🎈14.Mr. Cooper’s proposal for street rejuvenation was met  enthusiasm by local residents who had put up with potholes for decades.
+🎈14.Mr. Cooper’s proposal for street rejuvenation was met -------  enthusiasm by local residents who had put up with potholes for decades.
 
-- (A)with
+- ##### (A)with
 - (B)in
 - (C) at
 - (D)through
 
-🎈15.For preventive maintenance of your car, visit one of our  dealers at least once every six months.
+🎈15.For preventive maintenance of your car, visit one of our ------- dealers at least once every six months.
 
 - (A) authority
 - (B) authorize
-- (C) authorized
+- ##### (C) authorized
 - (D) authorization
 
-🎈16.Before signing an agreement, ------- lease terms, especially in  regard to the fees required.
+🎈🤫16.Before signing an agreement, ------- lease terms, especially in  regard to the fees required.
 
-- (A)examines
-- (B)examine
+- (A)examines 🔐
+- ##### (B)examine
 - (C)examined
 - (D)examining
 
 🎈17.The Wellington Bus Service operates between City Airport and  Central Train Station------- two hours during the day, seven days a week.
 
 - (A)many
-- (B)every
+- ##### (B)every
 - (C)few
 - (D)both
 
-🎈18.Summerville town officials are currently developing a plan to reduce  the ------- number of cars using Route 15.
+🎈🤫18.Summerville town officials are currently developing a plan to reduce  the ------- number of cars using Route 15.
 
-- (A)increase
+- (A)increase 🔐
 - (B)increases
-- (C)increasing
+- ##### (C)increasing 
 - (D) increasingly
 
-🎈19.To enter the building you must swipe your employee card through  the reader firmly, but not so firmly ------- damage the machine.
+🎈🤫19.To enter the building you must swipe your employee card through  the reader firmly, but not so firmly ------- damage the machine.
 
 - (A)so that
-- (B)as to
+- ##### (B)as to
 - (C)if only
-- (D) in case
+- (D) in case 🔐
 
 🎈20. Fresh Mart ------- the help of its suppliers to cut down on packaging  and its impact on the environment.
 
 - (A)was enlisted
 - (B)enlisting
-- (C)is enlisting
+- ##### (C)is enlisting
 - (D) has been enlisted
 
 🎈21. Tenants are usually required to inform their landlords at least 30 days in ------- if they wish to move out.
 
-- (A)advance
+- ##### (A)advance
 - (B)advanced
 - (C) advancement
 - (D) advancing
 
-🎈22.Wave Instruments is now under ------- to produce watches that can  display apps and notify wearers of incoming messages from social media.
+🎈🤫22.Wave Instruments is now under ------- to produce watches that can  display apps and notify wearers of incoming messages from social media.
 
-- (A)pressure
-- (B)burden
+- ##### (A)pressure
+- (B)burden 🔐
 - (C)weight
 - (D)rule
 
 🎈23.Despite-------requests from wholesalers and retailers, Orange  Appliance has yet to develop a new refrigerator.
 
-- (A) numerous
+- ##### (A) numerous
 - (B) numerously
 - (C)numbering
 - (D)numbered
 
-🎈24. Dr. Mitchell has shown compassion for-- patients over the past  thirty years.
+🎈24. Dr. Mitchell has shown compassion for------- patients over the past  thirty years.
 
 - (A)she
-- (B)her
+- ##### (B)her
 - (C)hers
 - (D) herself
 
 🎈25. Hoffman Corporation’s annual meeting------- shareholders will be  held on Wednesday,December 22 at 1:00 P.M.
 
 - (A)into
-- (B)for
+- ##### (B)for
 - (C)from
 - (D) throughout
 
@@ -10948,13 +10948,13 @@ x
 
 - (A) prevent
 - (B) prevents
-- (C) preventive
+- ##### (C) preventive
 - (D) prevented
 
 🎈27. The CEO will review the third-quarter sales reports -------they are  submitted to the auditing firm.
 
 - (A) upon
-- (B)before
+- ##### (B)before
 - (C) around
 - (D) from
 
@@ -10962,33 +10962,33 @@ x
 
 - (A) deliberate
 - (B) deliberated
-- (C) deliberately
+- ##### (C) deliberately
 - (D) deliberation
 
 🎈29. Popular jazz singer Olivia Price will be holding two concerts in  Tokyo in April,------- an announcement on her Web site.
 
 - (A) if only
 - (B) provided that
-- (C) according to
+- ##### (C) according to
 - (D) even though
 
-🎈30.The company-------that the national advertising campaign had not  generated the expected results.
+🎈🤫30.The company-------that the national advertising campaign had not  generated the expected results.
 
 - (A)was concluded
-- (B) have concluded
+- (B) have concluded 🔐
 - (C) concluding
-- (D) concluded
+- ##### (D) concluded
 
-🎈1. The meeting this afternoon will be held in the conference room on  the fourth floor at 3 P.M.-------.
+🎈🤫1. The meeting this afternoon will be held in the conference room on  the fourth floor at 3 P.M.-------.
 
 - (A)precise
 - (B) most precise
-- (C) more precisely
-- (D)precisely
+- (C) more precisely 🔐
+- ##### (D)precisely
 
 🎈2. Applicants for the position are expeced to be-------in English, although no certificate is required.
 
-- (A)proficient
+- ##### (A)proficient
 - (B) proficiently
 - (C)proficiency
 - (D) more proficiently
@@ -10997,35 +10997,35 @@ x
 
 - (A)silences
 - (B)silenced
-- (C) silence
+- ##### (C) silence
 - (D) silencing
 
 🎈4. The language school boasts that over 80 percent of its students  make significant-------in both listening and speaking after three months of tuition.
 
 - (A) progressive
-- (B) progress
+- ##### (B) progress
 - (C)progressively
 - (D) progressed
 
-🎈5. Marketing department staff members are invited to tour the plant to  see the quality control procedures are implemented.
+🎈5. Marketing department staff members are invited to tour the plant to  see ------- the quality control procedures are implemented.
 
 - (A)during
-- (B) how
+- ##### (B) how
 - (C)about
 - (D)whom
 
-🎈6. Brad Jessen presented an-------to the City Council for heating and  air conditioning at the new convention center.
+🎈🤫6. Brad Jessen presented an-------to the City Council for heating and  air conditioning at the new convention center.
 
-- (A) estimate
+- ##### (A) estimate
 - (B) estimated
-- (C) estimating
+- (C) estimating 🔐
 - (D) estimates
 
 🎈7. Through a translator, Ms. Ivanov spoke with ------- by phone from  Moscow about her role in the new film.
 
 - (A) we
 - (B) our
-- (C) us
+- ##### (C) us
 - (D) ourselves
 
 🎈8. Baliwood Hotel------- conducts guest surveys to gather information  that will help it find what areas of its services need improvement.
@@ -11033,54 +11033,54 @@ x
 - (A)regularize
 - (B) regularizing
 - (C) regularity
-- (D) regularly
+- ##### (D) regularly
 
 🎈9. During the conference,a------- meal will be served from 3:00 P.M. to  3:30 P.M. in the Tower Café located on the fifth floor.
 
 - (A) lightness
 - (B) lightly
-- (C) light
+- ##### (C) light
 - (D) lightest
 
-🎈10.The company has expanded suddenly,-- a move to larger  premises with a dedicated parking lot.
+🎈10.The company has expanded suddenly,------- a move to larger  premises with a dedicated parking lot.
 
 - (A) necessitate
-- (B) necessitating
+- ##### (B) necessitating
 - (C) necessitated
 - (D) necessitates
 
 🎈11.Gilbert Public Schools’ technology department already has plans to  replace the------- computers this summer.
 
 - (A)outdate
-- (B)outdated
+- ##### (B)outdated
 - (C) outdates
 - (D) outdating
 
-🎈12. While traditional manufacturing is still ideal for high-volume  production of metallic parts, 3D printing offers the option to produce low-volume mock-ups.
+🎈12. While traditional manufacturing is still ideal for high-volume  production of metallic parts, 3D printing offers the option to ------- produce low-volume mock-ups.
 
 - (A)speed
 - (B)speeded
 - (C)speedy
-- (D)speedily
+- ##### (D)speedily
 
 🎈13.Aya Hernandez was one of the top five finalists of the piano  competition,-------whom audience members will choose a winner.
 
 - (A) around
 - (B) during
-- (C)from
+- ##### (C)from
 - (D)above
 
-🎈14.she has a previous engagement with her client, Louise Simon  will not be in attendance at today’s meeting.
+🎈14. ------- she has a previous engagement with her client, Louise Simon  will not be in attendance at today’s meeting.
 
 - (A) Nevertheless
 - (B)Rather
-- (C)Because
+- ##### (C)Because
 - (D)Whether
 
-🎈15. Next year, Bernier Corporation’s major objective is to establish even  ties between its domestic and international divisions.
+🎈15. Next year, Bernier Corporation’s major objective is to establish even -------  ties between its domestic and international divisions.
 
 - (A)strong
-- (B) stronger
+- ##### (B) stronger
 - (C)strongly
 - (D) strongest
 
@@ -11088,12 +11088,12 @@ x
 
 - (A)rely
 - (B)relying
-- (C)relevant
+- ##### (C)relevant
 - (D)relevancy
 
-🎈17.Ms. Kim is considering relocating to Evergreen Town because  would be more convenient to her base of clients.
+🎈17.Ms. Kim is considering relocating to Evergreen Town because ------- would be more convenient to her base of clients.
 
-- (A) it
+- ##### (A) it
 - (B)she
 - (C)which
 - (D)some
@@ -11101,14 +11101,14 @@ x
 🎈18.Every room of the hotel has an-------view of Lake Tahoma and  Millwood Mountain.
 
 - (A)expand
-- (B)expansive
+- ##### (B)expansive
 - (C)expansively
 - (D) expansion
 
-🎈19. Experts are predicting that the market for mobile phones-- by  over 5 percent over the next five years.
+🎈19. Experts are predicting that the market for mobile phones ------- by  over 5 percent over the next five years.
 
 - (A) are growing
-- (B) will grow
+- ##### (B) will grow
 - (C) have grown
 - (D) had grown
 
@@ -11116,26 +11116,26 @@ x
 
 - (A)beauty
 - (B) beautiful
-- (C)beautifully
+- ##### (C)beautifully
 - (D) beautified
 
 🎈21.Many of the suppliers have ------- to submit invoices for services  received in December.
 
-- (A)yet
+- ##### (A)yet
 - (B) already
 - (C)after
 - (D) until
 
 🎈22. The Voyage Savor jams are made ------- locally grown, organic  ingredients from the Drome region.
 
-- (A)from
+- ##### (A)from
 - (B)below
 - (C) to
 - (D) into
 
 🎈23. The factory foreman conducts------- inspections of the facility to  ensure that all the machinery is working efficiently.
 
-- (A)frequent
+- ##### (A)frequent
 - (B)frequently
 - (C)frequency
 - (D) frequencies
@@ -11143,49 +11143,49 @@ x
 🎈24. After returning to Florence in 1985, Mr. Moretti produced a number  of paintings, ------- of which are housed in Moretti Memorial Museum.
 
 - (A)other
-- (B) several
+- ##### (B) several
 - (C) that
 - (D)anything
 
-🎈25.------- the annual company banquet, Mr. Garcia and his team  volunteered to work in the cloakroom.
+🎈🤫25.------- the annual company banquet, Mr. Garcia and his team  volunteered to work in the cloakroom.
 
 - (A)When
-- (B)While
+- (B)While 🔐
 - (C) Instead
-- (D) During
+- ##### (D) During 
 
-🎈26.Our certified technicians provide a full range of services vehicles such as oil changes, scheduled maintenance, and brake upgrades.
+🎈🤫26.Our certified technicians provide a full range of services ------- vehicles such as oil changes, scheduled maintenance, and brake upgrades.
 
 - (A)by
-- (B) for
+- ##### (B) for
 - (C)from
-- (D)in
+- (D)in 🔐
 
 🎈27. The Real Estate Show will offer an excellent opportunity for home  owners to acquaint------- with the latest trends in home furnishings.
 
 - (A)they
 - (B)their
 - (C)them
-- (D)themselves
+- ##### (D)themselves
 
 🎈28. The renowned architect Stuart Silk ------- to design nine custom  homes near Shanghai with no restrictions on style or budget.
 
 - (A)was commissioning
 - (B) be commissioning
 - (C) will have commissioned
-- (D) has been commissioned
+- ##### (D) has been commissioned
 
 🎈29. Mr.Lyle was asked to contact the human resources department to  arrange a follow-up ------- for the accounting position.
 
 - (A)interviewed
-- (B) interview
+- ##### (B) interview
 - (C)interviewing
 - (D) interviews
 
-🎈30. The museum announced today that Alan Cooper has been  director and chief executive officer.
+🎈30. The museum announced today that Alan Cooper has been ------- director and chief executive officer.
 
 - (A) returned
-- (B) appointed
+- ##### (B) appointed
 - (C) regarded
 - (D) promoted
 
@@ -11353,7 +11353,7 @@ x
 
 - ##### (A)charge
 
-- ##### (B) pay🔐
+- (B) pay🔐
 
 - (C)money
 
@@ -11488,6 +11488,740 @@ x
 - (C)another
 
 - (D) other
+
+🎈101.Ms. lwata handed out copies of the agenda that ------ had printed for the meeting.
+
+- (A)hers 
+
+- (B)her 
+
+- ##### (C)she 
+
+- (D)herself
+
+🎈102.The food -------for the conference must be sent to the caterer by Friday at 5: 00 P.M.
+
+- ##### (A)order  
+
+- (B)group  
+
+- (C)profit  
+
+- (D)lesson
+
+🎈103.The product review says that the Cozy Days space heater is------- to warm up than similar products.
+
+- (A)slowest  
+
+- ##### (B)slower  
+
+- (C)slowed   
+
+- (D)slowing
+
+🎈104.Employees from San Jose International will arrive in Alajuela tomorrow for ----- first training session.
+
+- (A)they  
+
+- ##### (B)their  
+
+- (C)them  
+
+- (D)theirs
+
+🎈🤫105.To apply for a driving permit, you must------- two forms of identification.
+
+- (A)meet 🔐
+
+- (B)work 
+
+- ##### (C)show 
+
+- (D)ride 
+
+🎈106. Sales of Seviana Cosmetics have -------  improved since the new marketing  campaign began last quarter. 
+
+- (A)steady 
+
+- ##### (B)steadily 
+
+- (C)steadiest
+
+- (D)steadied 
+
+🎈107.  Most applicants to Shim Accounting Services have completed a ------ internship at the company headquarters. 
+
+- (A)clear 
+
+- (B)present 
+
+- (C)taken
+
+- ##### (D)paid 
+
+🎈108. Each Beehive Crafts Supply customer may redeem------- coupon per visit. 
+
+- (A)alone 
+
+- ##### (B)one 
+
+- (C)first 
+
+- (D)once 
+
+🎈109.Dietrich Dentistry asks patients to provide 24-hour notice to cancel a scheduled ------ 。
+
+- ##### (A)appointment
+
+- (B) involvement
+
+- (C)requirement
+
+- (D)investment
+
+🎈🤫110.The building inspection has been postponed until next week------- that the electrical work can be completed.
+
+- (A)also
+
+- (B)when🔐
+
+- (C)than
+
+- ##### (D)so
+
+🎈111.Mr. Carson------- all the arrangements for the company retreat next month.
+
+- (A)having made
+
+- (B) to make
+
+- (C)making
+
+- ##### (D)will make
+
+🎈112.The cafeteria in Morris Hall offers------ breakfast and lunch for Arai and Ramos associates.
+
+- ##### (A) complimentary
+
+- (B) accountable
+
+- (C) replaced
+
+- (D)secured
+
+🎈113.Visitors to Kensington Corporation must obtain guest passes ------ the security office prior to entering the facility.
+
+- (A)upon
+
+- #####  (B)from
+
+-  (C)toward
+
+-  (D)between
+
+🎈114.Tachibana Pharmaceuticals' new method of------- chemical solutions will increase efficiency in the laboratory.
+
+-  (A)combine
+
+- (B)combinations
+
+- ##### (C)combining
+
+- (D)combines
+
+🎈115.Lexino Publisher's dictionary database allows users to search for entries in  -----  languages. 
+
+- (A)multiplied 
+
+- (B)multiplying 
+
+- (C) multiples 
+
+- ##### (D)multiple
+
+🎈116.No one is permitted on the factory floor -----   proper safety gear. 
+
+- (A)following 
+
+- (B)regarding 
+
+- (C)unless 
+
+- ##### (D)without 
+
+🎈🤫117.Heidt Used Appliance Store guarantees that your purchase will arrive in working ----- .
+
+- ##### (A)condition 
+
+- (B) conditional 
+
+- (C)conditionally 🔐
+
+- (D)conditioned 
+
+🎈118.-------Ms. Park appreciated the job offer from Seon Advisory Group, she declined the opportunity have to relocate.
+
+- (A)Now that 
+
+- (B)Only if 
+
+- ##### (C)While
+
+- (D) Whether 
+
+🎈119.The convention center is located on Market Street, directly------ Glenview Shopping Center.
+
+- ##### (A)opposite 
+
+- (B)among
+
+- (C)apart
+
+- (D)nearby 
+
+🎈120.--- a small festival celebrating the town's heritage, the Clarytown Celebration has become one of the biggest annual events in the area.
+
+- (A) Origin
+
+- (B)Originate
+
+- (C)Originated 
+
+- ##### (D)Originally 
+
+🎈🤫121.------- of the management team include improving productivity and reducing annual expenditures.
+
+- (A)Priority 
+
+- (B)Prioritizing 🔐
+
+- ##### (C)Priorities 
+
+- (D)Prioritized 
+
+🎈122.------- employees affected by changes to Linerex Corporation's health plan should watch the online presentation.
+
+- A Every
+
+- B Much
+
+- ##### C Those
+
+- D Which
+
+🎈🤫123.Senior human resources personnel need to ------- at least two training events this year to be eligible for a bonus.
+
+- ##### A have hosted  
+
+- B be hosted
+
+- C have been hosted
+
+- D hosting 🔐
+
+🎈124.Aomori Agriculture Solutions specializes in increasing crop yields ------- the development of better farming techniques.
+
+- A） because
+
+- ##### B） through
+
+- C） previous
+
+- D）although
+
+🎈125.Chae Media， Inc....， plans to ------- the  renovation of its publishing house in Seoul.
+
+- A） send away for
+
+- ##### B） move forward with
+
+- C） take backfrom
+
+- D） watch out for
+
+🎈126.The marketing team at Bescura Cars has created a series of ------- humorous commercials，designed to appeal to younger Consumers.
+
+- A） economically
+
+- B） exactly
+
+- ##### C） deliberately
+
+- D） patiently
+
+🎈127.Programmers at Ulrich-Ahn Company are responsible for ensuring that software conforms to the -------system standards
+
+- A） establish
+
+- ##### B） established
+
+- C） establishing
+
+- D） establishes
+
+🎈128.Pour the cake batter into the pan and shake gently if the batter is ------- distributed.
+
+- ##### A） unevenly
+
+- B） undeniably
+
+- C） unwillingly
+
+- D） unknowingly
+
+🎈129.Geneto Technology uses three ------- of laboratory accuracy to ensure consistent results.
+
+- ##### A） indicators
+
+- B） indicate
+
+- C） indicating
+
+- D） indicated
+
+🎈🤫130.The financial figures released by Tsai and Wu International ------- only to expenses from the month of July.
+
+- A）organize
+
+- B）ponder 🔐
+
+- ##### C）correspond
+
+- D）subscribe
+
+There is no better time to visit beautiful Nova Scotia, and Nova Scotia Tours can help! With over 25 years in business, we know how to plan 131.------- tailored to our clients' specifications. You and your family can enjoy everything from our Gaelic fiddle music and Ukrainian heritage festivals to the fresh, salty air and delicious seafood. For adventure seekers, there are many activities 132.------- you busy. 133.-------.Or,134.------- you prefer, relax and dine at any of our world-class restaurants. But don't wait. Call us today at 902-555-0166!
+
+🎈🤫131.
+
+- (A)garments 🔐
+
+- (B)deliveries
+
+- (C)conferences
+
+- ##### (D)vacations
+
+🎈132.
+
+- ##### (A)to keep
+
+- (B)keep
+
+- (C)having kept
+
+- (D)would keep
+
+🎈133.
+
+- (A)Book now to reserve your hotel. 
+
+- (B)Speak with our representatives Monday through Friday. 
+
+- ##### (C)Try whale watching, kayaking, or cycling.
+
+- (D)Choose from over hundreds of locations. 
+
+🎈134.
+
+- ##### (A)if 
+
+- (B)moreover 
+
+- (C)despite 
+
+- (D)both 
+
+New Head at Balmer Industries
+
+Balmer Industries, one of the 135.------- pharmaceutical companies in Switzerland, yesterday announced the appointment of Li Xia Qiao as its newest CEO. The announcement 136.------- nearly two months after Edon Durian, the current head of Balmer, made public that he will retire at the end of the year. 137.------- Qiao is well-known in the industry for successfully heading several small pharmaceutical companies. The job at Balmer will be the first position she has held at the helm of an international firm of this size. Qiao, 138. ------- currently resides in Basel, begins working in Zurich on 28 November.
+
+ 🎈135.
+
+- ##### (A)leading
+
+- (B)determined
+
+- (C)hopeful
+
+- (D)mutual
+
+🎈🤫136.
+
+- (A)come
+
+- ##### (B)comes
+
+- (C)will come
+
+- (D)will have come  🔐
+
+🎈137.
+
+- (A)The company is currently interviewing for the position. 
+
+- (B)A new CEO will be announced in November.
+
+- (C)Balmer then plans to move its headquarters to Basel. 
+
+- ##### (D)Durian has led the company for seven years. 
+
+🎈🤫138.
+
+- (A)whose 
+
+- (B)her 🔐
+
+- ##### (C)who 
+
+- (D)herself 
+
+Are you an amateur athlete looking for a 139.-------? Get ready for the premier competition of the year. Test your abilities at the Johannesburg Metropolitan Meet of Champions, 140.------- athletes from Randburg, Roodepoort, and Sandton will have a chance to represent their hometowns and compete for prizes in a variety of sports. The meet will take place in Roodepoort on 30 March. 141.------- .To register, visit jmmchampions. co.za. 142.------- athletes are not eligible to participate in the competitions but may register as volunteers for the event.
+
+🎈139.
+
+- (A)trainer
+
+- (B)scholarship
+
+- (C)teammate
+
+- ##### (D)challenge
+
+🎈🤫140.
+
+- (A) with 🔐
+
+- (B)yet
+
+- ##### (C)where
+
+- (D)along
+
+🎈🤫141. 
+
+- (A)Tickets are available at all locations. 🔐
+
+- ##### (B)It is open to athletes 15 years or older. 
+
+- (C)Winners will be announced then. 
+
+- (D)Training is scheduled for the next day. 
+
+🎈142.
+
+- (A)Profession 
+
+- ##### (B)Professional 
+
+- (C)Professions 
+
+- (D)Professionally 
+
+
+
+
+
+
+
+101.      the Chiba office nor the Nagoya oficeis hiring.
+          （A）Both
+          （B）But
+               （C）Either
+           （D） Neither
+          102.Mr. Aromdee will prepare a dish fromhometown of Bangkok
+          (A） he
+           （B）his
+           （C)him
+           （D） himself
+102.      Korean Star Airlines offers daily nonstopflights     London and Busan.
+           A） aboard
+              （B）onto
+              （C）p
+           （D） between
+          104.Mr. Hirose      at Seventh Street Financia
+          five years ago.
+          (A） works
+              （B）worked
+              （C）working
+           （D） will work
+
+105.      of the new employees were able to
+          attend the orientation.
+          （A） Most
+             （B）Other
+           C）Else
+          D）Another
+          106A loud beeping     indicates that the copymachine has not been closed securely
+           A）sound
+          B sounds
+               C） sounding
+            D）Sounded
+          107.Please      our Web site to find uniquerecipes made with Hahm food productsA）come
+               （B）g
+               （C）visit
+           （Dtake
+106.      Due to construction delays on MaplewoodAvenue， employees will      need to find
+          alternate routes.
+           A）probable
+          B probably
+               （C） probability
+            D）probabilities
+
+ 109.Bilto miniature model planes containhundreds of small parts and must beassembled with-
+       A） contact
+      （B） level
+       （C）care
+       （D）amount
+
+110. The    image on this month's magazinecover is credited to Marlot Images
+     (A）creative
+       （B）creatively
+      （C） creating
+      （D）creativity
+111. Participation this year was the largestin the history of the Securitas conference.（A）totally
+      （B） ever
+      （C） soon
+      （D）hardly
+     112.Ms.Fields is not able to travel from
+     New York to Buenos Aires-    sufficientnotice
+      A） inside
+     （B）except
+     （C)about
+      （D）without
+     113.Yuvaves Transit Company drivers shouldhave their vehicles inspected·
+      （A）rather
+     （B）annually
+     （C) quite
+      （D）highly
+     114.Cell Choice marketers are ------- to becomefamiliar with competitors products andadvertising.
+     A）encourage
+       （B）encourages
+      （C） encouraged
+       （D）encouraging
+     115 The customer service department has seen-decrease in the number of
+     complaints over the pastyear.
+     （A）dramatic
+     （B）polite
+     （C）frequent
+      D）different
+
+116.The financial review board has stated thatno budget proposal may-    ten pagesA） excessive
+         （B）excess
+         C）exceeding
+         （D）exceed
+  17.As president， Ms.Min made great effortso     a productive environment atChae Investment Corporation
+        A） process
+         （B estimate
+         C） establish
+       （D）participate
+ 118.The city council will meet tomorrow to fieldquestions from·      concerning the newwater tower
+        A） resident
+       B） residents
+       （C） residences
+        （D） residential
+119.Cruz-Alva Oil provides -    priced
+      solutions for al your energy needs.
+       (A） competing
+       （B）competition
+       （C） competitive
+       （D）competitively
+120.Southenic Electronics technicians are onhand 24 hours a day·   you can be atease knowing help is always available（A）because of
+       （B）so
+      （C)everything
+       （D）until
+121.Strong strategic-thinking -  -and sharpmarketing instincts are important qualitiesfor a successful product manager
+      (A） skills
+       （B）findings
+       （C） realities
+      （D）approximations
+
+122.      of city buses will attend a trainingsession on new vehicles in the comingmonths.
+          （A） Operations
+          （B） Operators
+            （C）Operate
+           （D） Operating
+          123.Renovations on the top floor of the MelakaBuilding are set to 一    after the elevatorsare installed in early August.
+           （A）expire
+            （B）Construct
+            （C） commence
+          （D）arange
+          124.At Ben Flores Blinds， first-time customersCan benefit from     rates of 30 percentoff
+          （A） introducing
+            （B））introductions
+            C） introduced
+           （D）introductory
+123.      your return has been receivedarefund will be issued to your account withinthree business days.
+          A） In order that
+           （B） Instead
+            C） Now that
+           （D）Meanwhile
+          126Last yearEntertainment Azusa，Inc，andSohn Multimedia decided that---  theirexpertise and resources would increaseprofits for both organizations
+           （A） combining
+            （B） combined
+            （C） combines
+            （D）combine
+
+127.Before the laboratory carts can be used toransport-    materials，technicians mustwipe all exposed surfaces with a disinfectantcloth.
+     (A）vague
+       （B）passive
+      C）sensitive
+      D） demonstrative
+128.As the publication date of the sequel to theControversial novel approaches，publicisgrowing exponentially.
+      A）anticipation
+       （B）anticipatory
+       （C）anticipated
+      （D）anticipate
+129.For the duration of Ms.Dernal's leave， hercorporate and private accounts will beoverseen by Jian Wu and David DemboA） respectively
+       B）almost
+       （C）likewise
+     D)even
+130.Improvements in irrigation technology
+      ihroughout the region were followed bygains in corn production.
+      （A） proportionally
+       （B）proportional
+      C） proportioning
+      （D）proportions
+
+
+
+ Your CM200 microwave oven can be placed easily in your kitchen，family roomor office. Set the ovenon a flat surface such as a kitchen countertop or a sturdy table lt is important to alow air to flow131.around the oven. Allow at least 10 centimeters of space around the sides top，and back ofthe microwave oven. Do not 132. the oven in an enclosed space.Do not place it aboveagasor electric range. 133. The reason for this is that blocked air exits wil cause the oven to shut
+ downautomatically 134. itis turned on
+131.（A）freedom                             133.（A） Keep all vents clear during cooking（B）freer                                         （B） Follow all directions when preparing（C） freely                                         packaged meals
+      D）freeing                                      （C）Do not use the oven to boil any liquids.（D）Do not microwave more than two plates132.(A）remove                                                atatime
+      （B） install
+      （C） choose                                 134.(A）from
+      （D）purchase                                     （B）next
+                                                   （C) like
+                                                            （D）after
+
+ July 7
+ Dear Mr.Whitney:
+ This letter serves to confirm that Naoko Sugimori135.with Takana Motors.Ms.Sugimori has heldthe title of Systems Analyst for four years and earns a salary in the upper range for that post
+  136.will also testify to·137 high level of performance 138.working with Takana MotorsMs. Sugimori has demonstrated a strong work ethic and excellent business insight.
+ f you have any further questions，please do not hesitate to contact me at 03-5521-5935
+ Sincerely
+ Jessica Krause
+ Engineering Program Director
+ Takana Motors
+135.（A）had been employed                       137.(A） our
+      （B） will be employed                                           （B）its
+     C)）is employed                                    c） your
+      D）has employed                                           D）her
+136.（A）Our new entry-level vehicle is also very      138.（A） While
+          popular.                                             （B） Whether
+       （B）In addition， she earns an annual bonus             （C) Prior to
+          that is higher than average.                         （D） As long as
+     （C） Likewise，she works well under pressure
+     D）lwill be happy to offer her a position with
+            our company
+
+
+
+
+
+To: Komplet Industries Staff
+
+From: Technology Department Subject: Update
+
+Date: March 27
+
+It is with great excitement that I inform you that the Komplet Industries Web site is to have a new look and improved functionality. The site3several upgraded features such as mobile-device
+
+139.
+
+readability and an interactive tour of Komplet facilities. The to the new site is scheduled to
+
+140.
+
+occur on Saturday, March 31..Please be aware that problems may occur while we change over to the new Web site. We will work to ensure that any problems are resolved quickly.
+
+142.
+
+Please send feedback on persistent issues to webinfo@komplet.net. 139.(A)included
+
+141.(A)As a result, new advertising will be added (B)had included
+
+to the site. (C)will include
+
+(B)This is a time when traffic on the Web (D)to include
+
+site will be lighter.
+
+(C)The factory tour will begin at 3: 00 P.M. 140.(A)transition
+
+(D)Our remodeled offices are due to open (B)gathering
+
+in April. (C)demolition
+
+(D)challenge
+
+142.(A)instructively (B)previously (C)potentially (D)diligently 
+
+
+
+
+
+Council Member Deborah Hsu
+
+451 Forest Place. Ground Floor Huxton. RI 02310
+
+Dear Council Member Hsu,
+
+I am writing on behalf of my fellow community members to request more bicycle lanes in our town. The development of new business facilities near residential areas
+
+143.
+
+the distance we need to commute. The opening of a bicycle shop on Holleyhill Avenue attests to the increase in bicycle usage. In fact, the Huxton Daily made note of--
+
+144.
+
+in an article earlier in the year.
+
+I understand that the council approved plans on September 6 for bicycle lane development on Teasdale Street and Port Avenue. I fully support these
+
+145.146.
+
+. Please improve the safety and efficiency of our roads by adding bicycle lanes.
+
+Thank you. Sincerely,
+
+Gabriel Richards
+
+143.(A)shorten
+
+145.(A)companies (B)has shortened
+
+(B)groups (C)shortening
+
+(C)measures (D)to shorten
+
+(D)factories 144. (A) this
+
+\146. (A)In fact, more bicycle safety courses (B)which
+
+should be provided. (C)few
+
+(B)In addition, new bicycle shops have been (D)them
+
+opened.
+
+(C)In other words, riding a bicycle is good exercise.
+
+(D)Indeed, I feel that more bicycle lanes should follow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
