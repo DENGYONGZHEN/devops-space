@@ -11489,6 +11489,8 @@ x
 
 - (D) other
 
+------------------------------------------------------------------------------------------------
+
 🎈101.Ms. lwata handed out copies of the agenda that ------ had printed for the meeting.
 
 - (A)hers 
@@ -11917,207 +11919,399 @@ Are you an amateur athlete looking for a 139.-------? Get ready for the premier 
 
 - (D)Professionally 
 
+------------------------------------------------------------------------------------------------
+
+🎈101.------- the Chiba office nor the Nagoya ofice is hiring.
+
+- A）Both
+
+- B）But
+
+- C）Either
+
+- ##### D）Neither
+
+🎈102.Mr. Aromdee will prepare a dish from ------- hometown of Bangkok.
+
+- A）he
+
+- ##### B）his
+
+- C)   him
+
+- D）himself
+
+🎈103.Korean Star Airlines offers daily nonstop flights ------- London and Busan.
+
+- A） aboard
+
+- B） onto
+
+- C） up
+
+- ##### D） between
+
+🎈104.Mr. Hirose ------- at Seventh Street Financial five years ago.
+
+- A） works
+
+- ##### B） worked
+
+- C） working
+
+- D） will work
+
+🎈105. ------- of the new employees were able to attend the orientation.
+
+- ##### A） Most
+
+- B） Other
+
+- C） Else
+
+- D） Another
+
+🎈106.A loud beeping ------- indicates that the copy machine has not been closed securely.
+
+- ##### A） sound
+
+- B     sounds
+
+- C） sounding
+
+- D）sounded
+
+🎈107.Please ------- our Web site to find unique recipes made with Hahm food products.
+
+- A）come
+
+- B）go
+
+- ##### C）visit
+
+- D)  take
+
+🎈108.Due to construction delays on Maplewood Avenue, employees will ------- need to find alternate routes.
+
+- A） probable
+
+- ##### B     probably
+
+- C） probability
+  D） probabilities
+
+ 🎈109.Bilto miniature model planes contain hundreds of small parts and must be assembled with -------.
+
+- A） contact
+
+- B） level
+
+- ##### C） care
+
+- D） amount
+
+🎈110.The ------- image on this month's magazine cover is credited to Marlot Images.
+
+- ##### A）creative
+
+- B）creatively
+
+- C） creating
+
+- D）creativity
+
+🎈111.Participation this year was the largest ------- in the history of the Securitas conference.
+
+- A） totally
+
+- ##### B） ever
+
+- C） soon
+
+- D） hardly
+
+🎈112.Ms.Fields is not able to travel from New York to Buenos Aires ------- sufficient notice.
+
+- A） inside
+
+- B） except
+
+- C)    about
+
+- ##### D） without
+
+🎈113.Yuvaves Transit Company drivers should have their vehicles inspected·-------.
+
+- A）rather
+
+- ##### B）annually
+
+- C)   quite
+
+- D）highly
+
+🎈114.Cell Choice marketers are ------- to become familiar with competitors products and advertising.
+
+- A） encourage
+
+- B） encourages
+
+- ##### C） encouraged
+
+- D） encouraging
+
+🎈115 The customer service department has seen a ------- decrease in the number of complaints over the past year.
+
+- ##### A）dramatic
+
+- B）polite
+
+- C）frequent
+
+- D）different
+
+🎈116.The financial review board has stated that no budget proposal may ------- ten pages
+
+- A）excessive
+
+- B）excess
+
+- C）exceeding
+
+- ##### D）exceed
+
+  🎈117.As president, Ms.Min made great efforts to ------- a productive environment at Chae Investment Corporation.
+
+- A） process
+
+- B)    estimate
+
+- ##### C） establish
+
+- D） participate
+
+ 🎈118.The city council will meet tomorrow to field questions from------- concerning the new water tower.
+
+- A） resident
+
+- ##### B） residents
+
+- C） residences
+
+- D） residential
+
+🎈119.Cruz-Alva Oil provides ------- priced solutions for all your energy needs.
+
+- A）competing
+
+- B）competition
+
+- C）competitive
+
+- ##### D）competitively
+
+🎈120.Southenic Electronics' technicians are on hand 24 hours a day ------- you can be at ease knowing help is always available.
+
+- A）because of
+
+- ##### B）so
+
+- C)   everything
+
+- D）until
+
+🎈121.Strong strategic-thinking ------- and sharp marketing instincts are important qualities for a successful product manager.
+
+- ##### A） skills
+
+- B） findings
+
+- C） realities
+
+- D） approximations
+
+🎈122.------- of city buses will attend a training session on new vehicles in the coming months.
+
+- A）  Operations
+
+- ##### B）  Operators
+
+- C）  Operate
+
+- D） Operating
+
+🎈123.Renovations on the top floor of the Melaka Building are set to ------- after the elevators are installed in early August.
+
+- A） expire
+
+- B） construct
+
+- ##### C） commence
+
+- D） arrange
+
+🎈124.At Ben Flores Blinds, first-time customers can benefit from ------- rates of 30 percent off.
+
+- A） introducing
+
+- B） introductions
+
+- C） introduced
+
+- ##### D） introductory
+
+🎈125.------- your return has been received, a refund will be issued to your account within three business days.
+
+- A） In order that
+
+- B） Instead
+
+- ##### C） Now that
+
+- D） Meanwhile
+
+🎈126.Last year, Entertainment Azusa，Inc，and Sohn Multimedia decided that ------- their expertise and resources would increase profits for both organizations.
+
+- ##### A） combining
+
+- B） combined
+
+- C） combines
+
+- D） combine
+
+🎈127.Before the laboratory carts can be used to transport ------- materials，technicians must wipe all exposed surfaces with a disinfectant cloth.
+
+- A）  vague
+
+- B）  passive
+
+- ##### C）  sensitive
+
+- D） demonstrative
+
+🎈128.As the publication date of the sequel to the controversial novel approaches，public ------- is growing exponentially.
+
+- ##### A）anticipation
+
+- B）anticipatory
+
+- C）anticipated
+
+- D）anticipate
+
+🎈129.For the duration of Ms.Dernal's leave,  her corporate and private accounts will be overseen by Jian Wu and David Dembo, ------- .
+
+- ##### A） respectively
+
+- B） almost
+
+- C） likewise
+
+- D)   even
+
+🎈130.Improvements in irrigation technology throughout the region were followed by ------- gains in corn production.
+
+- A） proportionally
+
+- ##### B） proportional
+
+- C） proportioning
+
+- D） proportions
 
 
 
+Your CM200 microwave oven can be placed easily in your kitchen，family room, or office. Set the oven on a flat surface such as a kitchen countertop or a sturdy table . lt is important to allow air to flow -------131.around the oven. Allow at least 10 centimeters of space around the sides , top, and back of the microwave oven. Do not -------132. the oven in an enclosed space. Do not place it above a gas or electric range. -------133. The reason for this is that blocked air exits will cause the oven to shut down automatically -------134. it is turned on.
 
+🎈131.
 
+- A） freedom   
 
-101.      the Chiba office nor the Nagoya oficeis hiring.
-          （A）Both
-          （B）But
-               （C）Either
-           （D） Neither
-          102.Mr. Aromdee will prepare a dish fromhometown of Bangkok
-          (A） he
-           （B）his
-           （C)him
-           （D） himself
-102.      Korean Star Airlines offers daily nonstopflights     London and Busan.
-           A） aboard
-              （B）onto
-              （C）p
-           （D） between
-          104.Mr. Hirose      at Seventh Street Financia
-          five years ago.
-          (A） works
-              （B）worked
-              （C）working
-           （D） will work
+- B） freer         
 
-105.      of the new employees were able to
-          attend the orientation.
-          （A） Most
-             （B）Other
-           C）Else
-          D）Another
-          106A loud beeping     indicates that the copymachine has not been closed securely
-           A）sound
-          B sounds
-               C） sounding
-            D）Sounded
-          107.Please      our Web site to find uniquerecipes made with Hahm food productsA）come
-               （B）g
-               （C）visit
-           （Dtake
-106.      Due to construction delays on MaplewoodAvenue， employees will      need to find
-          alternate routes.
-           A）probable
-          B probably
-               （C） probability
-            D）probabilities
+- ##### C） freely       
 
- 109.Bilto miniature model planes containhundreds of small parts and must beassembled with-
-       A） contact
-      （B） level
-       （C）care
-       （D）amount
+- D） freeing         
 
-110. The    image on this month's magazinecover is credited to Marlot Images
-     (A）creative
-       （B）creatively
-      （C） creating
-      （D）creativity
-111. Participation this year was the largestin the history of the Securitas conference.（A）totally
-      （B） ever
-      （C） soon
-      （D）hardly
-     112.Ms.Fields is not able to travel from
-     New York to Buenos Aires-    sufficientnotice
-      A） inside
-     （B）except
-     （C)about
-      （D）without
-     113.Yuvaves Transit Company drivers shouldhave their vehicles inspected·
-      （A）rather
-     （B）annually
-     （C) quite
-      （D）highly
-     114.Cell Choice marketers are ------- to becomefamiliar with competitors products andadvertising.
-     A）encourage
-       （B）encourages
-      （C） encouraged
-       （D）encouraging
-     115 The customer service department has seen-decrease in the number of
-     complaints over the pastyear.
-     （A）dramatic
-     （B）polite
-     （C）frequent
-      D）different
+🎈132.
 
-116.The financial review board has stated thatno budget proposal may-    ten pagesA） excessive
-         （B）excess
-         C）exceeding
-         （D）exceed
-  17.As president， Ms.Min made great effortso     a productive environment atChae Investment Corporation
-        A） process
-         （B estimate
-         C） establish
-       （D）participate
- 118.The city council will meet tomorrow to fieldquestions from·      concerning the newwater tower
-        A） resident
-       B） residents
-       （C） residences
-        （D） residential
-119.Cruz-Alva Oil provides -    priced
-      solutions for al your energy needs.
-       (A） competing
-       （B）competition
-       （C） competitive
-       （D）competitively
-120.Southenic Electronics technicians are onhand 24 hours a day·   you can be atease knowing help is always available（A）because of
-       （B）so
-      （C)everything
-       （D）until
-121.Strong strategic-thinking -  -and sharpmarketing instincts are important qualitiesfor a successful product manager
-      (A） skills
-       （B）findings
-       （C） realities
-      （D）approximations
+- A） remove      
 
-122.      of city buses will attend a trainingsession on new vehicles in the comingmonths.
-          （A） Operations
-          （B） Operators
-            （C）Operate
-           （D） Operating
-          123.Renovations on the top floor of the MelakaBuilding are set to 一    after the elevatorsare installed in early August.
-           （A）expire
-            （B）Construct
-            （C） commence
-          （D）arange
-          124.At Ben Flores Blinds， first-time customersCan benefit from     rates of 30 percentoff
-          （A） introducing
-            （B））introductions
-            C） introduced
-           （D）introductory
-123.      your return has been receivedarefund will be issued to your account withinthree business days.
-          A） In order that
-           （B） Instead
-            C） Now that
-           （D）Meanwhile
-          126Last yearEntertainment Azusa，Inc，andSohn Multimedia decided that---  theirexpertise and resources would increaseprofits for both organizations
-           （A） combining
-            （B） combined
-            （C） combines
-            （D）combine
+- ##### B） install
 
-127.Before the laboratory carts can be used toransport-    materials，technicians mustwipe all exposed surfaces with a disinfectantcloth.
-     (A）vague
-       （B）passive
-      C）sensitive
-      D） demonstrative
-128.As the publication date of the sequel to theControversial novel approaches，publicisgrowing exponentially.
-      A）anticipation
-       （B）anticipatory
-       （C）anticipated
-      （D）anticipate
-129.For the duration of Ms.Dernal's leave， hercorporate and private accounts will beoverseen by Jian Wu and David DemboA） respectively
-       B）almost
-       （C）likewise
-     D)even
-130.Improvements in irrigation technology
-      ihroughout the region were followed bygains in corn production.
-      （A） proportionally
-       （B）proportional
-      C） proportioning
-      （D）proportions
+- C） choose   
 
+- D） purchase                                 
 
+🎈133.
 
- Your CM200 microwave oven can be placed easily in your kitchen，family roomor office. Set the ovenon a flat surface such as a kitchen countertop or a sturdy table lt is important to alow air to flow131.around the oven. Allow at least 10 centimeters of space around the sides top，and back ofthe microwave oven. Do not 132. the oven in an enclosed space.Do not place it aboveagasor electric range. 133. The reason for this is that blocked air exits wil cause the oven to shut
- downautomatically 134. itis turned on
-131.（A）freedom                             133.（A） Keep all vents clear during cooking（B）freer                                         （B） Follow all directions when preparing（C） freely                                         packaged meals
-      D）freeing                                      （C）Do not use the oven to boil any liquids.（D）Do not microwave more than two plates132.(A）remove                                                atatime
-      （B） install
-      （C） choose                                 134.(A）from
-      （D）purchase                                     （B）next
-                                                   （C) like
-                                                            （D）after
+- ##### A） Keep all vents clear during cooking                  
 
- July 7
- Dear Mr.Whitney:
- This letter serves to confirm that Naoko Sugimori135.with Takana Motors.Ms.Sugimori has heldthe title of Systems Analyst for four years and earns a salary in the upper range for that post
-  136.will also testify to·137 high level of performance 138.working with Takana MotorsMs. Sugimori has demonstrated a strong work ethic and excellent business insight.
- f you have any further questions，please do not hesitate to contact me at 03-5521-5935
- Sincerely
- Jessica Krause
- Engineering Program Director
- Takana Motors
-135.（A）had been employed                       137.(A） our
-      （B） will be employed                                           （B）its
-     C)）is employed                                    c） your
-      D）has employed                                           D）her
-136.（A）Our new entry-level vehicle is also very      138.（A） While
-          popular.                                             （B） Whether
-       （B）In addition， she earns an annual bonus             （C) Prior to
-          that is higher than average.                         （D） As long as
-     （C） Likewise，she works well under pressure
-     D）lwill be happy to offer her a position with
-            our company
+- B） Follow all directions when preparing packaged meals                      
 
+- C）Do not use the oven to boil any liquids.
 
+- D）Do not microwave more than two plates at a time .                         
 
+🎈🤫134.
 
+- A）from  🔐
+
+- B）next
+
+- C)   like
+
+- ##### D）after 
+
+July 7
+Dear Mr.Whitney:
+This letter serves to confirm that Naoko Sugimori -------135.with Takana Motors.Ms.Sugimori has held the title of Systems Analyst for four years and earns a salary in the upper range for that post.-------136. I will also testify to -------137 high level of performance .-------138.working with Takana Motors, Ms. Sugimori has demonstrated a strong work ethic and excellent business insight.
+If you have any further questions，please do not hesitate to contact me at 03-5521-5935
+Sincerely
+Jessica Krause
+Engineering Program Director
+Takana Motors
+
+🎈135.
+
+- A）had been employed                      
+
+- B）will be employed                           
+
+- ##### C)   is employed                                    
+
+- D）has employed 
+
+🎈🤫136.
+
+- A） Our new entry-level vehicle is also very popular.        
+
+- ##### B） In addition,she earns an annual bonus that is higher than average.    
+
+- C） Likewise，she works well under pressure.
+
+- D） l will be happy to offer her a position with our company.  🔐
+
+🎈137.
+
+- A） our
+
+- B） its
+
+- C） your                                         
+
+- ##### D） her
+
+🎈🤫138.
+
+- ##### A） While    
+
+- B） Whether  
+
+- C)    Prior to   🔐
+
+- D） As long as
 
 To: Komplet Industries Staff
 
@@ -12125,41 +12319,47 @@ From: Technology Department Subject: Update
 
 Date: March 27
 
-It is with great excitement that I inform you that the Komplet Industries Web site is to have a new look and improved functionality. The site3several upgraded features such as mobile-device
+It is with great excitement that I inform you that the Komplet Industries Web site is to have a new look and improved functionality. The site ------- 139.several upgraded features such as mobile-device readability and an interactive tour of Komplet facilities. The -------140.to the new site is scheduled to occur on Saturday, March 31. ------- 141.Please be aware that problems may occur while we change over to the new Web site. We will work ------- 142.to ensure that any problems are resolved quickly. Please send feedback on persistent issues to webinfo@komplet.net. 
 
-139.
+🎈139.
 
-readability and an interactive tour of Komplet facilities. The to the new site is scheduled to
+- A) included  
 
-140.
+- B) had included 
 
-occur on Saturday, March 31..Please be aware that problems may occur while we change over to the new Web site. We will work to ensure that any problems are resolved quickly.
+- ##### C) will include  
 
-142.
+- D to include
 
-Please send feedback on persistent issues to webinfo@komplet.net. 139.(A)included
+🎈🤫140.
 
-141.(A)As a result, new advertising will be added (B)had included
+- ##### A) transition 
 
-to the site. (C)will include
+- B) gathering
 
-(B)This is a time when traffic on the Web (D)to include
+- C) demolition 🔐
 
-site will be lighter.
+- D) challenge
 
-(C)The factory tour will begin at 3: 00 P.M. 140.(A)transition
+🎈🤫141.
 
-(D)Our remodeled offices are due to open (B)gathering
+- A) As a result, new advertising will be added to the site.  🔐
 
-in April. (C)demolition
+- ##### B) This is a time when traffic on the Web site will be lighter.
 
-(D)challenge
+- C) The factory tour will begin at 3: 00 P.M. 
 
-142.(A)instructively (B)previously (C)potentially (D)diligently 
+- D) Our remodeled offices are due to open in April. 
 
+🎈142.
 
+- A) instructively 
 
+- B) previously 
 
+- C) potentially 
+
+- ##### D) diligently 
 
 Council Member Deborah Hsu
 
@@ -12167,47 +12367,1078 @@ Council Member Deborah Hsu
 
 Dear Council Member Hsu,
 
-I am writing on behalf of my fellow community members to request more bicycle lanes in our town. The development of new business facilities near residential areas
+I am writing on behalf of my fellow community members to request more bicycle lanes in our town. The development of new business facilities near residential areas------- 143.the distance we need to commute. The opening of a bicycle shop on Holleyhill Avenue attests to the increase in bicycle usage. In fact, the Huxton Daily made note of------- 144.in an article earlier in the year.
 
-143.
-
-the distance we need to commute. The opening of a bicycle shop on Holleyhill Avenue attests to the increase in bicycle usage. In fact, the Huxton Daily made note of--
-
-144.
-
-in an article earlier in the year.
-
-I understand that the council approved plans on September 6 for bicycle lane development on Teasdale Street and Port Avenue. I fully support these
-
-145.146.
-
-. Please improve the safety and efficiency of our roads by adding bicycle lanes.
+I understand that the council approved plans on September 6 for bicycle lane development on Teasdale Street and Port Avenue. I fully support these------- 145 ------- 146  Please improve the safety and efficiency of our roads by adding bicycle lanes.
 
 Thank you. Sincerely,
 
 Gabriel Richards
 
-143.(A)shorten
+🎈143.
 
-145.(A)companies (B)has shortened
+- (A) shorten
 
-(B)groups (C)shortening
+- ##### (B) has shortened
 
-(C)measures (D)to shorten
+- (C) shortening
 
-(D)factories 144. (A) this
+- (D) to shorten
 
-\146. (A)In fact, more bicycle safety courses (B)which
+🎈144.
 
-should be provided. (C)few
+- ##### (A) this
 
-(B)In addition, new bicycle shops have been (D)them
+- (B)which
 
-opened.
+- (C)few
 
-(C)In other words, riding a bicycle is good exercise.
+- (D)them
 
-(D)Indeed, I feel that more bicycle lanes should follow.
+🎈145.
+
+- (A) companies 
+
+- (B) groups 
+
+- ##### (C) measures 
+
+- (D) factories 
+
+🎈🤫146.
+
+- (A) In fact, more bicycle safety courses should be provided. 
+
+- (B) In addition, new bicycle shops have been opened.
+
+- (C) In other words, riding a bicycle is good exercise. 🔐
+
+- ##### (D) Indeed, I feel that more bicycle lanes should follow.
+
+=======================================================
+
+🎈101. Duray Airlines offers delicious food and beverage-------.
+
+- (A) fees 
+
+- (B) answers 
+
+- ##### (C) options
+
+- (D) tasks
+
+🎈102. The Oakshore region ------- large number of young professionals.
+
+- (A) was attracted 
+
+- (B) has been attracted 
+
+- (C) attracting
+
+- ##### (D) attracts 
+
+🎈103.The sales report is due tomorrow, so please finish it-------
+
+- (A)easily 
+
+- ##### (B)quickly 
+
+- (C)certainly 
+
+- (D)truly
+
+🎈104. Referring to the ------ in the user's manual will help you to identify the parts of the workbench.
+
+- (A) illustrate 
+
+- (B) illustrator 
+
+- ##### (C) illustration
+
+- (D) illustrated
+
+🎈105. No more than four passengers are permitted in ------ taxi operated by the Halligan Company.
+
+- ##### (A)any 
+
+- (B)all 
+
+- (C)some 
+
+- (D)such 
+
+🎈106. Sales of the Moro Camera dropped by 3 percent ------ the last quarter.
+
+- (A)down 
+
+- (B)well 
+
+- (C)and 
+
+- ##### (D)during
+
+🎈107. The newest branch of the library is located ---Pine Street, directly across from the post office.
+
+- (A)into 
+
+- (B)among 
+
+- (C)until 
+
+- ##### (D)on
+
+🎈108. The property manager must ensure that renters understand --- rental agreement. 
+
+- ##### (A)their
+
+- (B)they 
+
+- (C)theirs 
+
+- (D)them
+
+🎈109. -------- Ms. Bai was not available to lead the board meeting, she was able to find a replacement.
+
+- ##### (A) Although 
+
+- (B) Whether 
+
+- (C)Instead 
+
+- (D)Accordingly 
+
+110.Once staff has had training in the new accounting software, they will be prepared to work ---.
+
+- (A) independent 
+
+- ##### (B)independently 
+
+- (C)independency 
+
+- (D)independence 
+
+🎈111. Nuts from Quintana Orchards can be a -------- source of vitamins and minerals for a nutritious diet.
+
+- (A)long 
+
+- (B)various 
+
+- ##### (C)rich
+
+- (D)careful
+
+🎈112. To maintain the Cheerbrew coffeemaker properly, wipe it with a ------ sponge after each use.
+
+- ##### (A)moist 
+
+- (B)moistens 
+
+- (C)moistly
+
+- (D)moisten
+
+🎈113. Research shows that an online marketing strategy is vital for survival in the --------- competitive athletic shoe market. 
+
+- (A) skillfully
+
+- ##### (B) increasingly 
+
+- (C) accidentally
+
+- (D) meaningfully
+
+🎈114. Tomorrow's session will train participants on------- to prepare containers for overseas shipments. 
+
+- (A)what
+
+- ##### (B)how 
+
+- (C)that
+
+- (D)then
+
+🎈115. Applications received ---the October 15 deadline will not be processed. 
+
+- ##### (A) after
+
+- (B) already 
+
+- (C) while
+
+- (D) often
+
+🎈116. Customers expressed dissatisfaction with the cost of the phone, but complaints about the user interface were relatively----. 
+
+- (A)rarest
+
+- ##### (B)rare 
+
+- (C)rarity 
+
+- (D)rarely 
+
+🎈117. Tickets to the museum's special exhibit may be ordered in advance on the Web site -------purchased upon arrival.
+
+- ##### (A)or 
+
+- (B)for 
+
+- (C)where
+
+- (D)since
+
+🎈118. Two water-quality studies, which ------ last week, reflect the hard work of the Water Resource Council to keep local water clean. 
+
+- ##### (A)were released
+
+- (B)were being released 
+
+- (C)had released
+
+- (D)had been releasing 
+
+🎈🤫119.------ the efforts of cycling enthusiasts, the proposal to resurface bicycle paths in County Kildare was defeated yesterday. 
+
+- (A)Throughout  🔐
+
+- (B)Besides 
+
+- ##### (C)Despite
+
+- (D)Versus
+
+🎈120. Crum Carpeting's profits have risen --- since the company introduced a new environmentally friendly carpet line. 
+
+- (A)steadiness
+
+- (B)steadying 
+
+- ##### (C) steadily
+
+- (D)steadied
+
+🎈121. Glideline Technologies------- in archiving records and retrieving lost data.
+
+- (A)consists 
+
+- (B)interests 
+
+- (C)inspects 
+
+- ##### (D)specializes 
+
+🎈122. The mayoral candidates are competing for television ---.
+
+- (A)having exposed 
+
+- (B)exposed
+
+- (C)expose
+
+- ##### (D)exposure
+
+🎈123. Employees should submit time sheets by noon today ------ the payroll office can distribute paychecks on schedule. 
+
+- ##### (A) so that
+
+- (B) in order to 
+
+- (C) that is 
+
+- (D) in case of
+
+🎈124. Suburban residents are------- in favor of expanding Highway 589 to relieve traffic congestion.
+
+- (A)overwhelm 
+
+- ##### (B)overwhelmingly 
+
+- (C)overwhelming
+
+- (D)overwhelms
+
+🎈🤫125. Business travel is ------ for Shawton Associates by Young-Pyo Kim at Wright Air Transit.
+
+- (A)equipped 
+
+- (B)attributed 
+
+- ##### (C)coordinated 🔐
+
+- (D)concurred
+
+🎈126. Most models of the Remagine laptop computer now come with a keyboard ------.
+
+- (A) removability 
+
+- (B) remove 
+
+- ##### (C) removable 
+
+- (D) remover 
+
+🎈127. With the recent surge in electronic sales industry analysts are anticipating that the device-to-person --- will soon surpass earlier predictions.
+
+- (A)division 
+
+- (B)fraction 
+
+- (C)part
+
+- ##### (D)ratio
+
+🎈128. In response to consumer complaints, assembly instructions for the model 481 bookshelf have been ---.
+
+- (A)acknowledged 
+
+- (B)estimated 
+
+- (C)controlled
+
+- ##### (D)simplified
+
+🎈🤫129. Choose an ------ sized air conditioner for your company's needs, as larger models use more energy.
+
+- (A)affirmatively 
+
+- ##### (B)appropriately 
+
+- (C)unexpectedly
+
+- (D)extensively
+
+🎈130. Owing to his knowledge of historic buildings, Luis Harmon was ------ to lead the Main Street Restoration Project. 
+
+- (A)persuasion
+
+- (B)persuasively 
+
+- ##### (C) persuaded 
+
+- (D)persuading 
+
+Come to the Pebble River Resort, where our three restaurants present culinary adventures for every taste! ------131. Its award-winning chefs offer a classic dining experience ------132. by our regional heritage.------133 you prefer more casual fare, the Old Sands Gril features seasonal dishes served on the stone terrace. Also, be sure to visit ------134.Sweet Shop to enjoy some handmade chocolates or pastries. Located just an hour from busy Johannesburg, we are an ideal vacation or business conference destination.
+
+🎈131. 
+
+- (A)The dining choices vary daily.
+
+- (B)Advance reservations are strongly recommended.
+
+- ##### (C)Our most formal restaurant is the Riverbank Restaurant.
+
+- (D)Favorite dishes include many dessert
+
+🎈132.
+
+- ##### (A)influenced  
+
+- (B)influential 
+
+- (C)influencing 
+
+- (D)influence 
+
+🎈🤫133.
+
+- (A)Because 
+
+- (B)Rather 🔐 
+
+- ##### (C)Should 
+
+- (D)Though 
+
+🎈134. 
+
+- (A) his specialties.
+
+- ##### (B)our
+
+- (C)another 
+
+- (D)this 
+
+
+
+February 10
+
+Wayne Alvarez, District Manager 
+
+Belton Appliances
+
+26 Oak Road 
+
+Belton, SC 27015 
+
+Dear Mr. Alvarez,
+
+I purchased a flat-screen television from Belton Appliances that ------135. a defect a month after its
+
+warranty expired. The volume became so quiet that it was difficult to hear anything. When I telephoned your service department to tell them I was having trouble with the ------136., the associate, Jill, informed me that several other people had also complained about this problem.------137. In fact, the technician arrived a little earlier than the appointed time. He fixed the problem in less than one hour and did not charge me for the repair. I am writing to let you know that I have told all my friends about the ------138.service I received from your company. 
+
+Sincerely,
+
+Vanessa Kwan
+
+🎈135.
+
+- (A)develop
+
+- (B)developing
+
+- (C)development
+
+- ##### (D)developed
+
+🎈136.
+
+- (A)power 
+
+- (B)lighting  
+
+- ##### (C)sound 
+
+- (D)size
+
+🎈137. 
+
+- (A)The problem has not yet been resolved. 
+
+- ##### (B)She scheduled a repair for the following day. 
+
+- (C)The company will offer a refund.
+
+- (D)I am waiting for an answer from the service department. 
+
+🎈138.
+
+- ##### (A)excellent 
+
+- (B)poor 
+
+- (C)extreme 
+
+- (D)disappointing 
+
+
+
+Dear Valued Customer,
+
+Please be advised that the Dellmere Bank branch on Vine Street will be ------139. on April 5 and 6. During this period, the building will undergo much-needed ------140. These include improvements to the teller line and transaction counters. ------141.
+
+If you use any of our other branches, you will experience no ------142. in processing your transactions. In addition, our online banking service will continue to be available 24 hours a day.
+
+Thank you for your patience. 
+
+Jane Hegy
+
+General Manager 
+
+🎈139.
+
+- (A)reserved
+
+- (B)cleaned
+
+- ##### (C)closed
+
+- (D)funded
+
+🎈140.
+
+- (A)renovated
+
+- ##### (B)renovations
+
+- (C)renovates
+
+- (D)renovator
+
+🎈141. 
+
+- (A)Please complete all transactions early. 
+
+- (B)The original flooring was kept. 
+
+- (C)Forms are available in the lobby. 
+
+- ##### (D)We apologize for the inconvenience. 
+
+🎈142.
+
+- ##### (A)delays 
+
+- (B)decreases 
+
+- (C)sales 
+
+- (D)estimates 
+
+
+
+February 12
+
+Dr. Joan Aghazarian
+
+President, Florida Association of Dental Care Professionals 1999 Dade Avenue
+
+Miami, FL 33133
+
+Dear Dr. Aghazarian:
+
+I want to let you know that we are holding our ------143. career fair on Saturday, March 2. This is always our biggest event of the year.------144. We expect even more participants this year. Attending the fair is a terrific way for your ------145.to network with others in the industry and learn about opportunities at our twelve clinics throughout the state. The event is open to the public, but professionals affiliated with your association receive free admission.
+
+I have enclosed a list of events that ------146. at this year's fair. If you have questions, please contact me at 555-0181. 
+
+Doug Goertz
+
+Recruiter, Sunnyside Dental Services Enclosure
+
+🎈143.
+
+- (A)first
+
+- (B)private
+
+- ##### (C)annual
+
+- (D)only
+
+🎈144. 
+
+- ##### (A) Last March we had more than 200 attendees.
+
+- (B)Let me know if you will be able to attend.
+
+- (C)Tickets are available online.
+
+- (D)Interviews will be held in Miami.
+
+🎈🤫145.
+
+- (A)students 
+
+- ##### (B)members 🔐
+
+- (C)patients 
+
+- (D)salespeople 
+
+146.
+
+- (A)were taking place 
+
+- (B)took place 
+
+- (C)takes place 
+
+- ##### (D)will take place 
+
+  ------------------------------------------------------------------------------------------------------------
+
+🎈🤫101.Most of our clients are ------- about the prospect of our showroom moving to a larger space.
+
+- (A) exciting  🔐
+
+- (B) to excite 
+
+- (C) excites
+
+- ##### (D) excited
+
+🎈102. ------- their review of the documents, Ms. Oliveira will make changes to the paperwork.
+
+- ##### (A) After
+
+- (B) Now
+
+- (C) Soon
+
+- (D) Next
+
+🎈103.Contact technical support for any needed --- with software issues.
+
+- (A) assist
+
+- (B) assistant
+
+- (C) assisted
+
+- ##### (D) assistance
+
+🎈104.Willington Hair Salon will be open ------- weekend starting in May.
+
+- ##### (A) every
+
+- (B) from
+
+- (C) enough
+
+- (D) since
+
+🎈105.When accessing ------- billing statement online, be sure to look for new discount offers.
+
+- (A) yourselves
+
+- (B) yours
+
+- ##### (C) your
+
+- (D) you
+
+🎈106.The work shifts at Stella's Confectionary are eight hours long and ------- a 30-minute break for lunch.
+
+- (A) prepare 
+
+- (B) release 
+
+- (C) assemble 
+
+- ##### (D) include
+
+🎈107.The timer on the lamp is designed to turn it off ------- to reduce energy use.
+
+- (A) automatic
+
+- ##### (B) automatically
+
+- (C) automated
+
+- (D) automate
+
+🎈108.Employees who will be commuting to the Foster Street facility should request parking permits ------- the end of the month.
+
+- (A) under
+
+- (B) against
+
+- (C) along
+
+- ##### (D) before
+
+🎈109.Our Italian wool jackets are ------- for many occasions, from a formal dinner to a casual evening with friends.
+
+- (A) to suit
+
+- (B) suitably
+
+- ##### (C) suitable
+
+- (D) suit
+
+🎈110.Dale Department Store will have a special sale on jewelry ------- before the holidays.
+
+- (A) sensitively
+
+- (B) extremely
+
+- ##### (C) immediately 
+
+- (D) figuratively
+
+🎈111.Mr. Hobbes ------- a sincere interest in a long-term career at Lassen Bank.
+
+- ##### (A) expressed
+
+- (B) pointed
+
+- (C) arranged
+
+- (D) studied
+
+🎈🤫112.The carpet in the lobby of the Chiang Mai Opera House will be replaced with material ------- is easier to maintain. 
+
+- (A) what 🔐
+
+- (B) where
+
+- ##### (C) that
+
+- (D) this
+
+🎈113.Hunt's Gift Shop carries a wide selection of -------,including the Swinnville Daily News and West Bay Monthly.
+
+- (A) publication
+
+- ##### (B) publications
+
+- (C) publish
+
+- (D) published
+
+🎈114.Engineers in the Welber Machine Factory in Cologne work to correct minor flaws in the designs of ------- drilling systems.
+
+- (A) confused
+
+- ##### (B) complex
+
+- (C) informative
+
+- (D) cautious
+
+🎈115.If the plumbing problem -------, we recommend that you contact the product manufacturer.
+
+- (A) to persist
+
+- (B) was persisting 
+
+- ##### (C) persists
+
+- (D) persistence
+
+🎈116.You will receive a ------ e-mail from the Nicoya Hotel verifying your travel plans within two hours of making your reservation.
+
+- (A) sponsor
+
+- ##### (B) confirmation
+
+- (C) margin 
+
+- (D) permit
+
+🎈117.Move-It Storage provides a variety of container sizes to help store belongings -------.
+
+- (A) compact 
+
+- ##### (B) compactly
+
+- (C) compacted
+
+- (D) compacting
+
+🎈118.The new plant director, Ha-Jae Cheon, will be ------- for reducing the maintenance costs at the Tamarindo facility. 
+
+- (A) fortunate
+
+- (B) possible
+
+- (C) senseless
+
+- ##### (D) responsible
+
+🎈119.Leffert's Market will close two hours earlier ------- usual next Tuesday.
+
+- ##### (A) than
+
+- (B) but
+
+- (C) above
+
+- (D) when
+
+🎈120.Caldwell Computers accepts returns ------- products have not been removed from the packaging.
+
+- (A) in order that
+
+- (B) such as
+
+- (C) in case
+
+- ##### (D) as long as
+
+🎈121.Until last month Kanyan, Inc., ------ farming equipment for CEK Agriculture.
+
+- (A) manufacturing
+
+- ##### (B) manufactured
+
+- (C) is manufacturing
+
+- (D) was manufactured 
+
+🎈122.Sign up now for deals available ------ to Platinum members of the Bordner Gym Club.
+
+- ##### (A) exclusively
+
+- (B) financially
+
+- (C) relatively
+
+- (D) productively
+
+🎈123.The printers sold by Mitaka Innovations at a discounted price are of ------- quality to those sold elsewhere.
+
+- (A) equivalencies
+
+- ##### (B) equivalent
+
+- (C) equivalently
+
+- (D) equivalence
+
+🎈124.In addition to a salary, Inquell Insurance associates are paid a ------- percentage of sales.
+
+- ##### (A) commission
+
+- (B) promotion
+
+- (C) donation
+
+- (D) permission
+
+🎈🤫125.Aeronamic Footwear guarantees delivery within ten business days, ------- merchandise may arrive even more quickly.
+
+- (A) beside 🔐
+
+- (B) if
+
+- ##### (C) although
+
+- (D) whenever
+
+🎈🤫126.At the meeting on June 4, Ms. Srisati will -------all misunderstandings surrounding the new phone system.
+
+- (A) look out 🔐
+
+- (B) check in
+
+- ##### (C) clear up 
+
+- (D) take off
+
+🎈127.With the new Web site enhancements, Hill Street Design customers will be able to view a ------- of recent purchases. 
+
+- (A) voucher
+
+- (B) coupon 
+
+- ##### (C) summary 
+
+- (D) payment
+
+🎈🤫128.The executive team of Trannelin Industries is determining ------ divisions will transfer to the West Coast next year.
+
+- (A) any 🔐
+
+- (B) none
+
+- (C) each
+
+- ##### (D) which 
+
+🎈129.The Fitzton Gallery has been the ------- promoter of the arts in Worthington, sponsoring numerous public events. 
+
+- (A) precise 
+
+- (B) separate
+
+- (C) certain
+
+- ##### (D) primary
+
+🎈130.The travel agent was able to obtain flights for the conference speakers ------- the last-minute request.
+
+- (A) aboard
+
+- ##### (B) despite
+
+- (C) aside
+
+- (D) beyond
+
+  
+
+To: rsandler@ponh.com
+From: gnussbaum@mediaview.net 
+
+Date: April 12
+Dear Ms. Sandler,
+
+Earlier this week I signed an important -------131 with Riverdale Advertising. Madeline Larson, the creative director at Riverdale, shared with me that you were -------132 responsible for my getting its business.
+I was pleased to get the project, but I was even more pleased that you thought well enough of my work  -------133 me to Ms. Larson. -------134. Thank you.
+
+
+
+🎈131.
+
+- (A) petition 
+
+- (B) report 
+
+- ##### (C) contract 
+
+- (D) contribution
+
+🎈132.
+
+- ##### (A) largely
+
+- (B) largest
+
+- (C) larger 
+
+- (D) large
+
+🎈🤫133.
+
+- (A) recommending 🔐
+
+- (B) recommended
+
+- (C) recommends 
+
+- ##### (D) to recommend 
+
+🎈134.
+
+- (A) She will start her employment next week. 
+
+- (B) She kindly acknowledged your gratitude. 
+
+- ##### (C) I sincerely appreciate your endorsement. 
+
+- (D) I completed the project last week.
+
+  
+
+Congratulations on your purchase! Muldeen Container Company all-weather storage units are known -------135. simple design and outstanding durability. Be sure to read the warranty and instructions before -------136. your new storage unit. We recommend that you choose a location in your yard that allows for water drainage. In addition, verify that the site you have chosen is ------- 137. flat and that the product carton contains all the parts needed. ------- 138. Please call us with any questions or concerns at 888-555-0122.
+
+🎈135.
+
+- (A) at
+
+- ##### (B) for
+
+- (C) with 
+
+- (D) to
+
+🎈🤫136.
+
+- ##### (A) setting up
+
+- (B) applying for 🔐
+
+- (C) packing up 
+
+- (D) picking out
+
+🎈137.
+
+- (A) whereas 
+
+- (B) regularly 
+
+- (C) for example 
+
+- ##### (D) generally
+
+🎈138.
+
+- ##### (A) Our customer service department is ready to assist you.
+
+- (B) Our products can be delivered by express mail at an added cost.
+
+- (C) We have been in business for over 35 years.
+
+- (D) We will contact you when your shipment is ready.
+
+Senior Project Manager: N&P Global (www.npglobal.com)
+The qualified candidate must have an advanced degree in project management and be able to oversee a diverse staff. At least five years in a related -------139. position is required.
+
+The job  ------- 140.are varied. They include implementing research designs, preparing budgets and contracts, and recruiting employees. -------141.Please send a letter of interest and a résumé to James Franken at jfranken@npglobal.com. We will begin ------- 142.candidates on March 1. The position will begin on April 15. 
+
+🎈139.
+
+- (A) manage
+
+- ##### (B) managerial 
+
+- (C) managed
+
+- (D) manageability
+
+🎈140.
+
+- (A) claims
+
+- (B) applicants
+
+- ##### (C) duties
+
+- (D) advertisements
+
+🎈141.
+
+- (A) All contracts must be signed and delivered in person next week.
+
+- (B) Floor plan designs may be viewed on our Web site.
+
+- ##### (C) A more detailed job description is available on our Web site.
+
+- (D) We will accept payments through June 1.
+
+🎈142.
+
+- (A) rewarding
+
+- (B) reminding
+
+- (C) employing
+
+- ##### (D) interviewing
+
+September 4
+Raquel Taylor
+105 Oakland Way
+Westfield, MO 63999
+Dear Ms. Taylor,
+
+The building permit application you requested is enclosed.-------143.beginning construction on a large patio in the rear of your restaurant, you must make sure that the permit has been approved and is on file in our office. When you submit your application, please include a building plan that has been reviewed and certified by a licensed engineer. You should anticipate an approval process taking ------- 144.eight weeks.
+Also, please remember that before public -------145, the completed structure will need to be officially inspected. ------- 146.
+
+Sincerely,
+Henry Bellingsworth, Manager
+
+Office of Building Compliance 
+
+Westfield Municipal Center 
+
+Westfield, MO 63998
+Enclosure
+
+🎈143.
+
+- ##### (A) Prior to 
+
+- (B) In addition
+
+- (C) In spite of
+
+- (D) As many as
+
+🎈144.
+
+- (A) approximated 
+
+- ##### (B) approximately 
+
+- (C) approximate 
+
+- (D) approximation
+
+🎈145
+
+- (A) users
+
+- (B) useful
+
+- (C) used
+
+- ##### (D) use
+
+🎈146.
+
+- ##### (A) Please notify us when you are ready to schedule this final step.
+
+- (B) Unfortunately, our office is scheduled to be closed tomorrow.
+
+- (C) Please contact me with details of our upcoming meeting.
+
+- (D) After that, a permit for construction will be issued to you. 🔐
+
+
 
 
 
