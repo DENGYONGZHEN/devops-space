@@ -13438,9 +13438,1383 @@ Enclosure
 
 - (D) After that, a permit for construction will be issued to you. 🔐
 
+==================================================================================
+
+🎈101.This discounted train ticket is ------- only at certain times of the day.
+
+- ##### (A) valid 
+
+- (B) validate
+
+- (C) validating
+
+- (D) validation
+
+🎈🤫102.To participate in the Advantage Discount program, ------- the registration form on our Web site.
+
+- (A) reply 
+
+- (B) inquire 
+
+- ##### (C) complete  
+
+- (D) apply 🔐
+
+🎈103.Ms. Srisati is unavailable today ------- she is flying to Mumbai.
+
+- ##### (A) because 
+
+- (B) how
+
+- (C) regarding 
+
+- (D) sooner
+
+🎈104.The contract ------- states that the tenants must renew their rental-property agreement by March 1.
+
+- (A) clear 
+
+- ##### (B) clearly
+
+- (C) clearer
+
+- (D) cleared
+
+🎈105.Aiko Arts plans to host a reception ------- the artist, Remco Koeman.
+
+- (A) except
+
+- ##### (B) for
+
+- (C) off
+
+- (D) into
+
+🎈106.Unfortunately, replacing the copy machine will cost more than ------- had anticipated.
+
+- ##### (A) we
+
+- (B) us
+
+- (C) our
+
+- (D) ours
+
+🎈🤫107.Your Polytonics e-mail account will be set up ------- you arrive on your first day.
+
+- (A) at
+
+- (B) around
+
+- (C) until 🔐
+
+- ##### (D) before
+
+🎈108.Oaza Electronics worked ------- with our team to facilitate the development of the computerized training system.
+
+- (A) hardly
+
+- (B) nearly 
+
+- ##### (C) closely 
+
+- (D) relatively
+
+🎈109.Financial adviser Jenna Sotulo helps professionals devise a ------- for managing their finances.
+
+- (A) prediction 
+
+- (B) gesture 
+
+- ##### (C) strategy 
+
+- (D) request
+
+🎈110.Each employee must **coordinate with** management so that ------- time off can be properly scheduled.
+
+- (A) alone 
+
+- ##### (B) individual
+
+- (C) isolating
+
+- (D) separated
+
+🎈🤫111.The cost of building Juniper High Towers exceeded the contractor's original ------- by over £5,000.00.
+
+- (A) estimating  🔐
+
+- ##### (B) estimate 
+
+- (C) estimated
+
+- (D) estimator
+
+🎈112.At Links Fine Meats, we pride ------- on providing the highest-quality products on the market.
+
+- (A) oneself 
+
+- (B) yourselves 
+
+- (C) itself
+
+- ##### (D) ourselves
+
+🎈113. ------- he is usually quiet around the office, Mr. Heineman is known for his witty and engaging public speeches.
+
+- ##### (A) Although
+
+- (B) Otherwise
+
+- (C) Despite 
+
+- (D) Instead
+
+🎈114.Ancient Chitimacha baskets are ------- featured in the Louisiana Museum of Archeology.
+
+- (A) prominent
+
+- ##### (B) prominently
+
+- (C) prominence
+
+- (D) prominences
+
+🎈115. ------- tea and coffee are available in the lobby for all guests of the Farrison Hotel.
+
+- (A) Compliment
+
+- (B) To compliment
+
+- (C) Complimented
+
+- ##### (D) Complimentary
+
+🎈116.------- representatives of Light Cloud Airlines, flights are rarely overbooked.
+
+- (A) As opposed to
+
+- (B) In addition to 
+
+- ##### (C) According to
+
+-  (D) Prior to
+
+🎈117.Mr. Krause will reorganize the supply room ----- the cabinets are delivered.
+
+- (A) overall
+
+- (B) due to
+
+- ##### (C) once
+
+- (D) soon
+
+🎈118.By completing employee-satisfaction surveys anonymously, workers can more ------- state
+their concerns about the workplace.
+
+- (A) wholly
+
+- ##### (B) openly
+
+- (C) favorably
+
+- (D) laboriously
+
+🎈119.The final blueprints must ------- by Ms. Ito after the final draft is produced.
+
+- (A) approve
+
+- ##### (B) be approved
+
+- (C) approving
+
+- (D) to approve
+
+🎈🤫120.This sewing workshop is ideal for beginner tailors ------- professionals who would like to
+refresh their knowledge.
+
+- (A) but
+
+- (B) either 🔐
+
+- ##### (C) as well as
+
+- (D) additionally
+
+🎈121.All posters and flyers must be removed from the bulletin board ------- 48 hours after the event has occurred.
+
+- ##### (A) within
+
+- (B) among 
+
+- (C) unless 
+
+- (D) while
+
+🎈122.The ------- technology used in pots by Claypol Housewares keeps the handles from getting too hot to touch.
+
+- (A) warm
+
+- (B) frequent
+
+- (C) unattached
+
+- ##### (D) innovative
+
+🎈123.There are a number of free Web-based ------- that provide tips for locating information in historical databases.
+
+- ##### (A) tutorials
+
+- (B) tutoring
+
+- (C) tutored
+
+- (D) tutor
+
+🎈124.The person hired must be able to adapt ------- to changes in work assignments and schedules.
+
+- (A) readies
+
+- ##### (B) readily
+
+- (C) readiness 
+
+- (D) ready
+
+🎈125.Organizational behavior specialist Ray Majory believes a good sense of humor in a leader can increase the quality of ------- in the team.
+
+- (A) declaration 
+
+- (B) statement
+
+- (C) message
+
+- ##### (D) communication
+
+🎈126.Portsmouth's agricultural industry has always found ways to ------- itself by growing different crops and finding new markets.
+
+- (A) reinvest
+
+- (B) reuse
+
+- (C) reassess
+
+- ##### (D) reinvent
+
+🎈127.While some countries have made huge investments in the Caribbean lately, others have reduced -------.
+
+- (A) themselves 
+
+- ##### (B) theirs 
+
+- (C) their
+
+- (D) they
+
+🎈128.The ethics committee cited the potential benefits of the research project while ------- its high cost.
+
+- ##### (A) acknowledging 
+
+- (B) to acknowledge
+
+- (C)has acknowledged
+
+- (D) acknowledge
+
+🎈129.The report describes the environmental impact on lakes and rivers of using ------- energy sources.
+
+- (A) together
+
+- (B) hopeful
+
+- (C) regulatory
+
+- ##### (D) renewable
+
+🎈🤫130.Any decorations on the ceilings or walls must be fully removed, including any material used to------- them to the surfaces.
+
+- ##### (A) adhere
+
+- (B) attract 
+
+- (C) construct
+
+- (D) sustain 🔐
 
 
 
+​                                                                 Bakery Gets Technological
+MOMBASA (June 10)-Incredible Cravings, a nationwide bakery and pastry chain with more than 28 store locations,-------131 a new way to use technology to better serve its customers. During the last quarter, the company began using an infrared-sensor system that -------132 monitors products in the store as they are added to and removed from shelves.
+
+Personnel from each bakery can see -------133 in real time as it is analyzed and updated by the computer. -------134.For example, when many customers purchase a certain type of bread,employees who are monitoring the screen can immediately restock the popular item.
+
+🎈131.
+
+- (A) is to introduce 
+
+- (B) was introducing 
+
+- ##### (C) has introduced
+
+- (D) would have introduced
+
+🎈132.
+
+- (A) precise 
+
+- ##### (B) precisely 
+
+- (C) precision 
+
+- (D) preciseness
+
+🎈🤫133.
+
+- ##### (A) inventory 
+
+- (B) scheduling
+
+- (C) vendors  🔐
+
+- (D) ingredients
+
+🎈134.
+
+- ##### (A) This system ensures that shoppers can always find what they want.
+
+- (B) This computer sends data to store security staff.
+
+- (C) The Mombasa store is gaining more and more customers.
+
+- (D) The most popular item at Incredible Cravings is the chocolate croissant.
+
+
+
+Mifflin Moving Services
+Frequently Asked Questions (FAQS): When is the best time to move?
+
+There are several factors to consider as you decide when to schedule your move. It may be helpful to know that being flexible with your scheduling can often save you money. -------135,moving costs are higher during the summer months when the volume of shipments being handled by your moving company tends to increase. Conversely, moving costs are relatively low during the winter months. -------136.
+
+Moreover, regardless of the time of year that you move, being flexible about your loading and delivery dates can also be -------137. For example, by giving your moving company a seven-day window to load your shipment, you -------138 the chance that your goods will sit in a truck for a long period of time.
+
+🎈135.
+
+- (A) Equally 
+
+- (B) Rather 
+
+- ##### (C) In general 
+
+- (D) As a result
+
+🎈136.
+
+- ##### (A) This is true for both residential and commercial moves.
+
+- (B) Therefore, allow one to two weeks for your shipment to arrive.
+
+- (C) Most moving companies are based in large cities.
+
+- (D) Moving is stressful at any time of the year.
+
+🎈137.
+
+- (A) frustrating 
+
+- (B) similar
+
+- ##### (C) beneficial
+
+- (D) unusual
+
+🎈🤫138.
+
+- (A) reduced🔐
+
+- (B) reduces
+
+- (C) reducing 
+
+- ##### (D) reduce 
+
+
+
+The Durham Fitness and Health Expo (DFHE) is an international event that brings the fitness and health industries together for three days in one place,-------139 the perfect opportunity for these industries to showcase their products and services. The award-winning DFHE is now heading into its fifth year, and plans are in place to make it the largest and most diverse exposition ------- 140,with record numbers of consumers and industry professionals expected to attend.
+
+-------141. Both large and small booths in the vendor exhibition area are still available. Call 1 (800) 555-0156 for more information or to reserve your -------142.
+
+🎈139.
+
+- (A) provided 
+
+- (B) provides
+
+- (C) will provide 
+
+- ##### (D) providing
+
+🎈140.
+
+- (A) late
+
+- (B) well
+
+- (C) still
+
+- ##### (D) yet
+
+🎈141.
+
+- ##### (A) The event will take place from August 6 to 8 at the Durham Convention Center.
+
+- (B) Changes to the schedule will be announced in the coming weeks.
+
+- (C) Most reviews of the event have been positive.
+
+- (D) It is not necessary to provide a credit card number at this time.
+
+🎈142.
+
+- (A) vehicle 
+
+- ##### (B) space
+
+- (C) upgrade 
+
+- (D) date
+
+Milo Ferris
+
+1690 Ascot Road Kenilworth
+
+Cape Town 7708 
+
+19 October
+
+Dear Mr. Ferris,
+
+This letter is to advise you that the water main in your area will be -------143 between the hours of 1: 00 A.M. and 6: 00 A.M. on 29 and 30 October.
+
+The system is -------144 some urgent work to accommodate the increasing demand for water use in Kenilworth.-------145. The entire project will be completed within the next three months.
+
+We apologize for the inconvenience that the interruption in your water supply will cause. These upgrades, however, are -------146. We will make every effort to complete the work as efficiently as possible.
+
+Sincerely, 
+
+Kagiso Pillay
+
+Operations Manager, Cape Town Water Supply and Maintenance 
+
+kpillay@ctwsm.za /(021-555-0012)
+
+🎈143.
+
+- (A)left out
+
+- (B)put down 
+
+- (C)let go
+
+- ##### (D)shut off 
+
+🎈🤫144.
+
+- (A)needed 
+
+- ##### (B)in need of 
+
+- (C)a need for 🔐
+
+- (D)necessary
+
+🎈145.
+
+- (A)The total cost is still not known. 
+
+- (B)The hours of operation are subject to change.
+
+- (C)Sales are expected to increase steadily. 
+
+- ##### (D)The work will be done in several stages. 
+
+🎈146.
+
+- ##### (A)essential 
+
+- (B)temporary 
+
+- (C)expensive 
+
+- (D)unexpected 
+
+======================================================================================
+
+🎈101. The Telra Corporation complies with all local and national -------.
+
+- (A) regulate
+
+- (B) regulated
+
+- (C) regulatory 
+
+- ##### (D) regulations
+
+🎈102. If you are not satisfied with your purchase ------- CXT Electronics, return it within 30 days for a full refund.
+
+- (A) to
+
+- (B) out
+
+- ##### (C) from
+
+- (D) along
+
+🎈103. Ms. Anderson has just received her invitation, so we cannot yet confirm whether ------- will attend the end-of-year banquet.
+
+- ##### (A) she
+
+- (B) her
+
+- (C) hers
+
+- (D) herself
+
+🎈104. As part of the writing workshop, participants will read their compositions ------- to the group.
+
+- (A) throughout
+
+- ##### (B) aloud
+
+- C) meanwhile
+
+- (D) significantly
+
+🎈105.Our programmers have benefited from the rigorous ------- required by the company.
+
+- (A) trainee
+
+- (B) trains
+
+- ##### (C) training
+
+- (D) trained
+
+🎈106.A recent ------- of restaurants across the nation suggests that people are dining out much more frequently.
+
+- (A) collection
+
+- (B) cuisine
+
+- ##### (C) survey
+
+- (D) supply
+
+🎈107.During the summer, the Clayburgh Museum ------- its hours until 10:00 P.M. on the weekend.
+
+- ##### (A) extends
+
+- (B) extending
+
+- (C) extensions
+
+- (D) extendable
+
+🎈108.After reviewing the latest real-estate reports,Ms. González ------- the sale of the property.
+
+- (A) replaced
+
+- (B) invested 
+
+- (C) commented 
+
+- ##### (D) authorized
+
+🎈109.Atlas Printing ------- can accommodate large orders within 24 hours.
+
+- (A) general
+
+- (B) generalize
+
+- (C) generalized
+
+- ##### (D) generally
+
+🎈110.The Kwon Group employee handbook contains ------- information about payroll, benefits, and terms of employment.
+
+- (A) every
+
+- (B) entire
+
+- (C) whole
+
+- ##### (D) complete
+
+🎈111.Mr. Shim has decided that he will present the figures to the board of trustees ------- rather than appoint someone else to do it.
+
+- (A) his
+
+- ##### (B) himself
+
+- (C) him 
+
+- (D) he
+
+🎈112.------- he arrived in Indonesia, risk analyst Hoi-Tung Lai has been assessing the spending of Jakarta's middle class. 
+
+- (A) While
+
+- (B) During 
+
+- ##### (C) Since
+
+- (D) For
+
+🎈113.Robert Lum is one of the most ------- leaders in the import-export business.
+
+- ##### (A) persuasive
+
+- (B) persuade
+
+- (C) persuasively
+
+- (D) persuades
+
+🎈114.Compared with other dairy products, yogurt has remained ------- inexpensive.
+
+- (A) thoroughly
+
+- ##### (B) relatively
+
+- (C) early
+
+- (D) minimally
+
+🎈115.Please place all orders for new office furniture ------- February 17.
+
+- (A) despite
+
+- ##### (B) before 
+
+- (C) inside 
+
+- (D) when
+
+🎈116.The Ott Institute designs successful training videos, but the process ------- to take longer than expected.
+
+- (A) finds
+
+- (B) shows
+
+- (C) works
+
+- ##### (D) tends
+
+🎈117.Two candidates were recently interviewed for the marketing position, and ------- were impressive.
+
+- (A) some
+
+- ##### (B) both
+
+- (C) any
+
+- (D) either
+
+🎈118.If Mr. Itoh is unable to attend the conference in Brasília, then Ms. Gruber will speak in his -------.
+
+- ##### (A) place
+
+- (B) purpose 
+
+- (C) concern
+
+- (D) permission
+
+🎈119.We have simplified the bill-paying feature on our secure Web site ------- convenience.
+
+- (A) above all
+
+- (B) with some
+
+- ##### (C) for your
+
+- (D) by its
+
+🎈120.The rebate offered by Genton Vitamins will expire ------- six months.
+
+- (A) among
+
+- ##### (B) within
+
+- (C) except
+
+- (D) besides
+
+🎈121.The results of the test are only as meaningful as the quality of the specimen ------- for analysis.
+
+- ##### (A) submitted
+
+- (B) submittal
+
+- (C) submits
+
+- (D) submitting
+
+🎈122.Ms. Nguyen is assigned to oversee ------- television advertising campaigns.
+
+- (A) indefinite
+
+- (B) deliberate
+
+- (C) compound
+
+- ##### (D) multiple
+
+🎈🤫123.Sales from the Plainlee Organics juice line ------for less than 25 percent of the company's total revenue.
+
+- ##### (A) account
+
+- (B) accounts 🔐
+
+- (C) accounting
+
+- (D) accountant
+
+🎈124.Since Alfonso Bastian is such a great ------- to the company, he was promoted to division manager.
+
+- ##### (A) asset
+
+- (B) order
+
+- (C) application
+
+- (D) opportunity
+
+🎈🤫125.The city ------- that all buildings pass an inspection does not apply to historic landmarks.
+
+- (A) require
+
+- (B) requires🔐
+
+- (C) required
+
+- ##### (D) requirement
+
+🎈🤫126.To keep an independent contracting license, Ms. Ato must ------- the correct paperwork annually.
+
+- ##### (A) file
+
+- (B) conduct 🔐
+
+- (C) announce 
+
+- (D) transform
+
+🎈127.The price quoted by the movers is only an ------- cost and is subject to change.
+
+- (A) approximately
+
+- ##### (B) approximate
+
+- (C) approximating
+
+- (D) approximation
+
+🎈128.Through the years, Ontario Housewares has ----- its commitment to sell only the highest-quality kitchen appliances.
+
+- (A) linked
+
+- (B) relieved
+
+- ##### (C) honored
+
+- (D) attracted
+
+🎈129.Mr. Mehretu will discuss the ------- of the new payroll policy at the company meeting tomorrow.
+
+- ##### (A) specifics
+
+- (B) specifically
+
+- (C) specifies
+
+- (D) specific
+
+🎈130.The contract must be signed------- the opening of formal discussions.
+
+- (A) in order to
+
+- ##### (B) prior to
+
+- (C) except for
+
+- (D) on top of
+
+Losilly Perfumes is pleased to announce that its newest fragrance, Pink Roses, has been -------131 Fragrance of the Year by the World Perfume Council. The council considers dozens of  entries every year, and the award carries a great deal of prestige in the industry. This is the first time ------- 132 of Losilly's fragrances has received this honor. Pink Roses uniquely combines the scent of freshly picked roses with a hint of vanilla.
+The Pink Roses scent had a -------133. release early this year and is still sold exclusively online. 
+
+-------134.
+
+🎈🤫131.
+
+- (A) granted 🔐
+
+- (B) supported
+
+- ##### (C) named 
+
+- (D) founded
+
+🎈🤫132.
+
+- (A) none 🔐
+
+- (B) each 
+
+- (C) others 
+
+- ##### (D) any
+
+🎈133.
+
+- (A) limit
+
+- ##### (B) limited
+
+- (C) limiting
+
+- (D) limits
+
+🎈134.
+
+- ##### (A) The fragrance will be available in stores next month.
+
+- (B) The previous winner was also a floral scent.
+
+- (C) Its distinctive packaging has been redesigned.
+
+- (D) Losilly is currently working on a replacement product.
+
+
+
+From: Felizia Wolfmeier <felizia@feliziasbakery.com>
+To: Ji Hyun Park <jhpark@polysthetics.com>
+Date: May 18
+Subject: Your feedback
+Dear Ms. Park:
+
+Thank you for contacting Felizia's Bakery with your -------135. We are -------136. to inform you that your
+idea, cinnamon mango cupcakes, will be added to our menu next month.
+
+We would like to thank you by offering you a complimentary half-dozen cupcakes in the flavor of your choice. To -------137. your gift, simply take this message with you the next time you visit Felizia's Bakery.
+
+-------138. We look forward to seeing you soon.
+Sincerely,
+Felizia Wolfmeier, Owner
+Felizia's Bakery
+
+🎈🤫135.
+
+- ##### (A) suggestion
+
+- (B) requirement 🔐
+
+- (C) complaint 
+
+- (D) concern
+
+🎈🤫136.
+
+- (A) delight 
+
+- ##### (B) delighted
+
+- (C) delightful  🔐
+
+- (D) delights
+
+🎈137.
+
+- (A) return
+
+- (B) exchange 
+
+- ##### (C) claim 
+
+- (D) display
+
+🎈138.
+
+- (A) It is fortunate that we have the item in stock.
+
+- ##### (B) We hope you enjoy this token of our appreciation.
+
+- (C) Please contact us with the requested information.
+
+- (D) Gift receipts do not contain prices.
+
+Timbi Construction Shelters
+If you work in the construction industry, you know how frustrating -------139  can be when unexpected rain forces you to halt work on a project. Not only do you risk inconveniencing your client when a deadline is missed, but you may have to postpone other planned projects as well.
+
+Timbi Construction Shelters provide the ------- 140.you need to continue the job! These temporary structures ------- installed directly at your work site. They remain intact for the duration of your project, enabling your crew members to work uninterrupted in rain or sunshine. They also ensure that all equipment and materials are kept dry, eliminating the risk of water and mold damage. -------142.Visit www.timbishelters.com for more information!
+
+
+
+🎈139.
+
+- ##### (A) it 
+
+- (B) one
+
+- (C) they 
+
+- (D) some
+
+🎈140.
+
+- (A) workers 
+
+- (B) financing 
+
+- (C) advice 
+
+- ##### (D) protection
+
+🎈141.
+
+- ##### (A) can be 
+
+- (B) are being
+
+- (C) have been
+
+- (D) would have been
+
+🎈142.
+
+- (A) Make sure to explain which repairs are most critical.
+
+- ##### (B) You will never have to delay work because of rain again.
+
+- (C) We will send a professional to your facility right away.
+
+- (D) How much time a project requires is difficult to predict.
+
+
+
+(April 15)-Starting on May 1, the city of Moreton will adopt a new recycling system. Residents will no longer have to sort recyclable materials. -------143， they can put everything into the same container.
+"This process is much more streamlined," says Liam Brown of Moreton Waste Management. "It will be just as easy to recycle as it is to throw things away.-------144."
+
+Skeptics say that while collection costs may be lower with the new system, processing costs will be much higher. "It may be more -------145.for residents," says Moreton resident Sophia Preston, "but these recyclables have to be taken to a facility to be sorted anyway. Then the city is going to have to pay high processing fees. People ------- 146 that the old system was better."
+
+🎈143.
+
+- ##### (A) Instead
+
+- (B) Otherwise
+
+- (C) In the meantime 
+
+- (D) As a rule
+
+🎈144.
+
+- (A) They have undergone additional training.
+
+- (B) It has been interesting to see the results. 
+
+- (C) The benefits of this are unclear.
+
+- ##### (D) People will be more likely to comply.
+
+🎈145.
+
+- (A) urgent 
+
+- (B) amusing 
+
+- ##### (C) convenient 
+
+- (D) ordinary
+
+🎈146.
+
+- (A) realized
+
+- ##### (B) will realize
+
+- (C) would have realized 
+
+- (D) been realizing
+
+=================================================================================
+
+
+
+🎈101.Visit our travel section for ------- information about local hotel discounts.
+
+- (A) helps
+- (B) helpfully
+- (C) helpful
+- (D) helped
+
+🎈102.Ms. Linde congratulated her team for ------- work on the Glenovas campaign.
+
+- (A) they
+- (B) theirs
+- (C) their
+- (D) those
+
+🎈103.Pedro's Printing was started as a family business 32 years -------.
+
+- (A) last
+- (B) ago
+- (C) along
+- (D) former
+
+🎈104.Applicants for our technical writing position should include a brief writing -------.
+
+- (A) style
+- (B) procedure
+- (C) sample
+- (D) approach
+
+🎈105.Doctors state that it is important to drink water ------- the day.
+
+- (A) after
+- (B) toward
+- (C) around
+- (D) throughout
+
+🎈106.For senior-level positions, Trimdeco Limited prefers ------- staff from within rather than externally.
+
+- (A) to be recruited
+- (B) to recruit
+- (C) recruit
+- (D) recruits
+
+🎈107.It is recommended to charge the drill's battery fully ------- using it for the first time.
+
+- (A) except
+- (B) before
+- (C) within
+- (D) against
+
+🎈108.Mr. Takahashi was recognized for his ------- achievement in quality control this past year.
+
+- (A) outstanding
+- (B) interested
+- (C) accepting
+- (D) ready
+
+🎈109.Since Jakan Technology ended production of microprocessors, its customers have searched for ------- alternatives.
+
+- (A) suited
+- (B) suitable
+- (C) suitably
+- (D) suits
+
+🎈110.See page 30 of the manual ------- a comparison of the recommended wood stains.
+
+- (A) for
+- (B) off
+- (C) by
+- (D) at
+
+🎈111.Diners seeking a quick and ------- lunch should find Kimchi Quick a delicious option.
+
+- (A) economist
+- (B) economical
+- (C) economics
+- (D) economize
+
+🎈112.The editors of Computer Roundup ------- recognized Fallway Computers for having the best customer service in the area.
+
+- (A) lightly
+- (B) closely
+- (C) recently
+- (D) moderately
+
+🎈113.When the customer complained about the cold soup, the server ------- and offered to bring a new bowl.
+
+- (A) behaved
+- (B) asserted
+- (C) apologized
+- (D) excused
+
+🎈114. ------- the month of September, all online donations will be matched by an anonymous donor.
+
+- (A) When
+- (B) During
+- (C) While
+- (D) Once
+
+🎈115.Martin Slyeptsov is an ------- guitarist, having won several national awards for his many albums.
+
+- (A) accomplished
+- (B) efficient
+- (C) unqualified
+- (D) arranged
+
+🎈116.Many internal staff have expressed interest in the position, but ------- have the required experience.
+
+- (A) any
+- (B) few
+- (C) each
+- (D) many
+
+🎈117.------- many of the attendees were late because of traffic, the president's presentation began on time. 
+
+- (A) As soon as
+- (B) So that
+- (C) Rather than
+- (D) Although
+
+🎈118.Over the next three years, Lang Biotech ------- to acquire an additional manufacturing site.
+
+- (A) to plan
+- (C) having planned 
+- (B) planning
+- (D) plans
+
+🎈119.To be considered for the position, applicants must submit a résumé ------- a list of references.
+
+- (A) even if
+- (B) along with
+- (C) whereas
+- (D) consequently 
+
+🎈120.Reza Realty will provide a full ------- of the commercial properties for sale in Delta City.
+
+- (A) analyzed
+- (B) analytics
+- (C) analysis
+- (D) analyst
+
+🎈121.The main speaker, Ms. Kelli Sun,------- to conclude her speech at 8:00 PM. tonight.
+
+- (A) expect
+- (B) expecting
+- (C) to expect
+- (D) is expected
+
+🎈122.There has been a significant ------ in traffic in the center of town since the opening of the David Bridge.
+
+- (A) reduction
+- (B) admission
+- (C) election
+- (D) placement
+
+🎈123.Routine maintenance of equipment ------- improves workplace safety and efficiency. 
+
+- (A) measure
+- (B) measurement 
+- (C) measurable
+- (D) measurably
+
+🎈124.When we get ------- from the Stades Group, we will inform the management team about the schedule change.
+
+- (A) allowance
+- (B) construction
+- (C) confirmation
+- (D) substance
+
+🎈125.Ms. Singh remembers her days as a sales assistant at Tyron Labs very -------.
+
+- (A) fonder
+- (B) fond
+- (C) fondly
+- (D) fondness
+
+🎈126.A potential merger with Porter-Renwick Enterprises is currently being ------- by the board of directors.
+
+- (A) considered 
+- (B) supposed
+- (C) reflected 
+- (D) assumed
+
+🎈127.Tengku Data Security ensures a company's ------- with all established regulations.
+
+- (A) compliance
+- (B) compliantly 
+- (C) complies 
+- (D) comply
+
+🎈128.The respondents to the passenger satisfaction survey are ------- of the total passenger population.
+
+- (A) creative
+- (B) current
+- (C) intermediate
+- (D) representative
+
+🎈129. ------- the plastic packaging arrives today, we cannot make the delivery on time.
+
+- (A) Mostly
+- (B) At least
+- (C) No more
+- (D) Unless
+
+🎈130.Heper Industry employees are ------- for expenses when using their personal cars for
+business purposes.
+
+- (A) reimbursed
+- (B) restored
+- (C) recovered
+- (D) reassigned
+
+﻿
+
+www.aoksportinggoods.com.au 
+AOK Sporting Goods is one of Australia's largest retailers of sports equipment and clothing. In
+September, we will be opening a new ------- 131 in Adelaide. We will begin interviewing for both
+full-time and part-time positions starting on 1 August. We are seeking ------- 132 and novice sales associates, cashiers, and delivery drivers. AOK Sporting Goods offers competitive salaries and flexible work schedules, ------- 133 training and career advancement opportunities. To apply for a 133. position, click the Careers link at the top of the page. -------134.﻿
+
+🎈131.
+
+- (A) hotel 
+- (B) stadium
+- (C) office 
+- (D) store
+
+🎈132.
+
+- (A) experience
+- (B) experienced
+- (C) experiencing
+- (D) to experience
+
+🎈133.
+
+- (A) in contrast to 
+- (B) for example 
+- (C) due to
+- (D) as well as
+
+﻿🎈134.
+
+- (A) Adelaide is a lovely city with many interesting historical sites.
+- (B) This is a great way to learn about upcoming sports events.
+- (C) A listing of all available positions can be found there.
+- (D) We have the largest inventory of equipment in Adelaide.
+
+﻿
+
+Now in its ninth year of service, the mission of the Small-Enterprise Forum is to provide assistance to entrepreneurs ------- 135 want to start or grow a small business. Our ------- 136 advisors work one-on-one with entrepreneurs to assess a new business idea, write a business plan, and investigate funding options. We ------- 137 our clients access to advanced business services that are normally only affordable for larger companies. Our services are free, but consultations with staff are by appointment only. -------138 We look forward to seeing you soon.
+
+🎈135.
+
+- (A) which 
+- (B) who 
+- (C) them 
+- (D) this
+
+🎈136.
+
+- (A) secure
+- (B) considered
+- (C) predictable 
+- (D) knowledgeable
+
+🎈137.
+
+- (A) give
+- (B) gave
+- (C) are given
+- (D) will be giving
+
+🎈138.
+
+- (A) We can teach you bookkeeping methods as well.
+- (B) Please give feedback about our staff on social media.
+- (C) Submit a counseling request form to obtain a time.
+- (D) Our clients have increased their profits substantially.
+
+﻿
+
+Daniel Salas
+844 Garden Way
+West Bay, CA
+
+Dear Mr. Salas,
+This is a formal letter offering you ------- 139 as a Desktop Support Specialist with Gregory Technologies. The position is based out of our main office in West Bay, the same office you visited to interview with us. Your start date will be October 9. -------140 The period to accept or reject this offer is five business days from the day you receive this letter. Some of the enclosed documents will require your signature. Signed documents should be faxed to ------141 attention at 909-744-1080.-------142, you may scan the signed documents and e-mail them to 142.' bcorman@gregorytech.com.
+Sincerely,
+Brian Corman
+Human Resources Director, Gregory Technologies
+
+﻿🎈139.
+
+- (A) employment 
+- (B) employee
+- (C) employer 
+- (D) employs
+
+🎈140.
+
+- (A) This ensures that you have a happy experience with us.
+- (B) If you need to change this date, please let us know.
+- (C) It is important that you select your start date as soon as possible. 
+- (D) We will be able to adjust your compensation if you would like.
+
+🎈141.
+
+- (A) mine 
+- (B) yours 
+- (C) my 
+- (D) her
+
+🎈142.
+
+- (A) Generously
+- (B) Appropriately
+- (C) Personally
+- (D) Alternatively ﻿
+
+To: Undisclosed Recipients 
+
+From: ellie_larson@fishburghrealty.com 
+
+Date: Tuesday, May 3
+Subject: New Property Search Tool
+
+The company is currently in the process of ------- our Property Search Manager software. We are looking for twelve volunteers to participate in the revised software's trial period. Participants will help determine how effective and user-friendly the new system is. This updated system -------144. more options within the search criteria, allowing our clients to access more precise and relevant search results.
+
+We will gather participant feedback throughout the two-week trial period. We will likely make some modifications based on the information we receive from participants.-------145, all ideas and suggestions will be seriously considered. Once we adjust the software accordingly, we will announce an official company-wide launch date of the new software.
+
+We thank you in advance for your help. -------146.
+Best regards,
+Ellie Larson
+
+﻿🎈143.
+
+- (A) exporting 
+- (B) promoting
+- (C) upgrading
+- (D) purchasing
+
+🎈144.
+
+- (A) includes 
+- (B) including
+- (C) that includes 
+- (D) having included
+
+🎈145.
+
+- (A) Instead
+- (B) Therefore
+- (C) Regardless 
+- (D) On the contrary
+
+🎈146.
+
+- (A) Your input is extremely valuable. 
+- (B) We have gathered a list of relevant properties.
+- (C) The new system will be fully installed next week.
+- (D) Familiarizing yourself with new technology can be challenging.
+
+
+
+=============================================================================
 
 
 
