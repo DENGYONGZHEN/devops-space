@@ -14818,6 +14818,762 @@ Ellie Larson
 
 
 
+🎈101.The number of flights to the South Pacific offered by Eastal Air is -------
+
+- (A) growing
+- (B) grown 
+- (C) growth
+- (D) grow
+
+🎈102.Wilsen University has a ------- ranked medical school with state-of-the-art facilities.
+
+- (A) lightly 
+- (B) rapidly 
+- (C) highly 
+- (D) shortly
+
+🎈103.Rather than asking an assistant for help, Ms. Pham responded to the director's request -------.
+
+- (A) her
+- (B) herself
+- (C) hers
+- (D) her own
+
+🎈104.Camilla Lowenson ------ all marketing accounts for Akembe Fashion's Paris office.
+
+- (A) handles
+- (B) trains
+- (C) reflects
+- (D) concerns
+
+🎈105.Mr. Risley credited his team for the ------- of the popular software program.
+
+- (A) develop
+- (B) developer
+- (C) developed
+- (D) development
+
+🎈106.The ------- candidate is someone with strong communication skills.
+
+- (A) ideal 
+- (B) deep 
+- (C) constant
+- (D) intensive
+
+🎈107.Thorsten Electronics' sales figures have risen ------- every month this year.
+
+- (A) progress
+- (B) progressive
+- (C) progressing
+- (D) progressively
+
+🎈108.While Dr. Merino is away ------- vacation, her patients will be seen by Dr. Wolf.
+
+- (A) in
+- (B) of
+- (C) on
+- (D) from
+
+🎈109.The J & S Foundation is honoring three individuals ------- have implemented successful community programs.
+
+- (B) whose
+- (A) whichever
+- (C) whoever
+- (D) who
+
+🎈110.Katib Boulos has over 30 years of experience in event planning and is particularly skilled at ------- 
+banquets.
+
+- (A) considering
+- (B) managing
+- (C) treating
+- (D) answering
+
+🎈111.Pinckney tools are ------- well made that they are guaranteed to last for decades.
+
+- (A) so
+- (B) such
+- (C) as
+- (D) just
+
+🎈112.If you should decide to discontinue your mobile-phone plan with PQ Wireless, please ------- us in writing.
+
+- (A) declare
+- (B) notify
+- (C) qualify
+- (D) state
+
+🎈113.The survey shows that most customers find Lundy Sweets' packaging -------.
+
+- (A) appealed
+- (B) appealing
+- (C) appeal
+- (D) appealingly
+
+🎈114.Today Mr. Lo verbally agreed to rent the property, ------- he will not sign the lease until next week.
+
+- (A) despite
+- (B) or
+- (C) but
+- (D) either
+
+🎈115.The new bus line is scheduled to travel ------- to the coast, bypassing several villages along its route.
+
+- (A) directions
+- (B) director
+- (C) directing
+- (D) directly
+
+🎈116.Please fill out the customer satisfaction survey and leave it at the reception desk at any time -------your stay.
+
+- (A) during
+- (B) onto
+- (C) against
+- (D) about
+
+🎈117.When Gollnick Architects presents the two housing construction plans, community members will be invited to express their -------.
+
+- (A) prefers
+- (B) preferring 
+- (C) preferential 
+- (D) preferences
+
+🎈118.Barett Printing produces high-quality posters with colors that stand -------.
+
+- (A) for
+- (B) by
+- (C) up
+- (D) out
+
+🎈119.Many of the dishes at Conrad's Bistro tend ------- of varying quality.
+
+- (A) are
+- (B) to be
+- (C) are being
+- (D) having been
+
+🎈120.The metal used by XRRM Co. to manufacture beverage cans weighs ------- less than it did a few years ago.
+
+- (A) tightly
+- (B) enough
+- (C) substantially
+- (D) only
+
+🎈121.Due to a decline in viewership, it is ------- whether the Jim Fuji Show will return next season.
+
+- (A) doubt
+- (B) doubtful
+- (C) doubtfully
+- (D) doubting
+
+🎈122.The publisher had to print a revised edition of the cookbook  ------- the author found mistakes in several recipes.
+
+- (A) which
+- (B) besides
+- (C) after 
+- (D) until
+
+🎈123.At DiFazio Entertainment, executives must be consulted before any  -------  decisions are made.
+
+- (A) consequence
+- (B) consequently 
+- (C) consequential
+- (D) consequences
+
+🎈124.Having the air-conditioning unit fixed by tomorrow is not ------- necessary, since the fan can keep the office cool enough.
+
+- (A) absolutely
+- (B) already
+- (C) eventually
+- (D) closely
+
+🎈125.The new Wyatt Medical Center was designed with environmental ------- in mind.
+
+- (A) sustainability
+- (B) sustainable 
+- (C) sustaining 
+- (D) sustain
+
+🎈126.The house looks like a ------ residence on the outside, yet inside there are many unusual features.
+
+- (A) dominant
+- (B) typical 
+- (C) relevant
+- (D) potential
+
+🎈127.Ms. Theroux has asked that last month's expenses be ------ in more detail on the budget report.
+
+- (A) clarify
+- (B) clarifies 
+- (C) clarified
+- (D) clarification
+
+🎈128.The writing conference in Austin has received a lot of ------- for its lineup of acclaimed authors.
+
+- (A) publicity
+- (B) campaign 
+- (C) association
+- (D) authorization.
+
+🎈129.Skillman Manufacturing has been specializing in ------ plastic parts since 1987.
+
+- (A) fabrication
+- (B) fabricating
+- (C) fabricates
+- (D) fabricate
+
+🎈130.The hiring committee may recommend candidates for positions ------ they have only limited professional experience.
+
+- (A) even if
+- (B) except for
+- (C) along with
+- (D) in spite of
+
+Grovetown Residents
+Our Neighborhood Bicycle Ride will be held this Sunday, November 2, from 10:00 A.M. to 1:00 PM. If you are interested in joining us, please be at the Community Recreation Center at ------131. at 9:45 A.M. For residents who do not own a bicycle, the recreation center has some that can be borrowed. Only ten bicycles are available,132------, so get there early if you want to borrow one. 133------.
+
+Local city employee and historian Steven Watanabe will guide us around the neighborhood, stopping along the way to share interesting facts about buildings and cultural landmarks. The bicycle tour should be really -------134!
+
+Sandra Mueller, Neighborhood Services Director
+
+🎈131.
+
+- (A) promptly
+- (B) usually
+- (C) likely
+- (D) nearly
+
+🎈132.
+
+- (A) therefore
+- (B) however
+- (C) as a result
+- (D) for example
+
+🎈133.
+
+- (A) The center is offering cycling classes this month.
+
+- (B) The bicycle ride last year was canceled. 
+
+- (C) The town is planning to install bicycle paths soon.
+
+- (D) All bicycles will probably be claimed quickly.
+
+🎈134.
+
+- (A) inform 
+- (B) informer
+- (C) informative 
+- (D) information
+
+
+
+21 August
+Elena Kline
+Kline & Georges Real Estate 
+
+988 Magnolia Court
+Townsville, QLD 4810
+
+Dear Ms. Kline,
+My firm ------135. Luke Bryson almost five years ago. When he came to us, he was a newly licensed real-estate agent. I mentored Luke for three months before he began taking his own clients. He was successful from the start, negotiating a sale for his first client that was 10 percent above the asking price.
+136.------.
+
+Luke has an outstanding ability to communicate with sellers and buyers 137------.He has gained a well-deserved reputation as one of the best new agents in the region. I recommend Luke with great 138------ 
+for a job at any residential real estate agency.
+
+Sincerely,
+
+Fiona Humphries, Senior Broker
+Greater Perth Property Brokers
+
+🎈135.
+
+- (A) sponsored 
+- (B) considered 
+- (C) billed 
+- (D) hired
+
+🎈136.
+
+- (A) It is an excellent mentorship program. 
+
+- (B) Let me know if the contract can be signed this week.
+
+- (C) Since then he has sold more than 30 properties.
+
+- (D) There was additional space for storage.
+
+🎈137.
+
+- (A) apart 
+- (B) quite
+- (C) alike 
+- (D) rather
+
+🎈138.
+
+- (A) enthusiasm 
+- (B) enthusiastic
+- (C) enthusiastically 
+- (D) enthusiast
+
+Looking for Eyeglasses? Save Money at Specs Online!
+
+Specs Online ------ 139. shopping for glasses online so convenient, you'll wish you had found us earlier. At our online store, you can virtually "try on" as many pairs of glasses as you want and deliberate for as long as you need, all within the comfort of your own home. No need to make small talk with persistent sales clerks or feel self-conscious in front of a mirror. And you also don't need to ------ 140 that you are being convinced to purchase something you do not want, since online stores don't work off of commissions.
+
+Online retail prices are much lower than those you will find in any ------ 141 retail store. Unlike stores in the mall, we don't have to pass on the costs for internal shipping to and from a storefront.
+------142 Try us. We are sure you will like us!
+
+
+
+🎈139.
+
+- (A) to make 
+- (B) makers
+- (C) has made 
+- (D) making
+
+🎈140.
+
+- (A) worry 
+- (B) know
+- (C) say 
+- (D) ask
+
+🎈141.
+
+- (A) renovated 
+- (B) convenient
+- (C) crowded 
+- (D) traditional
+
+🎈142.
+
+- (A) Rectangular frames are a good choice if you have a round face.
+- (B) Also, we have our own in-house laboratory.
+- (C) In addition, we provide free parking. 
+- (D) Ask your eye doctor about transitional lenses now.
+
+To: Customer Care Team <customercare@africanunitedbank.net.lr> 
+
+From: Patience Golaki <pgolaki@feltanom.com.lr>
+Date: Tuesday, 28 October
+Subject: International Travel
+
+To the Customer Care Team at African United Bank:
+
+Earlier today I tried to complete your online Travel Notification form. ------143, the Web site allows me to list only one country for each date. In order to avoid having a hold placed on my credit card, I am therefore writing to inform you of my forthcoming international travel plans.
+
+On 31 October, I ------ to Bucharest, Romania, via Frankfurt, Germany. I may use my card in 145 ------ 
+airports. I am then staying in Bucharest until the morning of 8 November, when I continue my trip to Beijing, China, by way of Moscow, Russia. ------ .My final arrival home in Monrovia is scheduled for 15 November.
+
+Please confirm that this request has been received and addressed.
+Thank you,
+Patience Golaki
+Account # 5008-111-059
+
+🎈143.
+
+- (A) Luckily 
+- (B) Likewise
+- (C) Moreover
+- (D) Unfortunately
+
+🎈144.
+
+- (A) had been flying 
+- (B) flew
+- (C) will be flying
+- (D) would fly
+
+🎈145.
+
+- (A) both 
+
+- (B) addition
+
+- (C) too 
+
+- (D) also
+
+🎈146.
+
+- (A) On this date, all travel alerts can be removed.
+- (B) I have already been notified about alerts for these countries.
+- (C) The alert for Monrovia should therefore last until the morning of 5 November. 
+- (D) I will need an alert on my account for all of these countries.
+
+
+
+
+
+🎈101.Our advisers help clients make informed decisions about ------ investments.
+
+- (A) their
+- (B) them
+- (C) they
+- (D) themselves
+
+🎈102.The photos available on clearlypictorial.com are intended for ------  use only.
+
+- (A) full
+- (B) empty
+- (C) personal
+- (D) wealthy
+
+🎈103.Before ------ the laboratory, all technicians must wash their hands thoroughly.
+
+- (A) leave
+- (B) leaving
+- (C) to leave
+- (D) have left
+
+🎈104.A 15 percent discount will be applied to the order only  the total price exceeds 100 euros.
+
+- (A) that
+- (B) yet
+- (C) also
+- (D) if
+
+🎈105.The Stalmer Library is ------ to announce its second annual International Book Fair.
+
+- (A) exciting
+- (B) excited
+- excitement
+- (D) excite
+
+🎈106.Mr. Su will initiate a competitive process to ------ the vacant director's position.
+
+- (A) fill
+- (B) hire
+- (C) set
+- (D) give
+
+🎈107.The charity auction was a huge ------ and raised enough funds for our planned improvements to Aurora Center.
+
+- (A) succeeds
+- (B) succeeding 
+- (C) successful 
+- (D) success
+
+🎈108.Audience members are asked to sit ------- in their seats until all the performers have exited the stage.
+
+- (A) quietly
+- (B) extremely
+- (C) abruptly
+- (D) possibly
+
+🎈109.Givatti Products' cosmetics and household cleaners are manufactured in ------- facilities.
+
+- (A) separating
+- (B) separate 
+- (C) separation
+- (D) separately
+
+🎈110.The Public Works office will accept bids for the reconstruction of Bluebee Square ------
+August 1.
+
+- (A) inside
+- (B) against
+- (C) onto
+- (D) through
+
+🎈111.The event coordinator recommends Zemecky Caterers because they ------- that they can handle complicated menus. 
+
+- (A) are shown
+- (B) showing 
+- (C) have shown
+- (D) shows
+
+🎈112.The travel agency arranged to have ------ tour guides for each city on the group's itinerary.
+
+- (A) completed 
+- (B) experienced 
+- (C) far
+- (D) sudden
+
+🎈113.Information on Pretoria's water-quality standards is available on the city's Web site for ------ who might be interested.
+
+- (A) another
+- (B) anyone
+- (C) everything
+- (D) either
+
+🎈114.Because the Telco 5XP industrial mixer has over 100 parts, a skilled ------ is required even for minor repairs.
+
+- (A) componen
+- (B) manual
+- (C) device
+- (D) technician
+
+🎈115.Pataki IT Systems had difficulty deciding which of two offices to lease, as both spaces were ------- attractive.
+
+- (A) equal 
+- (B) equals
+- (C) equally
+- (D) equality
+
+🎈116.Although the hotel is located in a resort area, its new marketing campaign is aimed ------- business travelers.
+
+- (A) behind
+- (B) in
+- (C) at
+- (D) from
+
+🎈117.After Mr. Lash retired, Ms. Cho took the ------- in planning the company's social events. 
+
+- (A) leader
+- (B) leading
+- (C) lead
+- (D) leads
+
+🎈118.The intersection of Wallace Avenue and Third Street will ------- open to pedestrian traffic during construction.
+
+- (A) enlarge
+- (B) secure 
+- (C) transform
+- (D) remain
+
+🎈119. ------- caterers charge an extra fee for cups and napkins.
+
+- (A) Most 
+- (B) Almost 
+- (C) Most of
+- (D) The most
+
+🎈120.Our online and evening programs allow students to earn credits while ------- working full-time.
+
+- (A) hourly
+- (B) similarly
+- (C) especially
+- (D) simultaneously
+
+🎈121.If the city attempts ------- the contract further, construction of the Fontmore Bridge will be
+delayed.
+
+- (A) modifies
+- (B) modified
+- (C) has modified
+- (D) to modify
+
+🎈122.Results of the customer survey will be presented ------- the data have been analyzed.
+
+- (A) in addition to
+- (B) by comparison
+- (C) as soon as
+- (D) all the same
+
+🎈123.The Human Resources director stressed that the professor's contract must ------- clause about information protection.
+include a
+
+- (A) definite
+- (B) definitely
+- (C) define 
+- (D) definitive
+
+🎈124.------- with multiple programming languages greatly improves job prospects for those in the computer technology industry.
+
+- (A) Instruction 
+- (B) Interest 
+- (C) Familiarity 
+- (D) Variety
+
+🎈125.Aomas Airlines only allows customers to cancel their tickets ------- 24 hours of purchase.
+
+- (A) above 
+- (B) within 
+- (C) even
+- (D) when
+
+🎈126.Ms. Orlov's achievements in the advertising industry are based on her ability to be ------- in trying out new marketing approaches.
+
+- (A) expected 
+- (B) honored 
+- (C) harmless 
+- (D) fearless
+
+🎈127.Shareholders' ------- in the interim president has been high thanks to her clear and specific transition plan.
+
+- (A) confidence
+- (B) confident
+- (C) confidently
+- (D) confidential
+
+🎈128.As senior researcher, Dr. Stanton is ------- qualified to present the results of the study.
+
+- (A) uniquely
+- (B) earnestly 
+- (C) effortlessly
+- (D) approximately
+
+🎈129.Kid Pro Toys' new action figures have outsold ------- of the competition.
+
+- (A) those
+- (B) whose 
+- (C) what
+- (D) which
+
+🎈130.Grape Street Apparel deliveries have been ------- by one day due to adverse weather conditions in the Northeast.
+
+- (A) taken on
+- (B) broken down
+- (C) gone through
+- (D) held back
+
+Day Spa Ltd. is pleased to introduce a special wellness package available during September only. For a discounted rate, guests who purchase three or more services will -------131 a complimentary meal and
+receive a choice of two natural products. ------- 132.
+
+Those interested in taking advantage of this package are encouraged to act -------133. We will be taking -------134 through September 25. Visit our Guest Services page at www.dayspaltd.com/gs for more information, including terms and conditions.
+
+🎈131.
+
+- (A) enjoy 
+- (B) undergo 
+- (C) offer 
+- (D) repeat
+
+🎈132.
+
+- (A) We earned several awards for excellent service last year.
+- (B) Certain exclusions from this special deal may apply.
+- (C) Our new location was advertised on television recently.
+- (D) We have been in business for more than 40 years.
+
+🎈133.
+
+- (A) quick
+- (B) quicken
+- (C) quicker 
+- (D) quickly
+
+🎈134.
+
+- (A) gifts
+- (B) measures 
+- (C) reservations 
+- (D) returns
+
+
+
+REPLACEMENTS AND RETURNS
+
+Congratulations on your purchase from Classic Audiobooks! For your convenience, every audiobook is accompanied by a -------135 return form. If  ------- 136 any reason you are dissatisfied with your purchase, fill it out and send it to Classic Audiobooks, 16 Becker Street, Philadelphia, PA 19129.
+
+Defective CDs -------137 as long as the item is still in stock. ------- 138 We will process a replacement or a refund within two weeks of receiving the item.
+
+🎈135.
+
+- (A) grateful
+- (B) completed
+- (C) mild 
+- (D) blank
+
+🎈136.
+
+- (A) to
+- (B) for
+- (C) by
+- (D) on
+
+🎈137.
+
+- (A) replaced
+- (B) will replace
+- (C) were replaced 
+- (D) will be replaced
+
+🎈138.
+
+- (A) Be sure to include all of the product contents in the original packaging. 
+- (B) We are sure you will be thrilled by our many outstanding offerings. 
+- (C) Our representatives are courteous,professional, and efficient.
+- (D) Our audiobooks are sold at several convenient retail locations.
+
+
+
+TORONTO (12 April)-At Expo North yesterday, Mexico-based Xintlo, Inc., introduced Yanickoo cookies, the latest addition to its line of  ------- 139 .The company prides itself on using only the healthiest -------140 ingredients in its foods, and these cookies are no exception. They are made with coconut flour, which offers an easily digestible high-fiber alternative to wheat flour. Yanickoos are sweetened ------- 141 the use of refined sugar, and they come in three tropical fruit flavors: mango,guava, and banana. They will be available in selected Baar markets beginning on 1 May.
+-------142.
+
+🎈139.
+
+- (A) products 
+- (B) services 
+- (C) views
+- (D) resources
+
+🎈140.
+
+- (A) naturally 
+- (B) nature 
+- (C) natural
+- (D) most naturally
+
+🎈141.
+
+- (A) like 
+- (B) without 
+- (C) into 
+- (D) following
+
+🎈142.
+
+- (A) A wider release is planned for the fall. 
+- (B) Focus group results have been mixed. 
+- (C) Xintlo's sales have greatly increased. 
+- (D) Baar will reportedly decline the offer.
+
+
+
+To: mariehafler05@71mail.com 
+
+From: gavinsnyder@northairlines.com 
+
+Subject: Thank you
+Date: February 25
+Dear Ms. Hafler:
+I am writing in response to your e-mail dated February 21 regarding the ------- 143 service you received from our staff on your most recent trip. Your e-mail has been shared with our Human Resources department and will be included in the employees' files.
+
+Thanks for taking the time to provide a detailed description of your positive experience. As a token of
+our appreciation, I am ------- 144 a North Airlines voucher for $50. You can apply it to a purchase of in-flight items -------145 to your next North Airlines ticket.
+
+------- 146. Please let us know if there is anything else we can do for you.
+Best wishes,
+
+Gavin Snyder
+Customer Relations Representative
+
+🎈143.
+
+- (A) disappointing 
+- (B) applied
+- (C) exceptional 
+- (D) careless
+
+🎈144.
+
+- (A) attach
+- (B) attachment
+- (C) attached 
+- (D) attaching
+
+🎈145.
+
+- (A) but
+- (B) or
+- (C) as 
+- (D) so
+
+🎈146.
+
+- (A) We always strive for customersatisfaction.
+- (B) We had received feedback about those employees before.
+- (C) We have other job openings that you may want to pursue.
+- (D) We will expand our flight routes next year.
+
+=====================================================================================
+
 
 
 
