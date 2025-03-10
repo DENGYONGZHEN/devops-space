@@ -3966,15 +3966,11 @@ recently（副詞） recent（形容詞）
 
 ### 关于 ing 形式
 
-
-
-![img](https://web-api.textin.com/ocr_image/external/ecef381adba15144.jpg)
+![img](https://camo.githubusercontent.com/7488c08e752f928f6945c62591d5a03f1d1ebfa81a30b08bb9f558d2e4687afe/68747470733a2f2f7765622d6170692e74657874696e2e636f6d2f6f63725f696d6167652f65787465726e616c2f656365663338316164626131353134342e6a7067)
 
 首先，-ing形式可分为**现在分词**和**动名词**两种。
 
 #### 现在分词
-
-![img](https://web-api.textin.com/ocr_image/external/2315265fc06f3049.jpg)
 
 具有进行时、形容词、分词构句三种用法。
 
@@ -3990,7 +3986,7 @@ recently（副詞） recent（形容詞）
 
 ##### 3. 分词构句
 
-例4：Mr. Kato entered the room, holding a cup of coffee.（加藤先生拿着一杯咖啡走进房间），在句末放置以-ing形式开头的短语，表示“～しながら（～的同时）”。这个“holding a cup of coffee（拿着一杯咖啡）”的短语作为副词修饰整个句子。
+例4：Mr. Kato entered the room, holding a cup of coffee.（加藤先生拿着一杯咖啡走进房间），在句末放置以-ing形式开头的短语，表示“～的同时”。这个“holding a cup of coffee（拿着一杯咖啡）”的短语作为副词修饰整个句子。
 
 此外，例5：Over 1,000 people attended the event, making it a big success.（超过1000人参加了活动，使之大获成功），以相同形式，为前句添加补充信息。
 
@@ -5043,7 +5039,7 @@ recently（副詞） recent（形容詞）
 
 ##### 动名词的基本特性（参考第1章问题）
 
-###### 兼具“动词”和“名词”的功能
+###### ❤️兼具“动词”和“名词”的功能
 
  ------- of your order will be sent within 24 hours to the e-mail address you have provided.
 
@@ -5058,7 +5054,7 @@ recently（副詞） recent（形容詞）
 
 ------
 
-##### 需要副词修饰
+##### ❤️需要副词修饰
 
 Dream Painting Ltd. is a painting contractor with a solid reputation for ------- completing projects by tight deadlines.
 
@@ -5072,7 +5068,7 @@ Dream Painting Ltd. is a painting contractor with a solid reputation for -------
 
 ------
 
-##### **动名词一般不带冠词**
+##### ❤️**动名词一般不带冠词**
 
 Buy one of our surfboards and get a free ------- to SurfingLife magazine.
 
@@ -5089,45 +5085,44 @@ Buy one of our surfboards and get a free ------- to SurfingLife magazine.
 
 ##### 以上是解题的基本要点。
 
-例如，在 **the safe lifting of patients**（患者的安全搬运） 这样的表达中，动名词可能会完全失去动词功能，名词化，并像普通名词一样带有冠词和形容词（参见 0327）。
+例如，在 **the safe lifting of patients**（患者的安全搬运） 这样的表达中，动名词可能会完全失去动词功能，名词化，并像普通名词一样带有冠词和形容词。
 
-在品词选择题中，如果遇到以下情况，动名词往往是错误选项：
+在名词选择题中，如果遇到以下情况，动名词往往是错误选项：
 
 - **及物动词但没有宾语**
 - **前面带有形容词或冠词**
 
 在答题时，应避免凭“感觉”或“语感”选动名词，而是要结合语法分析，确保选择正确的答案。
 
-## 介词 vs. 连词问题
+#### 介词 vs. 连词问题
 
-**“介词或连词”问题**是每次都会出现的常见考点。
-
-关键在于**准确理解介词和连词的区别**，以及**正确理解句子上下文的能力**。
-
-常考的介词和连词是固定的，因此，首先要整理清楚它们的用法，然后再进行练习。
-
-------
-
-## **第3章 介词 vs. 连词问题的解题方法**
+##### **第3章 介词 vs. 连词问题的解题方法**
 
 在**Part 5**（单选填空题）中，这类题目的特点是**选项中同时包含介词（如 despite、because of、due to）和连词（如 although、because、as soon as）**。
 
 解题时，需要选择**在语法上和意义上都正确的介词或连词**。可以按照以下两个步骤解题：
 
-### **1. 观察空格后面的结构**
+##### **1. 观察空格后面的结构**
 
 - 如果**空格后面接的是名词或短语**，说明需要填**介词**。
 - 如果**空格后面是一个完整的句子（包含主语S和谓语V）**，说明需要填**连词**。
 
-### **2. 根据语境选择合适的选项**
+##### **2. 根据语境选择合适的选项**
 
 在确定空格后面的结构后，还需要结合上下文，选择符合语义逻辑的选项。
 
 ------
 
-## **解题的基本步骤**
+##### **解题的基本步骤**
 
-### **① 先检查选项**
+--------the Harbor Continental Hotel has been open for only two months, it has already become very popular among business travelers.
+
+- (A) Although 
+- (B) Despite 
+- (C) Nevertheless
+- (D) Because
+
+##### **① 先检查选项**
 
 如果选项中同时有**介词和连词**，就可以判断这是**“介词 or 连词”**的题目，并对选项进行分类：
 
@@ -5137,208 +5132,133 @@ Buy one of our surfboards and get a free ------- to SurfingLife magazine.
 
 ------
 
-### **② 检查空格后面的结构**
+##### **② 检查空格后面的结构**
 
 - 空格后面的部分到逗号（,）为止是一个完整的句子（包含主语S和谓语V）。
 - 逗号后面的部分也是一个完整的句子（包含主语S和谓语V）。
 
 由于**完整句子（S + V）只能由连词引导**，所以正确答案应当是**连词**而不是介词。
 
-## 第3章
+##### ③检查意义的连贯性
 
-## 前置詞。r接続詞問題
+作为候选留下的连词分别是（A）「～虽然」、（D）「～所以」的意思。题干的前半句是「Harbor Continental酒店仅营业了两个月」，后半句是「在商务旅客中很受欢迎」，因此需要思考如何衔接这两个内容。用「虽然只营业了两个月，但很受欢迎」的语流更自然，因此判断选择Although对应的（A）。
 
-《前置詞or 接続詞問題》は、
+------
 
-毎回、複数問出題される定番問題。
+###### 1 介词：后面直接接名词（结构）
 
-ポイントとなるのは、前置詞と接続詞の違いを正確に理解しておくことと、文脈を読み取る力です。
+①＜介词＋名词，SV.＞ Despite the rain, Tex went out.
+②＜SV介词＋名词.＞ Tex went out despite the rain。
 
-出題される前置詞·接続詞はある程度決まっているので、まずは、その点をしっかり整理してから、問題に取り組んでいきましょう。
+------
 
-第 章3《前置詞 or 接続詞問題》の解き方
+###### 2 连词：后面直接接从句（SV）
 
-Part 5定番の問題で、選択肢に前置詞（despite、because of、due toなど）と接続詞（although、because、as soon asなど）が並んでいるのが特徴です。文法的·意味的に正しい前置詞か接続詞を選びます。このタイプを解く際は、次の2つのステップを踏みながら解答します。
+①＜连词 + S V , S V .＞ Although it was raining, Tex went out.
+②＜S V + 连词 + S V .＞ Text went out although it was raining。
 
-## 1 空所の後ろのカタチ
+------
 
-空所の後ろに続くのが名詞（句）なら前置詞、節（SV）なら接続詞が正解候補になります。
+###### 3 副词：没有连接功能
 
-## 2 意味のつながり
+①＜副词，SV.＞ Luckily, Tex passed the test.
+②＜S＋副词＋V.＞ Tex recently went to Osak.
+③＜SV副词.＞ Tex solved the problem esaily.
+④＜SV.副词，SV.＞ Tex is poor. However, he is happy.
 
-品詞を絞り込んだら、文脈を意識し、前後を自然につなぐ選択肢を選びます。
+最关键的是：介词连接「名词」，连词连接「从句」。此外，however（然而）、therefore（因此）等副词连接的是两个句子的语义关系，不能连接同一句子中的从句。
 
-では、例題を解きながら、ポイントを見ていきます。
+[O] Tex is poor. However, he is happy.
+[X] Tex is poor,however,he is happy.
+[O] Tex won.Therefore,he is happy.
+[X] Tex won, therefore, he is happy.
 
-## 解き方の基本
+------
 
-## ①選択肢をチェック
+###### 高频考点组合
 
-パッと見て《前置詞or接続詞》の問題だと判断し、品詞を確認します。（A）（D）が接続詞、（B）前置詞、（C）副詞です。
+观察例题选项（A）和（B）的although与despite。虽然一个是连词一个是介词，但都表示「尽管」。TOEIC L＆R常考这类语义相近的介词·连词组合。以下整理高频组合供系统记忆：
 
-## 第3章
+| 语义   | 介词        | 连词        |
+| :----- | :---------- | :---------- |
+| ～期间 | during      | while       |
+| ~因为  | because of  | because     |
+| ~因为  | due to      | since       |
+| ~尽管  | despite     | although    |
+| ~尽管  | despite     | though      |
+| ~尽管  | in spite of | though      |
+| ~尽管  | in spite of | even though |
 
-《前置詞0接続詞問題
+##### 高频连词
 
-## ②空所の後ろのカタチをチェック
+| when            | 当～时             |
+| :-------------- | :----------------- |
+| while           | 在～期间、另一方面 |
+| as soon as      | 一～就             |
+| once            | 一旦～就           |
+| if              | 如果～的话         |
+| unless          | 除非～             |
+| because         | 因为～             |
+| now that        | 既然现在～         |
+| so that         | 为了～             |
+| though/although | 尽管～             |
+| even though     | 即使～             |
+| whenever        | 无论何时～         |
+| even if         | 即使～             |
+| provided that   | 在～条件下         |
 
-空所後からカンマまでと、カンマ以降が共に、主語（S）と述語動詞（V）を含む節（SV）になっています。
+------
 
-![img](https://web-api.textin.com/ocr_image/external/d626973591745399.jpg)
+###### 兼具介词和连词用法的单词
 
-2つの節をつなげることができるのは接続詞です。したがって、選択肢中、（A）（D）が候補として残り、前置詞の（B）と、副詞の（C）は除外されます。
+| 单词   | 介词     | 连词         |
+| :----- | :------- | :----------- |
+| before | 在～之前 | 在S做V之前   |
+| after  | 在～之后 | 在S做完V之后 |
+| until  | 直到～   | 直到S做V为止 |
+| since  | 自～以来 | 因为S做V     |
+| since  | 自～以来 | 自S做V以来   |
 
-## ③意味のつながりをチェック
+------
 
-候補として残った接続詞は、それぞれ（A）「～だけれども」、（D）「～なので」という意味。問題文の前節は「Harbor Continental ホテルは2カ月しか営業していない」、後節は「出張客に人気」となっているので、この2つの内容をつなぐものとして、どちらが適切かを考えます。「2カ月しか営業していないが、人気」という流れにするのが自然なので、Althoughが適切と判断し（A）を選びます。
+##### 介词or连词基础练习
 
-## 1 前置詞：直後に名詞（のカタマリ）が続く
+根据空白后的结构，用介词／连词填空使句子符合日语原意（首字母已给出）：
 
-①＜前置詞＋名詞，SV.＞ Despite the rain,Tex went out.
+>  因为风很大，我们昨天没有出门。
 
-②＜SV前置詞＋名詞.＞ Tex went out despite the rain.
+🎈1.We did not go out yesterday because it was windy.
 
-## 2接続詞：直後に節（SV）が続く
+>  因为强风，我们昨天没有出门。
 
-\textcircled { 1 } < 接 待 晶 + S \square { V } , \square { S } \square { V } . Although it was raining, Tex went out.
+🎈2.We did not go out yesterday because of the strong wind.
 
-②<□{S}□{V}+接待晶+□{S}□{V}.> Tex went out although it was raining.
+🎈3.We did not go out yesterday due to the strong wind.
 
-## 3副詞：接続機能がない
+>  在她外出的期间，有人进了她的房间。
+> 🎈4.While she was out, someone went into her room.
 
-①＜副詞，SV.＞ Luckily,Tex passed the test.
+> 在她缺席期间，有人进了她的房间。
+> 🎈5. During her absence, someone went into her room.
 
-②＜S＋副詞＋V.＞ Tex recently went to Osaka.
+>  尽管有雾，我们还是去散步了。
+> 🎈6. Although it was foggy, we went for a walk.
+> 🎈7. Even though it was foggy, we went for a walk.
 
-③＜SV副詞.＞ Tex solved the problem easily.
+> 尽管有雾，我们还是去散步了。
+> 🎈8. Despite the fog, we went for a walk.
 
-④＜SV.副詞，SV.＞ Tex is poor. However, he is happy.
+> 自他出生以来，我就认识Tex了。
+> 🎈9. I’ve known Tex since he was born.
 
-最も重要なのは、前置詞は「名詞をつなぐ」、接続詞は「節をつなぐ」という点です。加えて、however（しかしながら）やtherefore（したがって）といった副詞は、2つのセンテンスの意味をつなぎます。1つの文に含まれる節同士をつなぐことはできません。
+> 我从三点开始一直在这里等。
+> 🎈10. I’ve been waiting here since three o’clock.
 
-[O] Tex is poor.However,he is happy.
+> Tex一到我们就出发。
+> 🎈11. As soon as Tex arrives, we will leave.
+> 🎈12. Once Tex arrives, we will leave.
 
-[X] Tex is poor, however, he is happy.
 
-[O] Tex won.Therefore, he is happy.
-
-[X] Tex won,therefore, he is happy.
-
-# よく出題される組み合わせ
-
-例題の選択肢（A）と（B）を見てください。althoughと despite。接続詞と前置詞の違いはありますが、意味はどちらも「～にもかかわらず」です。TOEIC L＆Rでは、このように意味の類似した前置詞·接続詞の組み合わせがよく出題されます。頻出の組み合わせをまとめたので、頭を整理しておきましょう。
-
-|                 | 意味            | 前置詞      | 接続詞      |
-| --------------- | --------------- | ----------- | ----------- |
-| ～の間          | ～の間          | during      | while       |
-| ~なので         | ~なので         | because of  | because     |
-| ~なので         | ~なので         | due to      | since       |
-| ~にもかかわらず | ~にもかかわらず | despite     | although    |
-| ~にもかかわらず | ~にもかかわらず | despite     | though      |
-| ~にもかかわらず | ~にもかかわらず | in spite of | though      |
-| ~にもかかわらず | ~にもかかわらず | in spite of | even though |
-
-よく出題される接続詞
-
-## 第3章
-
-《前置詞0接続詞問題
-
-| when            | ~するとき                |
-| --------------- | ------------------------ |
-| while           | ～する間に、～する一方で |
-| as soon as      | ~するとすぐに            |
-| once            | いったん~したら          |
-| if              | もし~するなら            |
-| unless          | ～しない限り             |
-| because         | ~なので                  |
-| now that        | 今はもう～なので         |
-| so that         | ~するように              |
-| though/although | ~にもかかわらず          |
-| even though     | ~にもかかわらず          |
-| whenever        | ~するときはいつでも      |
-| even if         | たとえ~しても            |
-| provided that   | ～という条件で           |
-
-## 前置詞と接続詞の両方の用法をもつ単語
-
-| 単語   | 前置詞    | 接続詞         |
-| ------ | --------- | -------------- |
-| before | ～の前に  | SがVする前に   |
-| after  | ~のあとに | SがVしたあとに |
-| until  | ~まで     | SがVするまで   |
-| since  | ～以来    | SがVするので   |
-| since  | ～以来    | SがVして以来   |
-
-## 前置詞or接続詞の基本演習
-
-空所後の形に注意しながら、前置詞／接続詞を使って、次の日本語の意味になるよう空所を埋めてみましょう（最初の1字を提示しています）。
-
-風が強かったので、僕たちは昨日出かけなかった。
-
-1. We did not go out yesterday b it was windy.
-
-強風だったので、僕たちは昨日出かけなかった。
-
-1. We did not go out yesterday b the strong wind.
-
-3.We did not go out yesterday d the strong wind.
-
-彼女が外出している間、誰かが彼女の部屋に入った。
-
-4.W she was out,someone went into her room.
-
-彼女が留守中、誰かが彼女の部屋に入った。
-
-5.D her absence,someone went into her room.
-
-霧だったにもかかわらず、われわれは散歩に出かけた。
-
-6.A it was foggy,we went for a walk.
-
-7.E t it was foggy, we went for a walk.
-
-霧にもかかわらず、われわれは散歩に出かけた。
-
-8.D the fog,we went for a walk.
-
-彼が生まれて以来、私はTexのことを知っている。
-
-9.I’ve known Tex s he was born.
-
-私はここで3時以来ずっと待っている。
-
-10.I’ve been waiting here s three o’clock.
-
-Texが到着したらすぐに出発します。
-
-11.A Tex arrives,we will leave.
-
-12.0 Tex arrives,we will leave.
-
-## 第3章
-
-《前置詞0接続詞問题
-
-## まとめ
-
-□空所の後ろのカタチをチェック
-
-·名詞のカタマリなら→前置詞が入る
-
-·節（SV）なら→接続詞が入る
-
-□意味のつながりをチェック
-
-·名詞と節（前置詞の場合）、節と節（接続詞の場合）の文脈を確認し、最も自然に意味がつながる選択肢を選ぶ
-
-·意味が同じ前置詞と接続詞に注意
-
-·前置詞と接続詞両方の用法をもつ単語にも注意
-
-## 次ページからは練習問題です。ここで学んだ＜解き方＞を実践してみましょう。
-
-1．because（接）／2．because of（前）／3．due to（前）／4．While（接）／5．During（前）／6．Although （接）／7．Even though（接）／8．Despite（前）／9．since（接）／10．since（前）／11．As soon as（接）／12．Once（接）
 
 🎈1. ------- a recent survey, the top characteristics of effective  managers include adaptability and sensitivity.
 
@@ -6000,149 +5920,127 @@ Texが到着したらすぐに出発します。
 
 - (D) if 🔐
 
+##### 代词
 
+###### 1 （格）类型的问题
 
-## 第 4章
+从主格 he、所有格 his、宾格 him、反身代词 himself 等不同格的人称代词中选择正确的选项。
 
-## 代名詞問題
+###### 2 其他类型
 
-![img](https://web-api.textin.com/ocr_image/external/e5040d3c62403983.jpg)
+选项由非人称代名词如 anyone、each other、those 等组成的类型。
 
-《代名詞問題》は、毎回0～2問出題されます。
+接下来，我们将通过例题来了解各个要点。
 
-簡単なようでいて、意外と落とし穴になるタイプの問題が出題されます。
+------
 
-特に再帰代名詞や所有代名詞の用法に注意が必要です。
+###### 1 （格）类型的问题
 
-問題数
+**例题**
 
-37問
+- **David Brown sent a letter from his new office to thank all --- former colleagues for their support over the years.**
+  - (A) he
+  - (B) his
+  - (C) him
+  - (D) himself
 
-問題通し番号
+------
 
-0504 0540
+###### 解题的基本方法
 
-第 章4《代名詞問題》の解き方
+###### 1 检查选项
 
-選択肢にhe／his／him／himselfといった代名詞が並ぶ問題です。毎回0～2問程度出題されます。大別すると以下の2タイプに分類できます。
+通过查看选项可以立即识别出这是《代词问题》，因此需要记住各选项的格，即 (A) 主格／(B) 所有格／(C) 宾格／(D) 反身代词。
 
-## 1＜格＞を問うタイプ
+###### ② 检查句子结构
 
-主格he、所有格his、目的格him、再帰代名詞himselfといった、格の異なる人称代名詞のなかから正しいものを選びます。
+空位前的及物动词 thank（感谢～）的宾语 former colleagues（前同事）出现在空位后。在该名词前补充表示"谁的同事"的所有格 (B) his，即可完成正确的句子。
 
-## 2そのほかのタイプ
+------
 
-人称代名詞以外のanyone、each other、thoseといった代名詞が選択肢に並ぶタイプ。
+###### 正确答案 (B)
 
-では、それぞれ例題を解きながら、ポイントを見ていきます。
+**译文** David Brown 从新办公室发信，对前同事们多年来的支持表示感谢。
 
-## 1＜格＞を問うタイプ
+------
 
-| 0504 空所に入る語句を（A）～（D） から1つ選びましょう。      | 例題 |
-| ------------------------------------------------------------ | ---- |
-| David Brown sent a letter from his new office to thank all former colleagues for their support over the years. |      |
-| David Brown sent a letter from his new office to thank all former colleagues for their support over the years. |      |
-| (A)he (B)his                                                 |      |
-| (A)he (B)his                                                 |      |
-| (C)him                                                       |      |
-| (D)himself                                                   |      |
+###### 此类题型Ⅰ
 
-解き方の基本
+相对容易，是必须掌握的类型。为此需要准确记忆代词的格变化（虽然是很基础的知识但很重要）。
 
-## ①選択肢をチェック
+------
 
-![img](https://web-api.textin.com/ocr_image/external/7151059c1aed824e.jpg)
+###### 代名词的格变化表
 
-選択肢を見れば、すぐに《代名詞問題》とわかるので、（A）主格／（B）所有格／（C）目的格／（D）再帰代名詞というように、各選択肢の格を頭に入れておきましょう。
+请填写下表①～⑩的空格（答案在表格外）：
 
-![img](https://web-api.textin.com/ocr_image/external/09ceb2426850b37c.jpg)
+| 数   | 人称    | 主格 | 所有格 | 宾格 | 物主代词 | 反身代词   |
+| :--- | :------ | :--- | :----- | :--- | :------- | :--------- |
+|      | 第1人称 | I    | my     | me   | mine     | myself     |
+|      | 第2人称 | you  | your   | you  | yours    | yourself   |
+| 单数 |         | he   | his    | him  | his      | himself    |
+|      | 第3人称 | she  | her    | her  | hers     | herself    |
+|      |         | it   | its    | it   | —        | itself     |
+| 复数 | 第1人称 | we   | our    | us   | ours     | ourselves  |
+|      | 第2人称 | you  | your   | you  | yours    | yourselves |
+|      | 第3人称 | they | their  | them | ⑨ theirs | themselves |
 
-## ②文構造をチェック
+------
 
-0504
+##### 格的功能
 
-空所前の他動詞thank（～に感謝する）の目的語 former colleagues（以前の同僚）が空所後にあります。この名詞の前に置き、誰の同僚なのかを示す所有格の（B）hisを補えば、正しい文が完成します。
+整理代名词各格的功能：
 
-正解（B）
+###### ① 主格： 作主语
 
-訳 David Brownは、前の同僚たちの長年にわたるサポートに感謝を示すため、新しい職場から手紙を出した。
+They are students.（他们是学生）
 
-このタイプ1は比較的容易なので、必ずものにしたい問題です。そのためには、とても基本的なことですが、代名詞の格変化を正確に覚えておくことが重要です。
+###### ② 所有格： 置于名词前表示所有者
 
-代名詞の格変化
+Their school is big.（他们的学校很大）
 
-次の表の空欄①～⑩に入る語句を考えましょう（正解は欄外）。
+###### ③ 物主代词： 代替《所有格＋前文出现过的名词》
 
-![img](https://web-api.textin.com/ocr_image/external/8fe2a406554c7710.jpg)
+Our school is small, and theirs is big. （我们的学校小，他们的大）（theirs = their school）
 
-| 数   | 人称  | 主格(~は、~が) | 所有格 | 目的格(~を、~に) | 所有代名詞(~のもの) | 再帰代名詞（～自身） |
-| ---- | ----- | -------------- | ------ | ---------------- | ------------------- | -------------------- |
-| 単数 | 1人称 | 1              | my     | me               | ①                   | myself               |
-| 単数 | 2人称 | you            | your   | you              | yours               | yourself             |
-| 単数 | 3人称 | he             | ②      | him              | ③                   | himself              |
-| 単数 | 3人称 | she            | her    | ④                | hers                | herself              |
-| 単数 | 3人称 | it             | ⑤      | it               | -                   | itself               |
-| 複数 | 1人称 | we             | our    | ⑥                | ours                | ourselves            |
-| 複数 | 2人称 | ⑦              | your   | you              | yours               | ⑧                    |
-| 複数 | 3人称 | they           | their  | them             | ⑨                   | ⑩                    |
+###### ④ 宾格： 作动词或介词的宾语
 
-大
+I like them.（我喜欢他们） / I talked to them.（我和他们交谈过）
 
-# 格の役割
+###### ⑤ 反身代词： 用于强调或主语与宾语一致的情况
 
-代名詞の格の役割を整理しておきましょう。
+〈强调〉They built the house themselves.（他们自己建造了房子）
+〈主宾一致〉They introduced themselves.（他们做了自我介绍）
 
-1主格：主語になる
+##### 2 其他类型
 
-They are students.
+###### 例题
 
-②所有格：名詞の前に置いて所有者を示す
+The firm is going to hold a free workshop for --- who are interested in working at its first Asian branch in Japan.
 
-Their school is big.
+- (A) them
+- (B) those
+- (C) everybody
+- (D) anyone
 
-## 3所有代名詞：＜所有格＋前に出てきた名詞》の代わりに使われる
+------
 
-Our school is small, and theirs is big. (theirs = their school)
+###### 解题的基本方法
 
-## 4目的格：動詞や前置詞の目的語になる
+###### ① 确认问题类型
 
-I like them. / I talked to them.
+- ✅ 识别选项中的代名词类型。
 
-5再帰代名詞：強調や、主語と目的語が同じ場合の目的語で使われる＜強調＞They built the
+###### ② 检查句子结构
 
-## 2 そのほかのタイプ
+空格后的关系代词 **who** 引导的从句修饰的先行词（关系词前的名词）需填入空格处。首先，选项 (A) **them** 无法后接修饰语。此外，从句中谓语动词 **are** 表明先行词需为复数形式，因此选择表示复数人群的 (B) **those**（相当于 people）。(C)(D) 选项均为单数，主谓不一致。
 
-0505
+------
 
-| 0505 空所に入る語句を（A）～（D）から1つ選びましょう。       | 例題 |
-| ------------------------------------------------------------ | ---- |
-| The firm is going to hold a free workshop for------- who are interested in working at its first Asian branch in Japan. (A)them (B)those (C) everybody (D) anyone |      |
+###### 正确答案 (B)
 
-## 解き方の基本
-
-## ①問題タイプをチェック
-
-![img](https://web-api.textin.com/ocr_image/external/1be6ae079d96ce78.jpg)
-
-代名詞が選択肢に並んでいることを把握します。
-
-## ②文構造をチェック
-
-空所後の関係代名詞who以下で修飾される先行詞（関係詞の直前の名詞）が空所に求められています。まず、選択肢中、（A）them は修飾語を続けることができません。また、whoの直後の述語動詞がareであることから、先行詞は複数形だと判断できます。よって、複数形の代名詞で、ここではpeople を意味する（B）thoseが正解です。（C）（D）はともに単数扱いなので主述が一致しません。
-
-第4章
-
-《代名詞問題》
-
-正解(B)
-
-訳 その会社では、日本にできる初のアジア支店での勤務に関心のある人々向けに、無料の説明会を開催する予定だ。
-
-![img](https://web-api.textin.com/ocr_image/external/61ceafca957670a0.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/b36dbd59f5e11342.jpg)
-
-次ページからは練習問題です。ここで学んだく解き方》を実践してみましょう。
+- **译文**
+  - 该公司将为对其首个亚洲分支机构（位于日本）工作机会感兴趣的人士举办免费说明会。
 
 🎈1. If you take office stationery from the storeroom, please contact  Ms. Nelson so that ------- can keep an inventory of office supplies.
 
@@ -6494,149 +6392,43 @@ I like them. / I talked to them.
 
 - (D)Everybody🔐
 
-# 語彙問題対策にも使える
 
-以下の空所に入る単語を考えてください。
 
-1.keep an i------- of office supplies
+🎈1. **keep an inventory of office supplies**
+保持办公用品的库存清单
 
-（オフィス用品の在庫を管理する）
+🎈2. **physicians in Wichita**
+威奇托的医生们
 
-1. p-------s in Wichita
+🎈3. **The seminar was understaffed.**
+研讨会人手不足。
 
-（Wichitaにいる医師）
+🎈4. **steady sales of the new digital camera**
+新款数码相机销量稳定
 
-1. The seminar was u-------.
+🎈5. **a complementary lunch**
+免费午餐
 
-（そのセミナーは人手不足だった。）
+🎈6. **issue a formal statement**
+发布正式声明
 
-1. s------- sales of the new digital camera
+🎈7. **contract expiration**
+合同到期
 
-（新しいデジタルカメラの安定した売上）
+🎈8. **Ms. Mori is well qualified for the position.**
+森女士完全胜任该职位。
 
-5.ac-------lunch
+🎈9. **at a fraction of retail value**
+以零售价的一小部分
 
-（無料のランチ）
+🎈10. **compliment the chef for his professionalism**
+称赞厨师的专业水平
 
-6.i-------a formal statement
 
-（正式な声明を出す）
 
-1. contract e
+![preposition](C:\Users\23794\Desktop\preposition.jpg)
 
-（契約期限切れ）
 
-1. Ms. Mori is well q------- for the position.
-
-（森さんはその職に適任だ。）
-
-[9.at](http://9.at/) a f------- of retail value （市場価格のわずかな金額で）
-
-1. c------- the chef for his p
-
-## 第 章5《前置詞問題》の解き方
-
-in、at、to、from、on等の前置詞の中から、正しい表現や熟語を完成させるものを選びます。決まった用法や表現を知らないと解けないので（そのため、厳密には文法問題ではなく語彙問題の一種といえます）、このタイプの問題は時間をかけすぎないことがポイントです。迷った場合は、直感を信じて答えを選びましょう。
-
-それでは、例題を見ていきましょう。
-
-| 0541 空所に入る語句を（A）～（D）から1つ選びましょう。       | 例題                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Anyone spending time outdoors hot weather should drink at least four cups of water per hour. (A)at (B)on (C)in (D)from | Anyone spending time outdoors hot weather should drink at least four cups of water per hour. (A)at (B)on (C)in (D)from |
-
-解き方の基本
-
-## ①選択肢をチェック
-
-は、《前置詞or接続詞問題》となるので注意。
-
-![img](https://web-api.textin.com/ocr_image/external/8481d62d202f10fb.jpg)
-
-## ②前置詞の持つイメージを重視
-
-天気を示す前置詞は（C）inです。暑い天気の「中」人がいるイメージで覚えましょう（日本語でも、暑い中ご苦労様です、って言いますね）。
-
-![img](https://web-api.textin.com/ocr_image/external/fdcf1108fbedd358.jpg)
-
-## ③直感を大切にする
-
-天気にはinを用いるということを知らなければ、どれだけ考えても（C）を選ぶことはできません。《前置詞問題》は答えを即決しましょう。その際、「これっぽいな」という直感を大切にするのがオススメです。というのも、意識せずとも、どこかで in hot weather という表現を目にしていて、その無意識の記憶が直感につながっている可能性が高いからです。
-
-## 1at
-
-![img](https://web-api.textin.com/ocr_image/external/31e5e22765c64d4d.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/8ceb296b60e4aace.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/ccf7a846fd1dbca3.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/6acdefbb76b61ba9.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/e86d81c001d71a5c.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/9e1e1dcb968b473d.jpg)
-
-＜ある一点）のイメージ
-
-## ② in/inside
-
-く何かの中、何かの中に＞のイメージ
-
-3on
-
-＜接触＞のイメージ
-
-over
-
-＜何かの真上を超える＞イメージ
-
-## ⑤under
-
-く何かの真下》のイメージ
-
-![img](https://web-api.textin.com/ocr_image/external/6dc976e11f220191.jpg)
-
-# between
-
-＜2つのものの間》のイメージ
-
-![img](https://web-api.textin.com/ocr_image/external/571e60caad4ef72e.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/025fc2401ca5e98f.jpg)
-
-## ⑦ among
-
-くある集団に囲まれている＞イメージ
-
-![img](https://web-api.textin.com/ocr_image/external/b3644b1ac5526dbc.jpg)
-
-## 8 against
-
-![img](https://web-api.textin.com/ocr_image/external/7fb06683b618ea9d.jpg)
-
-＜逆らう、力を加えた接触＞のイメージ
-
-![img](https://web-api.textin.com/ocr_image/external/23457c76a073089c.jpg)
-
-## 第5章
-
-《前置詞問題》
-
-![img](https://web-api.textin.com/ocr_image/external/6f0b52d5888ab2a1.jpg)
-
-![img](https://web-api.textin.com/ocr_image/external/d07c18ed63e17e51.jpg)
-
-## 9 opposite
-
-く通りなどを隔てた向かい側》のイメージ
-
-### ⑩ along
-
-＜線に沿って進む＞イメージ
-
-### まとめ
-
-□前置詞の持つ基本イメージで覚える
 
 🎈1.Ms.Torres told her team members to submit the progress report  on the promotional campaign------- Thursday afternoon.
 
@@ -7190,163 +6982,102 @@ over
 
 - ##### (D) into
 
+##### 关系代词
 
+###### 1 检查空格后的结构
 
-## 第 章6《関係詞問題》の解き方
+若缺少主语则填入主格关系代词，若缺少宾语则填入宾格关系代词。若两者均不缺，且先行词与空格后无冠词修饰的裸名词之间存在「～的」所属关系，则填入所有格关系代词 **whose**。
 
-who、which、thatといった関係詞の中から、直前の名詞（先行詞）と後ろの節を正しくつなぐものを選びます。関係副詞（when やwhere など）や複合関係詞（whoever やwhateverなど）の問題は出題頻度が低いので、ここでは関係代名詞の問題に絞って解答ポイントを説明します。
+###### 2 检查先行词
 
-TOEIC L＆Rの関係代名詞の問題は、以下の2ステップで解くのが基本です。
+确认先行词是「人」还是「非人」，从而选择正确的关系代词。
 
-## 1空所後のカタチをチェック
+接下来通过例题具体分析。
 
-主語が欠けていたら主格、目的語が欠けていたら目的格の関係代名詞が空所に入ります。どちらも欠けておらず、先行詞と空所後の裸の（冠詞等が付いていない）名詞との間に「～の」という所有の関係があれば、所有格の関係代名詞whoseが空所に入ります。
+------
 
-## 2先行詞をチェック
+##### 例题
 
-「人」か「人以外」かをチェックして、正しい関係代名詞を選びます。
+- **Adrian Pennino, --- has recently been transferred to Mexico City, will visit the New York branch next Thursday.**
+  - (A) who
+  - (B) which
+  - (C) where
+  - (D) he
 
-それでは、例題を見ていきましょう。
+------
 
-| 例題0597空所に入る語句を（A）～（D） から1つ選びましょう。Adrian Pennino,------- has recently been transferred to Mexico City, will visit the New York branch next Thursday. |
-| ------------------------------------------------------------ |
-| (A)who (B)which (C)where (D)he                               |
+###### 解题的基本方法
 
+- **① 检查选项**
+  若选项中包含 **who**、**which**、**what**、**where** 等，则为《关系词问题》。需结合空格后的句子结构通读题干。
 
+------
 
-## 解き方の基本
+###### ② 检查空格后的结构
 
-## ①選択肢をチェック
+该句中，**Adrian Pennino** 是主语，空格后至 **Mexico City** 部分是对主语的补充说明（形容词性从句）。空格后的 **has recently been transferred** 缺少主语，因此需填入主格关系代词。
 
-選択肢にwho、which、what、whereなどが並んでいる場合は、《関係詞問題》です。空所以降の文構造を意識しながら、問題文に目を通します。
+###### ③ 检查先行词
 
-![img](https://web-api.textin.com/ocr_image/external/6ce965d76e50eae4.jpg)
+先行词是主语 **Adrian Pennino**（人），因此选择用于人的主格关系代词 **(A) who**。
 
-![img](https://web-api.textin.com/ocr_image/external/45c1d1f848b91f94.jpg)
+- (B) **which** 用于「非人」的主格或宾格关系代词。
+- (C) **where** 是表地点的关系副词。
+- (D) **he** 是主格代词，但原句已有主语 **Adrian Pennino**，若选此会导致句子出现双主语，结构错误。
 
-800問 1000問
+------
 
-## ②空所後のカタチをチェック
+###### 关系代词一览表
 
-0597
+| 先行词       | 主格  | 所有格 | 宾格  |
+| :----------- | :---- | :----- | :---- |
+| 人           | who   | whose  | whom  |
+| 非人         | which | whose  | which |
+| 人或非人皆可 | that  | —      | that  |
+| 无先行词     | what  | —      | what  |
 
-この文では、Adrian Penninoが主語で、空所後からMexico Cityまでは主語を詳しく説明する形容詞のカタマリです。空所後がhas recently been transferredと主語が欠けた形になっています。したがって、空所には主格の関係代名詞が入るとわかります。
-
-## ③先行詞をチェック
-
-先行詞は主語のAdrian Pennino、つまりく人＞なので、人に用いる主格の関係代名詞（A）whoが正解です。
-
-![img](https://web-api.textin.com/ocr_image/external/05630c6b3efdde96.jpg)
-
-（B）は先行詞が＜人以外＞のときに主格や目的格の関係代名詞として機能します。（C）は場所を表す関係副詞です。（D）のheは代名詞の主格ですが、すでに Adrian Penninoという主語があるので、これを選ぶと1つの文に主語が2つ存在することになってしまい、文が成立しません。
-
-正解(A)
-
-訳 Adrian Pennino は、最近メキシコシティに転勤になったが、次の木曜日にニューヨーク支店を訪れる予定だ。
-
-## 関係代名詞一覧
-
-次の表を頭の中に叩き込んでおきましょう。
-
-| 先行詞         | 主格  | 所有格 | 目的格 |
-| -------------- | ----- | ------ | ------ |
-| 人             | who   | whose  | whom   |
-| 人以外         | which | whose  | which  |
-| 人と人以外両方 | that  | -      | that   |
-| ナシ           | what  | -      | what   |
-
-## 練習
-
-中学レベルの問題を使って解き方のコツを確認しましょう。空所にthat以外の関係代名詞を入れてください（答えは次のページ）。
-
-《関係詞問題》
-
-第6章
-
-1.I have a sister------- lives in Osaka.
-
-1. This is a book ------- is written by Haruki Murakami.
-2. That is the woman ------- husband is a famous doctor.
-
-4.I know-------you want.
-
-5.I met Mr. Kanzaki and Mr. Maeda, both of ------- are famous teachers.
-
-## 練習の答え
+###### 练习答案
 
 1. I have a sister who lives in Osaka.
+   ① 空格后的主语缺失 → 主格
+   ② 先行词是人 → who
+2. This is a book which is written by Haruki Murakami.
+   ① 空格后的主语缺失 → 主格
+   ② 先行词是非人 → which
+3. That is the woman whose husband is a famous doctor.
+   ① 空格后的主语和宾语均未缺失
+   ② 先行词 **woman** 与空格后的裸名词 **husband** 之间存在所属关系（her husband）→ whose
+4. I know what you want.
+   ① 空格后的及物动词 **want** 缺少宾语 → 宾格
+   ② 无先行词 → what
+   *关系代词 **what** 与其他关系代词不同，它构成名词性从句（此处 **what you want** 作及物动词 **know** 的宾语）。
+5. I met Mr. Kanzaki and Mr. Maeda, both of whom are famous teachers.
+   ① 空格后的 **both of** 需要介词 **of** 的宾语 → 宾格
+   ② 先行词是人 → whom
 
-①空所後の主語が欠けている→主格
+------
 
-②先行詞が人→who
+###### 解题技巧：当不确定时
 
-2.This is a book which is written by Haruki Murakami.
+含有关系代词的句子，可以通过将关系代词替换为普通代词，并拆分成两个句子来验证（以练习题为例）：
 
-①空所後の主語が欠けている→主格
+1. **I have a sister who lives in Osaka.**
+   *将主格关系代词 **who** 替换为主格代词 **she***
+   → I have a sister. She lives in Osaka.
+2. **That is the woman whose husband is a famous doctor.**
+   *将所有格关系代词 **whose** 替换为所有格代词 **her***
+   → That is the woman. Her husband is a famous doctor.
 
-②先行詞が人以外→which
+例如，在练习5中，若填入主格 **who**，拆分后句子会变为：
+**Both of they are famous teachers.**（错误）
+正确应为：**Both of them are famous teachers.**（宾格）
+因此可确认宾格 **whom** 是正确答案。考试中若不确定，可用此方法验证。
 
-1. That is the woman whose husband is a famous doctor.
+------
 
-①空所後の主語·目的語が欠けていない
+###### 注意事项
 
-②先行詞womanと空所後の裸の名詞husbandとの間に、her husband という所有の関係がある→whose
-
-![img](https://web-api.textin.com/ocr_image/external/90e82492b438f9ec.jpg)
-
-4.I know what you want.
-
-①空所後の他動詞wantの目的語が欠けている→目的格
-
-②先行詞がない→what
-
-＊関係代名詞のwhatは、形容詞のカタマリを作るほかの関係代名詞とは異なり、名詞のカタマリを作ります（ここでは what you wantが他動詞know の目的語になっています）。
-
-1. I met Mr. Kanzaki and Mr. Maeda, both of whom are famous teachers.
-
-①空所後のareの主語both of-------の前置詞ofの目的語が必要→目的格
-
-②先行詞が人→whom
-
-## 迷ったときの解決法
-
-関係代名詞が入った文は、関係代名詞を普通の代名詞に変え、後ろの節に入れると、次のように2つの文に分けることができます（上の練習問題を例に）。
-
-1. I have a sister who lives in Osaka.
-
-＊主格の関係代名詞whoを主格の代名詞sheに変えて···
-
-I have a sister. She lives in Osaka.
-
-3.That is the woman whose husband is a famous doctor.＊所有格の関係代名詞whoseを所有格の代名詞herに変えて···That is the woman. Her husband is a famous doctor.
-
-たとえば、練習5で主格のwhoを空所に入れてみて、2文に分けると、2つ目の文がBoth of they are famous teachers.となり、正しい文になりません。Both of them are famous teachers.が正しい形ですから、目的格が正解だと確認できます。もし、本試験で答えに迷ったら、このように2文に分けて考えましょう。
-
-＊こうした前置詞の目的語になる用法を除くと、現代英語では、目的格のwhomは whoで代用可能です。したがって、TOEIC L＆Rでのwhomの出題例もほとんどありません。
-
-![img](https://web-api.textin.com/ocr_image/external/af361f10826f7e02.jpg)
-
-TOEIC L＆Rの関係代名詞の問題の解き方をまとめたのが以下の表です。
-
-![img](https://web-api.textin.com/ocr_image/external/b1e3fc499ef53916.jpg)
-
-＊目的格の関係代名詞（that、which、whom）は通常省略可能なので、TOEIC L＆Rで出題されるのも主格や所有格がほとんどです。
-
-＊関係副詞（whereやhow等）や複合関係詞（whoeverや whateverなど）は出題頻度が低いので、この表からは割愛しています（個別の問題で取り上げます）。
-
-《関係詞問題》
-
-## 第6章
-
-## まとめ
-
-□空所の後ろで欠けている要素を見つける
-
-□先行詞が＜人＞か＜人以外＞かを識別
-
-□迷ったら、2つの文に分けて考える
-
-次ページからは練習問題です。ここで学んだ＜解き方＞を実践してみましょう。
+*除作介词宾语的用法外，现代英语中宾格 **whom** 通常可用 **who** 替代，因此 TOEIC L＆R 考试中几乎不考查 **whom**。*
 
 🎈1. Career consultant Louise Bennett,------- latest book was published  last week, will be speaking at the workshop this afternoon.
 
