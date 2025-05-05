@@ -1,6 +1,6 @@
 ## AWS Service Catalog
 
-![image-20250504170808779](.\images\image-20250504170808779.png)
+![image-20250504170808779](./images/image-20250504170808779.png)
 
 ##### AWS Service Catalog
 
@@ -67,13 +67,13 @@ Which strategy should be used to meet these requirements?
 
 ## CloudFormation
 
-![image-20250504145258802](.\images\image-20250504145258802.png)
+![image-20250504145258802](./images/image-20250504145258802.png)
 
-![image-20250504163812982](.\images\image-20250504163812982.png)
+![image-20250504163812982](./images/image-20250504163812982.png)
 
-![image-20250504164027361](.\images\image-20250504164027361.png)
+![image-20250504164027361](./images/image-20250504164027361.png)
 
-![image-20250504164245898](.\images\image-20250504164245898.png)
+![image-20250504164245898](./images/image-20250504164245898.png)
 
 ##### StackSets with AWS Organizations
 
@@ -514,13 +514,13 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 ## Serverless Application Model
 
-![image-20250504204047455](.\images\image-20250504204047455.png)
+![image-20250504204047455](./images/image-20250504204047455.png)
 
-![image-20250504204232424](.\images\image-20250504204232424.png)
+![image-20250504204232424](./images/image-20250504204232424.png)
 
-![image-20250504204354601](.\images\image-20250504204354601.png)
+![image-20250504204354601](./images/image-20250504204354601.png)
 
-![image-20250504204658870](.\images\image-20250504204658870.png)
+![image-20250504204658870](./images/image-20250504204658870.png)
 
 ##### SAM with CodeDeploy
 
@@ -2184,7 +2184,7 @@ Which combination of additional steps should the DevOps engineer take to meet th
 
 - ##### 🔑E. Modify the pipeline to include the S3 bucket for us-east-1 as an artifact store. Create a new CloudFormation deploy action for us-east-1 in the pipeline. Configure the new deploy action to use the CloudFormation template from the us-east-1 output artifact.
 
-![image-20250503151524185](.\images\image-20250503151524185.png)
+![image-20250503151524185](./images/image-20250503151524185.png)
 
 #### 🎈Question #56
 
@@ -3564,7 +3564,7 @@ Which solution will meet these requirements with the MOST operational efficiency
 
 - 🔑D. Create an AWS Step Functions Standard Workflow. Configure states in the workflow to invoke the Lambda functions sequentially. Create an Amazon Simple Notification Service (Amazon SNS) topic. Modify the BeginResponse Lambda function to publish to the SNS topic before the Lambda function finishes running. Create a new Lambda function that is subscribed to the SNS topic and that invokes the Step Functions workflow.
 
-![img](.\images\topic-structure.png)
+![img](./images/topic-structure.png)
 
 #### 🎈Question #288
 
@@ -3620,7 +3620,7 @@ Which solution will meet these requirements?
 
 - 🔑D. Create a new AWS account in AWS Organizations. Create a transit gateway in this account, and use AWS Resource Access Manager to share the transit gateway with the organization. In each of the microservice VPCs, create a transit gateway attachment to the shared transit gateway. Update the route tables of each VPC to use the transit gateway. Create a Network Load Balancer (NLB) in each of the microservice VPCs. Use the NLB DNS names for communication between microservices.
 
-![img](.\images\vpc-endpoint.png)
+![img](./images/vpc-endpoint.png)
 
 👉 所以标准架构是：
 
@@ -4050,7 +4050,7 @@ Which combination of steps will meet these requirements with the LEAST amount of
 >   - **集中管理元数据**（表结构、分区信息），Athena 和 Redshift Spectrum 可直接引用。
 >   - **自动爬取**：通过 Glue Crawler 自动发现 S3 中的 .csv 结构并更新元数据。
 
-![image-20250504001205600](.\images\image-20250504001205600.png)
+![image-20250504001205600](./images/image-20250504001205600.png)
 
 #### 🎈Question #169
 
@@ -4254,7 +4254,7 @@ Which solution will meet these requirements with the LEAST operational overhead?
 
 ## AWS Organization ，SCP，Control Tower
 
-![image-20250505024955490](.\images\image-20250505024955490.png)
+![image-20250505024955490](./images/image-20250505024955490.png)
 
 ##### Service Control Policies (SCP)
 
@@ -4532,9 +4532,9 @@ A company manages multiple AWS accounts in AWS Organizations. The company’s se
 
 Which SCP will meet these requirements?
 
-![image20250416220417706](.\images\image-20250416220417706.png?msec=1745847546794)
+![image20250416220417706](./images/image-20250416220417706.png?msec=1745847546794)
 
-![image20250416220452942](.\images\image-20250416220452942.png?msec=1745847546721)
+![image20250416220452942](./images/image-20250416220452942.png?msec=1745847546721)
 
 #### 🎈Question #147
 
@@ -4679,11 +4679,11 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - ##### 🔑E. Attach an SCP to the accounts. Include the following statement:
   
-  ![image20250416221056667](.\images\image-20250416221056667.png?msec=1745847546721)
+  ![image20250416221056667](./images/image-20250416221056667.png?msec=1745847546721)
 
 - 🔑F. Create an IAM permissions boundary in each account. Include the following statement:
 
-- ![image20250416221137314](.\images\image-20250416221137314.png?msec=1745847546722)
+- ![image20250416221137314](./images/image-20250416221137314.png?msec=1745847546722)
 
 > **✅ **A.
 > 
@@ -5252,7 +5252,7 @@ All existing Amazon EC2 instances have a department tag that corresponds to thre
 
 Which condition key should the DevOps engineer include in the custom permissions policies to meet these requirements? **C**
 
-![p](.\images\image-20250409231206306.png)
+![p](./images/image-20250409231206306.png)
 
 #### 🎈?Question #101
 
@@ -5381,7 +5381,7 @@ A DevOps engineer must **create policies based on the matching attributes. The p
 
 Which condition key should the DevOps engineer include in the custom permissions policies to meet these requirements?         **C**
 
-![image20250416223543780](.\images\image-20250416223543780.png?msec=1745847546958?msec=1746090722352)
+![image20250416223543780](./images/image-20250416223543780.png?msec=1745847546958?msec=1746090722352)
 
 #### 🎈Question #296
 
@@ -5403,7 +5403,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - ##### 🔑F. Assign the new permission set to the new AWS account. Allow the IAM team's group to use the permission set.
 
-![已生成图片](.\images\identity-center.png)
+![已生成图片](./images/identity-center.png)
 
 ## AWS CloudTrail
 
@@ -7425,7 +7425,7 @@ Which solution will meet these requirements?
 
 ###### **1. 标准工作流（Standard Workflow）**
 
-![image-20250503001814299](.\images\image-20250503001814299.png)
+![image-20250503001814299](./images/image-20250503001814299.png)
 
 - **步骤**：
   1. 触发执行（手动或通过 EventBridge/API）。
@@ -7839,7 +7839,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 > 
 > **SNS topic** 默认是 private 的，必须在 **topic policy** 中授权 **aps.amazonaws.com** 这个 service principal 能 **sns:Publish** 和 **sns:GetTopicAttributes**
 
-![82c5b65a-8e13-4732-8853-bc394c1b0bbc](.\images\82c5b65a-8e13-4732-8853-bc394c1b0bbc.png)
+![82c5b65a-8e13-4732-8853-bc394c1b0bbc](./images/82c5b65a-8e13-4732-8853-bc394c1b0bbc.png)
 
 #### 🎈Question #291
 
