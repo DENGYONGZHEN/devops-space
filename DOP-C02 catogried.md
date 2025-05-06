@@ -4,7 +4,7 @@
 
 ##### AWS Service Catalog
 
-- It is a self-service portal to launch a set of authorized AWS services of which configuration is predefined by admins
+- It is a **self-service portal** to launch a set of authorized AWS services of which configuration is predefined by admins
 - Service Catalog is using CloudFormation under the hood
 - Service Catalog tasks:
   - Admin tasks:
@@ -14,7 +14,7 @@
   - Users tasks:
     - They presented with a product list
     - They will launch products
-- Service Catalog is used to create and manage catalogs of IT services that are approved by administrators on AWS
+- Service Catalog is used to create and manage catalogs of IT services that are **approved by administrators on AWS**
 - CloudFormation helps ensure consistency and standardization by admins
 - Users (teams) are presented with a self-service portal where they can launch the products
 - Service Catalog helps with governance, compliance and consistency
@@ -35,15 +35,17 @@
 - The launch constraint IAM role must have the following permissions:
   - CloudFormation (Full Access)
   - Permission to AWS Services in the CloudFormation template
-  - Read Access to S3 Bucket which contains the CloudFormation template
+  - **Read Access to S3 Bucket which contains the CloudFormation template**
 
-#### 🎈Question #39
+#### 🎈?Question #39
 
 A company wants to use AWS CloudFormation for infrastructure deployment. The company has strict tagging and resource requirements and wants to **limit the deployment to two Region**s. **Developers will need to deploy multiple versions of the same application**.
 
 Which solution ensures resources are deployed in accordance with company policy?
 
-- 🔑A. Create AWS Trusted Advisor checks to find and remediate unapproved CloudFormation StackSets.
+- 🔑A. Create AWS Trust
+
+- ed Advisor checks to find and remediate unapproved CloudFormation StackSets.
 
 - 🔑B. Create a Cloud Formation drift detection operation to find and remediate unapproved CloudFormation StackSets.
 
@@ -85,7 +87,7 @@ Ability to **automatically deploy Stack instances to new Accounts** in an Organi
 
 A rapidly growing company wants to scale for developer demand for AWS development environments. Development environments are created manually in the AWS Management Console. The networking team uses AWS CloudFormation to manage the networking infrastructure, exporting stack output values for the Amazon VPC and all subnets. The development environments have common standards, such as Application Load Balancers, Amazon EC2 Auto Scaling groups, security groups, and Amazon DynamoDB tables.
 
-To keep up with demand, the DevOps engineer wants to **automate the creation of development environments.** Because the infrastructure required to support the application is expected to grow, there must be a way to **easily update the deployed infrastructure.** **CloudFormation will be used to create a template for the development environments.**
+To keep up with demand, the DevOps engineer wants to **automate the creation of development environments.** Because the **infrastructure required to support the application is expected to grow**, there must be a way to **easily update the deployed infrastructure.** **CloudFormation will be used to create a template for the development environments.**
 
 Which approach will meet these requirements and quickly provide consistent AWS environments for developers?
 
@@ -93,13 +95,13 @@ Which approach will meet these requirements and quickly provide consistent AWS e
 
 - 🔑B. Use nested stacks to define common infrastructure components. To access the exported values, use TemplateURL to reference the networking team’s template. To retrieve Virtual Private Cloud (VPC) and subnet values, use Fn::ImportValue intrinsic functions in the Parameters section of the root template. Use the CreateChangeSet and ExecuteChangeSet commands to update existing development environments.
 
-- ##### 🔑C. Use nested stacks to define common infrastructure components. Use Fn::ImportValue intrinsic functions with the resources of the nested stack to retrieve Virtual Private Cloud (VPC) and subnet values. Use the CreateChangeSet and ExecuteChangeSet commands to update existing development environments.
+- ##### 🔑C. Use <mark>nested stacks</mark> to define common infrastructure components. Use <mark>Fn::ImportValue</mark> intrinsic functions with the resources of the nested stack to retrieve Virtual Private Cloud (VPC) and subnet values. Use the CreateChangeSet and ExecuteChangeSet commands to update existing development environments.
 
 - 🔑D. Use Fn::ImportValue intrinsic functions in the Parameters section of the root template to retrieve Virtual Private Cloud (VPC) and subnet values. Define the development resources in the order they need to be created in the CloudFormation nested stacks. Use the CreateChangeSet. and ExecuteChangeSet commands to update existing development environments.
 
-#### 🎈Question #61
+#### 🎈?Question #61
 
-A development team wants to use AWS CloudFormation stacks to deploy an application. However, the developer IAM role does not have the required permissions to provision the resources that are specified in the AWS CloudFormation template. A DevOps engineer needs to implement a solution that **allows the developers to deploy the stacks.** The solution must **follow the principle of least privilege**.
+A development team wants to use AWS CloudFormation stacks to deploy an application. However, the **developer IAM role does not have the required permissions** to provision the resources that are specified in the AWS CloudFormation template. A DevOps engineer needs to implement a solution that **allows the developers to deploy the stacks.** The solution must **follow the principle of least privilege**.
 
 Which solution will meet these requirements?
 
@@ -109,7 +111,7 @@ Which solution will meet these requirements?
 
 - 🔑C. Create an AWS CloudFormation service role that has the required permissions. Grant the developer IAM role a cloudformation:* action. Use the new service role during stack deployments.
 
-- ##### 🔑D. Create an AWS CloudFormation service role that has the required permissions. Grant the developer IAM role the iam:PassRole permission. Use the new service role during stack deployments.
+- ##### 🔑D. Create an AWS CloudFormation service role that has the required permissions. Grant the developer IAM role the <mark>iam:PassRole permission</mark>. Use the new service role during stack deployments.
 
 > 当你在 CloudFormation 中创建 stack 时，可以指定一个 **service role（IAM role）**，CloudFormation assume the service role 去执行模板里需要的 API 操作。
 > 
@@ -118,7 +120,7 @@ Which solution will meet these requirements?
 > - Developer **不需要直接有那些权限**
 > - 只需要有权限调用 `cloudformation:*`，和 `iam:PassRole` 这两个权限
 
-#### 🎈Question #63
+#### 🎈?Question #63
 
 A company has enabled all features for its organization in AWS Organizations. The organization contains 10 AWS accounts. The company has turned on AWS CloudTrail in all the accounts. The company expects the number of AWS accounts in the organization to increase to 500 during the next year. The company plans to use multiple OUs for these accounts. The company has enabled AWS Config in each existing AWS account in the organization. A DevOps engineer must implement a solution that **enables AWS Config automatically for all future AWS accounts that are created in the organization**.
 
@@ -126,7 +128,7 @@ Which solution will meet this requirement?
 
 - 🔑A. In the organization's management account, create an Amazon EventBridge rule that reacts to a CreateAccount API call. Configure the rule to invoke an AWS Lambda function that enables trusted access to AWS Config for the organization.
 
-- ##### 🔑B. In the organization's management account, create an AWS CloudFormation stack set to enable AWS Config. Configure the stack set to deploy automatically when an account is created through Organizations.
+- ##### 🔑B. In the organization's management account, create an AWS CloudFormation <mark>stack set</mark> to enable AWS Config. Configure the stack set to deploy automatically when an account is created through Organizations.
 
 - 🔑C. In the organization's management account, create an SCP that allows the appropriate AWS Config API calls to enable AWS Config. Apply the SCP to the root-level OU.
 
@@ -142,7 +144,7 @@ Which deployment strategy will meet these requirements?
 
 - 🔑A. Use AWS CDK to deploy API Gateway and Lambda functions. When code needs to be changed, update the AWS CloudFormation stack and deploy the new version of the APIs and Lambda functions. Use a Route 53 failover routing policy for the canary release strategy.
 
-- ##### 🔑B. Use AWS CloudFormation to deploy API Gateway and Lambda functions using Lambda function versions. When code needs to be changed, update the CloudFormation stack with the new Lambda code and update the API versions using a canary release strategy. Promote the new version when testing is complete.
+- ##### 🔑B. Use AWS CloudFormation to deploy API Gateway and Lambda functions using <mark>Lambda function versions</mark>. When code needs to be changed, update the CloudFormation stack with the new Lambda code and update the API versions using a <mark>canary release strategy</mark>. Promote the new version when testing is complete.
 
 - 🔑C. Use AWS Elastic Beanstalk to deploy API Gateway and Lambda functions. When code needs to be changed, deploy a new version of the API and Lambda functions. Shift traffic gradually using an Elastic Beanstalk blue/green deployment.
 
@@ -154,9 +156,9 @@ Which deployment strategy will meet these requirements?
 > 
 > 用 CloudFormation 部署基础架构、更新 Lambda 代码、发布新版本、更新 alias 指向，都是标准做法
 
-#### 🎈Question #80
+#### 🎈?Question #80
 
-An application running on a set of Amazon EC2 instances in an Auto Scaling group requires a configuration file to operate. **The instances are created and maintained with AWS CloudFormation.** A DevOps engineer wants the instances to have the latest configuration file when launched, and wants changes to the configuration file to be reflected on all the instances with a minimal delay when the CloudFormation template is updated. **Company policy requires that application configuration files be maintained along with AWS infrastructure configuration files in source control.**
+An application running on a set of Amazon EC2 instances in an Auto Scaling group requires a configuration file to operate. **The instances are created and maintained with AWS CloudFormation.** A DevOps engineer wants the instances to have the latest configuration file when launched, and **wants changes to the configuration file to be reflected on all the instances with a minimal delay when the CloudFormation template is updated.** Company policy requires that **application configuration files be maintained along with AWS infrastructure configuration files in source control.**
 
 Which solution will accomplish this?
 
@@ -166,7 +168,7 @@ Which solution will accomplish this?
 
 - 🔑C. In the CloudFormation template, add an EC2 launch template resource. Place the configuration file content in the launch template. Add an AWS Systems Manager Resource Data Sync resource to the template to poll for updates to the configuration.
 
-- ##### 🔑D. In the CloudFormation template, add CloudFormation init metadata. Place the configuration file content in the metadata. Configure the cfn-init script to run when the instance is launched, and configure the cfn-hup script to poll for updates to the configuration.
+- ##### 🔑D. In the CloudFormation template, add <mark>CloudFormation init metadata</mark>. Place the configuration file content in the metadata. Configure the <mark>cfn-init </mark>script to run when the instance is launched, and configure the <mark>cfn-hup script</mark> to poll for updates to the configuration.
 
 > 1. **核心需求**：
 >    
@@ -210,7 +212,7 @@ Which solution will resolve this issue?
 
 - 🔑A. Update the subnet mappings that are configured for the ALBs. Run the aws cloudformation update-stack-set AWS CLI command.
 
-- ##### 🔑B. Update the IAM role by providing the necessary permissions to update the stack. Run the aws cloudformation continue-update-rollback AWS CLI command.
+- ##### 🔑B. Update the IAM role by providing the necessary permissions to update the stack. Run the aws cloudformation <mark>continue-update-rollback AWS CLI command</mark>.
 
 - 🔑C. Submit a request for a quota increase for the number of EC2 instances for the account. Run the aws cloudformation cancel-update-stack AWS CLI command.
 
@@ -224,7 +226,7 @@ Which action should the engineer take to resolve this issue?
 
 - 🔑A. Ensure the Lambda function code has exited successfully.
 
-- ##### 🔑B. Ensure the Lambda function code returns a response to the pre-signed URL.
+- ##### 🔑B. Ensure the Lambda function code returns a response to the <mark>pre-signed URL</mark>.
 
 - 🔑C. Ensure the Lambda function IAM role has cloudformation:UpdateStack permissions for the stack ARN.
 
@@ -238,7 +240,7 @@ Which action should the engineer take to resolve this issue?
 
 #### 🎈Question #111
 
-A company **uses a series of individual Amazon CloudFormation templates to deploy its multi-Region applications.** These templates must be deployed in a specific order. The company is making more changes to the templates than previously expected and **wants to deploy new templates more efficiently. Additionally, the data engineering team must be notified of all changes to the templates. **
+A company **uses a series of individual Amazon CloudFormation templates to deploy its multi-Region applications.** These templates must be deployed in a specific order. The company is making more changes to the templates than previously expected and **wants to deploy new templates more efficiently. Additionally, the data engineering team must be notified of all changes to the templates**. 
 
 What should the company do to accomplish these goals?
 
@@ -248,7 +250,7 @@ What should the company do to accomplish these goals?
 
 - 🔑C. Implement CloudFormation StackSets and use drift detection to trigger update alerts to the data engineering team.
 
-- ##### 🔑D. Leverage CloudFormation nested stacks and stack sets for deployments. Use Amazon SNS to notify the data engineering team.
+- ##### 🔑D. Leverage CloudFormation <mark>nested stacks</mark> and <mark>stack sets</mark> for deployments. Use Amazon SNS to notify the data engineering team.
 
 #### 🎈Question #112
 
@@ -258,7 +260,7 @@ The initial deployment of the application was successful. The DevOps engineer **
 
 **How can the DevOps engineer ensure that the CloudFormation deployment will fail if the user data fails to successfully finish running**?
 
-- ##### 🔑A. Use the cfn-signal helper script to signal success or failure to CloudFormation. Use the WaitOnResourceSignals update policy within the CloudFormation template. Set an appropriate timeout for the update policy.
+- ##### 🔑A. Use the <mark>cfn-signal helper script</mark> to signal success or failure to CloudFormation. Use the <mark>WaitOnResourceSignals update policy</mark> within the CloudFormation template. Set an appropriate timeout for the update policy.
 
 - 🔑B. Create an Amazon CloudWatch alarm for the UnhealthyHostCount metric. Include an appropriate alarm threshold for the target group. Create an Amazon Simple Notification Service (Amazon SNS) topic as the target to signal success or failure to CloudFormation.
 
@@ -282,7 +284,7 @@ Which combination of actions should the DevOps engineer perform so that the **st
 
 - 🔑E. Update the existing AWS CloudFormation stack by using the original template.
 
-#### 🎈Question #159
+#### 🎈?Question #159
 
 A company manages AWS accounts for application teams in AWS Control Tower. Individual application teams are responsible for securing their respective AWS accounts.
 
@@ -290,7 +292,7 @@ A DevOps engineer needs to **enable Amazon GuardDuty for all AWS accounts** in w
 
 How should the DevOps engineer **configure the CloudFormation template to prevent failure during the StackSets deployment**?
 
-- ##### 🔑A. Create a CloudFormation custom resource that invokes an AWS Lambda function. Configure the Lambda function to conditionally enable GuardDuty if GuardDuty is not already enabled in the accounts.
+- ##### 🔑A. Create a CloudFormation custom resource that invokes an AWS Lambda function. Configure the Lambda function to <mark>conditionally</mark> enable GuardDuty if GuardDuty is not already enabled in the accounts.
 
 - 🔑B. Use the Conditions section of the CloudFormation template to enable GuardDuty in accounts where GuardDuty is not already enabled.
 
@@ -298,7 +300,7 @@ How should the DevOps engineer **configure the CloudFormation template to preven
 
 - 🔑D. Manually discover the list of AWS account IDs where GuardDuty is not enabled. Use the CloudFormation Fn::ImportValue intrinsic function to import the list of account IDs into the CloudFormation template to skip deployment for the listed AWS accounts.
 
-#### 🎈✨🧨🎃Question #173
+#### 🎈?Question #173
 
 A company uses **AWS Directory Service for Microsoft Active Directory as its identity provider (IdP)**. The company requires all infrastructure to be **defined and deployed by AWS CloudFormation**.
 
@@ -308,13 +310,13 @@ Which solution will meet these requirements with the MOST operational efficiency
 
 - 🔑A. In the CloudFormation template, create an AWS::SSM::Document resource that joins the EC2 instance to the AWS Managed Microsoft AD domain by using the parameters for the existing directory. Update the launch template to include the SSMAssociation property to use the new SSM document. Attach the AmazonSSMManagedInstanceCore and AmazonSSMDirectoryServiceAccess AWS managed policies to the IAM role that the EC2 instances use.
 
-- ##### 🔑B. In the CloudFormation template, update the launch template to include specific tags that propagate on launch. Create an AWS::SSM::Association resource to associate the AWS-JoinDirectoryServiceDomain Automation runbook with the EC2 instances that have the specified tags. Define the required parameters to join the AWS Managed Microsoft AD directory. Attach the AmazonSSMManagedInstanceCore and AmazonSSMDirectoryServiceAccess AWS managed policies to the IAM role that the EC2 instances use.
+- ##### 🔑B. In the CloudFormation template, update the launch template to include <mark>specific tags</mark> that propagate on launch. Create an AWS::SSM::Association resource to associate the AWS-JoinDirectoryServiceDomain Automation runbook with the EC2 instances that have the specified tags. Define the required parameters to join the AWS Managed Microsoft AD directory. Attach the <mark>AmazonSSMManagedInstanceCore</mark> and <mark>AmazonSSMDirectoryServiceAccess</mark> AWS managed policies to the IAM role that the EC2 instances use.
 
 - 🔑C. Store the existing AWS Managed Microsoft AD domain connection details in AWS Secrets Manager. In the CloudFormation template, create an AWS::SSM::Association resource to associate the AWS-CreateManagedWindowsInstanceWithApproval Automation runbook with the EC2 Auto Scaling group. Pass the ARNs for the parameters from Secrets Manager to join the domain. Attach the AmazonSSMDirectoryServiceAccess and SecretsManagerReadWrite AWS managed policies to the IAM role that the EC2 instances use.
 
 - 🔑D. Store the existing AWS Managed Microsoft AD domain administrator credentials in AWS Secrets Manager. In the CloudFormation template, update the EC2 launch template to include user data. Configure the user data to pull the administrator credentials from Secrets Manager and to join the AWS Managed Microsoft AD domain. Attach the AmazonSSMManagedInstanceCore and SecretsManagerReadWrite AWS managed policies to the IAM role that the EC2 instances use.
 
-> **AWS Systems Manager Association** 是 Systems Manager 的一个功能，它可以把一个 **SSM Document (Run Command 或 Automation Runbook)** 定时或触发式地应用到一批 EC2 实例或者资源上。
+> **<mark>AWS Systems Manager Association</mark>** 是 Systems Manager 的一个功能，它可以把一个 **SSM Document (Run Command 或 Automation Runbook)** 定时或触发式地应用到一批 EC2 实例或者资源上。
 > 
 > **EC2 实例 Launch Template 带特定 tag**（例如 `DomainJoin: True`）
 > 
@@ -327,7 +329,7 @@ Which solution will meet these requirements with the MOST operational efficiency
 > - `AmazonSSMManagedInstanceCore`
 > - `AmazonSSMDirectoryServiceAccess`
 
-#### 🎈Question #183
+#### 🎈?Question #183
 
 A DevOps engineer is setting up a container-based architecture. The engineer has decided to use AWS CloudFormation to automatically provision an Amazon ECS cluster and an Amazon EC2 Auto Scaling group to launch the EC2 container instances. After successfully creating the CloudFormation stack, the engineer noticed that, even though the ECS cluster and the EC2 instances were created successfully and the stack finished the creation, **the EC2 instances were associating with a different cluster**.
 
@@ -335,7 +337,7 @@ How should the DevOps engineer update the CloudFormation template to resolve thi
 
 - 🔑A. Reference the EC2 instances in the AWS::ECS::Cluster resource and reference the ECS cluster in the AWS::ECS::Service resource.
 
-- ##### 🔑B. Reference the ECS cluster in the AWS::AutoScaling::LaunchConfiguration resource of the UserData property.
+- ##### 🔑B. Reference the ECS cluster in the <mark>AWS::AutoScaling::LaunchConfiguration</mark> resource of the UserData property.
 
 - 🔑C. Reference the ECS cluster in the AWS::EC2::Instance resource of the UserData property.
 
@@ -345,7 +347,7 @@ How should the DevOps engineer update the CloudFormation template to resolve thi
 > 
 > 要在 **LaunchConfiguration 的 UserData 里 reference 你的 ECS cluster 名称**。
 
-#### 🎈🎃🎃🎃Question #220
+#### 🎈?Question #220
 
 A company uses an organization in AWS Organizations to manage multiple AWS accounts. The company needs an **automated process across all AWS accounts to isolate any compromised Amazon EC2 instances when the instances receive a specific tag.**
 
@@ -381,29 +383,29 @@ Which combination of steps will meet these requirements? (Choose two.)
 >   - 当发现 `isolation=true`，就把该实例的所有 security group 替换成隔离用的 security group
 > - 用 EventBridge rule 来触发 Lambda
 
-#### 🎈Question #259
+#### 🎈?Question #259
 
-A company's development team uses AWS CloudFormation to deploy its application resources. The team must use CloudFormation for all changes to the environment. The team cannot use the AWS Management Console or the AWS CLI to make manual changes directly. 
+A company's development team uses AWS CloudFormation to deploy its application resources. The team must use CloudFormation for all changes to the environment. **The team cannot use the AWS Management Console or the AWS CLI to make manual changes directly**. 
 
 The team uses a developer IAM role to access the environment. The role is configured with the AdministratorAccess managed IAM policy. The company has created a new CloudFormationDeployment IAM role that has the following policy attached: 
 
 ![image-20250416222654782](./images/image-20250416222654782.png)
 
-The company wants to ensure that **only CloudFormation can use the new role**. The **development team cannot make any manual changes to the deployed resources**. 
+The company wants to ensure that **only CloudFormation can use the new role**. The **development team <mark>cannot make any manual changes to the deployed resources</mark>**. 
 
 Which combination of steps will meet these requirements? (Choose three.) 
 
-- ##### 🔑A. Remove the AdministratorAccess policy. Assign the ReadOnlyAccess managed IAM policy to the developer role. Instruct the developers to use the CloudFormationDeployment role as a CloudFormation service role when the developers deploy new stacks.
+- ##### 🔑A. Remove the AdministratorAccess policy. Assign the<mark> ReadOnlyAccess</mark> managed IAM policy to the developer role. Instruct the developers to use the CloudFormationDeployment role as a CloudFormation service role when the developers deploy new stacks.
 
 - 🔑B. Update the trust policy of the CloudFormationDeployment role to allow the developer IAM role to assume the CloudFormationDeployment role. 
 
 - 🔑C. Configure the developer IAM role to be able to get and pass the CloudFormationDeployment role if iam:PassedToService equals . Configure the CloudFormationDeployment role to allow all cloudformation actions for all resources. 
 
-- ##### 🔑D. Update the trust policy of the CloudFormationDeployment role to allow the cloudformation.amazonaws.com AWS principal to perform the iam:AssumeRole action.
+- ##### 🔑D. Update the trust policy of the CloudFormationDeployment role to allow the cloudformation.amazonaws.com AWS principal to perform the iam:AssumeRole <mark>action</mark>.
 
 - 🔑E. Remove the AdministratorAccess policy. Assign the ReadOnlyAccess managed IAM policy to the developer role. Instruct the developers to assume the CloudFormationDeployment role when the developers deploy new stacks. 
 
-- ##### 🔑F. Add an IAM policy to the CloudFormationDeployment role to allow cloudformation:* on all resources. Add a policy that allows the iam:PassRole action for the ARN of the CloudFormationDeployment role if iam:PassedToService equals cloudformation.amazonaws.com.
+- ##### 🔑F. Add an IAM policy to the CloudFormationDeployment role to allow cloudformation:* on all <mark>resources</mark>.    Add a policy that allows the iam:PassRole <mark>action</mark> for the ARN of the CloudFormationDeployment role if iam:PassedToService equals cloudformation.amazonaws.com.
 
 #### 🎈Question #260
 
@@ -427,7 +429,7 @@ The company needs **the accounts in one OU to have server-side encryption enforc
 
 Which solution will enforce this policy before a CloudFormation stack operation in the accounts of this OU?
 
-- ##### 🔑A. Activate trusted access to CloudFormation StackSets. Create a CloudFormation Hook that enforces server-side encryption on EBS volumes and SQS queues. Deploy the Hook across the accounts in the OU by using StackSets.
+- ##### 🔑A. Activate <mark>trusted access</mark> to CloudFormation StackSets. Create a <mark>CloudFormation Hook</mark> that enforces server-side encryption on EBS volumes and SQS queues. Deploy the Hook across the accounts in the OU <mark>by using StackSets</mark>.
 
 - 🔑B. Set up AWS Config in all the accounts in the OU. Use AWS Systems Manager to deploy AWS Config rules that enforce server-side encryption for EBS volumes and SQS queues across the accounts in the OU.
 
@@ -472,11 +474,11 @@ Which solution will meet these requirements?
 
 #### 🎈Question #57
 
-A company is hosting a web application in an AWS Region. For **disaster recovery** purposes, a second region is being used as a standby. Disaster recovery requirements state that session data must be replicated between regions in near-real time and 1% of requests should route to the secondary region to continuously verify system functionality. Additionally, if there is a disruption in service in the main region, traffic should be automatically routed to the secondary region, and the secondary region must be able to scale up to handle all traffic.
+A company is hosting a web application in an AWS Region. For **disaster recovery** purposes, a second region is being **used as a standby**. Disaster recovery requirements state that <mark>session data</mark> must be replicated between regions in near-real time and 1% of requests should route to the secondary region to continuously verify system functionality. Additionally, if there is a disruption in service in the main region, traffic should be automatically routed to the secondary region, and the secondary region must be able to scale up to handle all traffic.
 
 How should a DevOps engineer meet these requirements?
 
-- ##### 🔑A. In both regions, deploy the application on AWS Elastic Beanstalk and use Amazon DynamoDB global tables for session data. Use an Amazon Route 53 weighted routing policy with health checks to distribute the traffic across the regions.
+- ##### 🔑A. In both regions, deploy the application on AWS Elastic Beanstalk and use Amazon <mark>DynamoDB global tables</mark> for session data. Use an Amazon Route 53 weighted routing policy with <mark>health checks</mark> to distribute the traffic across the regions.
 
 - 🔑B. In both regions, launch the application in Auto Scaling groups and use DynamoDB for session data. Use a Route 53 failover routing policy with health checks to distribute the traffic across the regions.
 
@@ -494,13 +496,13 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑A. Deploy the application on AWS Elastic Beanstalk. Deploy an Amazon RDS for MySQL DB instance as part of the Elastic Beanstalk configuration.
 
-- ##### 🔑B. Deploy the application on AWS Elastic Beanstalk. Deploy a separate Amazon RDS for MySQL DB instance outside of Elastic Beanstalk.
+- ##### 🔑B. Deploy the application on AWS Elastic Beanstalk. Deploy a <mark>separate</mark> Amazon RDS for MySQL DB instance outside of Elastic Beanstalk.
 
-- ##### 🔑C. Configure a notification email address that alerts the application team in the AWS Elastic Beanstalk configuration.
+- ##### 🔑C. Configure a notification email address that alerts the application team in the AWS <mark>Elastic Beanstalk configuration</mark>.
 
 - 🔑D. Configure an Amazon EventBridge rule to monitor AWS Health events. Use an Amazon Simple Notification Service (Amazon SNS) topic as a target to alert the application team.
 
-- ##### 🔑E. Use the immutable deployment method to deploy new application versions.
+- ##### 🔑E. Use the <mark>immutable deployment method</mark> to deploy new application versions.
 
 - 🔑F. Use the rolling deployment method to deploy new application versions.
 
@@ -554,13 +556,13 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 #### 🎈Question #14
 
-A DevOps engineer is building a continuous deployment pipeline for a serverless application that uses AWS Lambda functions.
+A DevOps engineer is building a continuous deployment pipeline for a **serverless application** that uses AWS Lambda functions.
 
-The company wants to **reduce the customer impact of an unsuccessful deployment.** The company also wants to monitor for issues.
+The company wants to **reduce the customer impact of an unsuccessful deployment.** The company also **wants to monitor for issues**.
 
 Which deploy stage configuration will meet these requirements?
 
-- ##### 🔑A. Use an AWS Serverless Application Model (AWS SAM) template to define the serverless application. Use AWS CodeDeploy to deploy the Lambda functions with the Canary 10 Percent 15 Minutes Deployment Preference Type. Use Amazon CloudWatch alarms to monitor the health of the functions.
+- ##### 🔑A. Use an AWS Serverless Application Model (AWS SAM) template to define the serverless application. Use AWS CodeDeploy to deploy the Lambda functions with the Canary 10 Percent 15 Minutes Deployment <mark>Preference Type</mark>. Use Amazon CloudWatch alarms to monitor the health of the functions.
 
 - 🔑B. Use AWS CloudFormation to publish a new stack update, and include Amazon CloudWatch alarms on all resources. Set up an AWS CodePipeline approval action for a developer to verify and approve the AWS CloudFormation change set.
 
@@ -568,9 +570,9 @@ Which deploy stage configuration will meet these requirements?
 
 - 🔑D. Use AWS CodeBuild to add sample event payloads for testing to the Lambda functions. Publish a new version of the functions, and include Amazon CloudWatch alarms. Update the production alias to point to the new version. Configure rollbacks to occur when an alarm is in the ALARM state.
 
-#### 🎈Question #82
+#### 🎈?Question #82
 
-A company is developing a new application. The application **uses AWS Lambda functions for its compute tier.** The company must **use a canary deployment for any changes to the Lambda functions. Automated rollback must occur if any failures are reported.**
+A company is developing a new application. The application **uses AWS Lambda functions for its compute tier.** The company must **use a <mark>canary</mark> deployment for any changes to the Lambda functions. Automated rollback must occur if any failures are reported.**
 
 The company’s DevOps team needs to **create the infrastructure as code (IaC) and the CI/CD pipeline** for this solution.
 
@@ -578,19 +580,19 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑A. Create an AWS CloudFormation template for the application. Define each Lambda function in the template by using the AWS::Lambda::Function resource type. In the template, include a version for the Lambda function by using the AWS::Lambda::Version resource type. Declare the CodeSha256 property. Configure an AWS::Lambda::Alias resource that references the latest version of the Lambda function.
 
-- ##### 🔑B. Create an AWS Serverless Application Model (AWS SAM) template for the application. Define each Lambda function in the template by using the AWS::Serverless::Function resource type. For each function, include configurations for the AutoPublishAlias property and the DeploymentPreference property. Configure the deployment configuration type to LambdaCanary10Percent10Minutes.
+- ##### 🔑B. Create an AWS Serverless Application Model (AWS SAM) template for the application. Define each Lambda function in the template by using the <mark>AWS::Serverless::Function</mark> resource type. For each function, include configurations for the <mark>AutoPublishAlias </mark>property and the <mark>DeploymentPreference</mark> property. Configure the deployment configuration type to LambdaCanary10Percent10Minutes.
 
-- ##### 🔑C. Create an AWS CodeCommit repository. Create an AWS CodePipeline pipeline. Use the CodeCommit repository in a new source stage that starts the pipeline. Create an AWS CodeBuild project to deploy the AWS Serverless Application Model (AWS SAM) template. Upload the template and source code to the CodeCommit repository. In the CodeCommit repository, create a buildspec.yml file that includes the commands to build and deploy the SAM application.
+- ##### 🔑C. Create an AWS CodeCommit repository. Create an AWS CodePipeline pipeline. Use the CodeCommit repository in a new source stage that starts the pipeline. Create an AWS <mark>CodeBuild project</mark> to deploy the AWS Serverless Application Model (AWS SAM) template. Upload the template and source code to the CodeCommit repository. In the CodeCommit repository, create a buildspec.yml file that includes the commands to build and deploy the SAM application.
 
 - 🔑D. Create an AWS CodeCommit repository. Create an AWS CodePipeline pipeline. Use the CodeCommit repository in a new source stage that starts the pipeline. Create an AWS CodeDeploy deployment group that is configured for canary deployments with a DeploymentPreference type of Canary10Percent10Minutes. Upload the AWS CloudFormation template and source code to the CodeCommit repository. In the CodeCommit repository, create an appspec.yml file that includes the commands to deploy the CloudFormation template.
 
 - 🔑E. Create an Amazon CloudWatch composite alarm for all the Lambda functions. Configure an evaluation period and dimensions for Lambda. Configure the alarm to enter the ALARM state if any errors are detected or if there is insufficient data.
 
-- ##### 🔑F. Create an Amazon CloudWatch alarm for each Lambda function. Configure the alarms to enter the ALARM state if any errors are detected. Configure an evaluation period, dimensions for each Lambda function and version, and the namespace as AWS/Lambda on the Errors metric.
+- ##### 🔑F. Create an Amazon CloudWatch alarm for each Lambda function. Configure the alarms to enter the ALARM state if any errors are detected. Configure an evaluation period, <mark>dimensions</mark> for each Lambda function and version, and the namespace as AWS/Lambda on the Errors metric.
 
 #### 🎈Question #256
 
-A developer is using the AWS Serverless Application Model (AWS SAM) to create a prototype for an AWS Lambda function. The AWS SAM template contains an AWS::Serverless::Function resource that has the CodeUri property that points to an Amazon S3 location. The developer wants to identify the correct commands for deployment before creating a CI/CD pipeline.
+A developer is using the AWS Serverless Application Model (AWS SAM) to create a prototype for an AWS Lambda function. The AWS SAM template contains an AWS::Serverless::Function resource that has the <mark>CodeUri property that points to an Amazon S3 location.</mark> The developer wants to identify the correct commands for deployment before creating a CI/CD pipeline.
 
 The developer creates an archive of the Lambda function code named package.zip. The developer uploads the .zip file archive to the S3 location specified in the CodeUri property. The developer runs the sam deploy command and deploys the Lambda function. The developer updates the Lambda function code and uses the same steps to deploy the new version of the Lambda function. The **sam deploy command fails and returns an error of no changes to deploy.**
 
@@ -600,11 +602,11 @@ Which solutions will deploy the new version? (Choose two.)
 
 - 🔑B. Use the aws cloudformation update-stack-instances command instead of the sam deploy command.
 
-- ##### 🔑C. Update the CodeUri property to reference the local application code folder. Use the sam deploy command.
+- ##### 🔑C. Update the <mark>CodeUri property</mark> to reference the local application code folder. Use the sam deploy command.
 
 - 🔑D. Update the CodeUri property to reference the local application code folder. Use the aws cloudformation create-change-set command and the aws cloudformation execute-change-set command.
 
-- ##### 🔑E. Update the CodeUri property to reference the local application code folder. Use the aws cloudformation package command and the aws cloudformation deploy command.
+- ##### 🔑E. Update the CodeUri property to reference the local application code folder. Use the aws cloudformation <mark>package command</mark> and the aws cloudformation deploy command.
 
 > CloudFormation/SAM 判断是否需要更新 → 看 CodeUri 或其他资源定义有没有变化
 > 
@@ -627,7 +629,7 @@ Which solutions will deploy the new version? (Choose two.)
 
 A company runs an application in an Auto Scaling group of Amazon EC2 instances behind an Application Load Balancer (ALB).
 
-The EC2 instances run Docker containers that make requests to a MySQL database that runs on separate EC2 instances.
+The **EC2 instances run Docker containers** that make requests to a MySQL database that runs on separate EC2 instances.
 
 A DevOps engineer needs to **update the application to use a serverless architecture**.
 
@@ -647,7 +649,7 @@ Which solution will meet this requirement with the FEWEST changes?
 
 - Allows us to define our cloud infrastructure using a familiar programming language such as JavaScript/TypeScript, Python, Java and .NET
 - The CDK framework contains high level components called ***constructs***
-- The code is transpiled into a CloudFormation template (JSON/YAML)
+- **The code is transpiled into a CloudFormation template (JSON/YAML)**
 - **With CDK we can deploy infrastructure and application runtime code together**
   - This is great fro Lambda functions
   - Or great for Docker containers which can be deploy to ECS/EKS
@@ -662,14 +664,14 @@ Which solution will meet this requirement with the FEWEST changes?
 - CDK:
   - Superset of CloudFormation, supports every AWS service
   - We write infra in a programming language we know (see above)
-  - Leverages CloudFormation
+  - **Leverages CloudFormation**
 - CDK + SAM:
   - We can use SAM CLI to locally test CDK apps
   - We must first run `cdk synth` - this will generate CFN template which we can invoke with SAM cli
 
-#### 🎈Question #352
+#### 🎈?Question #352
 
-A company has deployed a landing zone that has a well-defined AWS Organizations structure and an SCP. The company's development team can create their AWS resources only by using AWS CloudFormation and the AWS Cloud Development Kit (AWS CDK).
+A company has deployed a landing zone that has a well-defined AWS Organizations structure and an SCP. The company's development team **can create their AWS resources only by using AWS CloudFormation and the AWS Cloud Development Kit (AWS CDK).**
 
 A DevOps engineer notices that Amazon Simple Queue Service (Amazon SQS) queues that are deployed in different CloudFormation stacks have different configurations. The DevOps engineer also notices that the application cost allocation tag is not always set.
 
@@ -681,7 +683,7 @@ What should the DevOps engineer do to meet these requirements?
 
 - 🔑B. Update the SCP to enforce the cost allocation tag in CloudFormation stacks. Instruct the development team to use CloudFormation modules to define SQS queues. Instruct the development team to deploy the SQS queues by using CloudFormation stacks.
 
-- ##### 🔑C. Use AWS CDK tagging to enforce the cost allocation tag in CloudFormation StackSets. Instruct the development team to use the AWS CDK to define SQS queues. Instruct the development team to deploy the SQS queues by using CDK stacks.
+- ##### 🔑C. Use AWS CDK tagging to enforce the cost allocation tag in CloudFormation StackSets. Instruct the development team to use the AWS CDK to <mark>define</mark> SQS queues. Instruct the development team to <mark>deploy</mark> the SQS queues by using CDK stacks.
 
 - 🔑D. Use AWS CDK tagging to enforce the cost allocation tag in CloudFormation stacks. Instruct the development team to use the AWS CDK to define SQS queues. Instruct the development team to deploy the SQS queues by using CDK feature flags.
 
@@ -707,11 +709,11 @@ What should the DevOps engineer do to meet these requirements?
 - **AWS Config Rules do not prevent actions from happening (no deny)**
 - Custom rules:
   - We can create custom rules which will be managed by us
-  - In order to create a custom rule, we have to create a Lambda function which will check if a resource is compliant or not
+  - **In order to create a custom rule, we have to create a Lambda function which will check if a resource is compliant or not**
   - Trigger types for custom rules are same as for managed rules:
     - Configuration change
     - Periodic
-  - Scope of the trigger: we can define for which resource does the rule apply, example database instance, EC2 instance, etc. We can use tags as well instead of resource types
+  - Scope of the trigger: <mark>**we can define for which resource does the rule apply**</mark>, example database instance, EC2 instance, etc. **<mark>We can use tags as well instead of resource types</mark>**
 
 ##### AWS Config Resource
 
@@ -721,13 +723,13 @@ What should the DevOps engineer do to meet these requirements?
 
 ##### Remediations
 
-- Rules have a **remediation action** option, where we can run a **SSM Automation document** to address a non-compliant warning
+- Rules have a **remediation action** option, where we can run a <mark>**SSM Automation document** to address a non-compliant warning</mark>
 - We can use AWS-managed automation document or create a custom automation document
 - We can set **Remediations Retries** if the resource is still non-compliant after auto remediation
 
 ##### Notifications
 
-- We can use **EventBridge** to trigger notifications when AWS resources are non-compliant
+- We can use <mark>**EventBridge** to trigger notifications</mark> when AWS resources are non-compliant
 - We can configure Config to stream configuration changes and notifications to an SNS topic
 - AWS Config sends notifications for the following events:
   - Configuration item change for resource
@@ -750,18 +752,18 @@ What should the DevOps engineer do to meet these requirements?
   - Multiple accounts and multiple regions
   - Single account and multiple regions
   - An organization in AWS Organizations and all the accounts in that organization
-- The **aggregator is created in one central account**
+- The **aggregator is created in one <mark>central account</mark>**
 - If we use AWS Organizations, we don't need for individual authorization of the accounts
-- **AWS Config Rules must be deployed in each individual account**
+- **<mark>AWS Config Rules must be deployed in each individual account</mark>**
 
 ##### Conformance Pack
 
-- A conformance pack is a collection of AWS Config Rules and Remediation Actions
+- A conformance pack is a <mark>**collection of AWS Config Rules and Remediation Actions**</mark>
 - Packs are created using YAML files
 - They are deployed to an AWS account and region or across an AWS Organization
 - We can use pre-built packs or create our own Custom Conformance Packs
 - Custom Conformance Packs can have custom rules backed by Lambda Functions
-- We can designate a Delegated Administrator to deploy Conformance Packs to our AWS Organization (can be a member account)
+- We can **designate a Delegated Administrator to deploy Conformance Packs to our AWS Organization (can be a member account)**
 
 ##### Organizational Rules
 
@@ -805,7 +807,7 @@ Which solution will meet these requirements?
 
 - 🔑D. Turn on AWS CloudTrail in the account. Create an Amazon EventBridge rule that reacts to EBS CreateVolume events or EBS ModifyVolume events. Configure a custom AWS Systems Manager Automation runbook to apply the Backup_Frequency tag with a value of weekly. Specify the runbook as the target of the rule.
 
-#### 🎈⚙️Question #9
+#### 🎈?Question #9
 
 A company uses AWS Key Management Service (AWS KMS) keys and manual key rotation to meet regulatory compliance requirements. The security team **wants to be notified when any keys have not been rotated after 90 days.**
 
@@ -815,7 +817,7 @@ Which solution will accomplish this?
 
 - 🔑B. Configure an Amazon EventBridge event to launch an AWS Lambda function to call the AWS Trusted Advisor API and publish to an Amazon Simple Notification Service (Amazon SNS) topic.
 
-- ##### 🔑🤫C. Develop an AWS Config custom rule that publishes to an Amazon Simple Notification Service (Amazon SNS) topic when keys are more than 90 days old.
+- ##### 🔑C. Develop an AWS Config custom rule that publishes to an Amazon Simple Notification Service (Amazon SNS) topic when keys are more than 90 days old.
 
 - 🔑D. Configure AWS Security Hub to publish to an Amazon Simple Notification Service (Amazon SNS) topic when keys are more than 90 days old.
 
@@ -827,11 +829,11 @@ The company's security policy requires all running EC2 instances to use an EC2 i
 
 A DevOps engineer reviews the account and **discovers EC2 instances that are running without an instance profile.** During the review, the DevOps engineer **also observes that new EC2 instances are being launched without an instance profile.**
 
-Which solution will ensure that an instance profile is attached to all existing and future EC2 instances in the Region?
+Which solution will **ensure that an instance profile is attached to all existing and future EC2 instances in the Region**?
 
 - 🔑A. Configure an Amazon EventBridge rule that reacts to EC2 RunInstances API calls. Configure the rule to invoke an AWS Lambda function to attach the default instance profile to the EC2 instances.
 
-- ##### 🔑B. Configure the ec2-instance-profile-attached AWS Config managed rule with a trigger type of configuration changes. Configure an automatic remediation action that invokes an AWS Systems Manager Automation runbook to attach the default instance profile to the EC2 instances.
+- ##### 🔑B. Configure the ec2-instance-profile-attached AWS Config managed rule with <mark>a trigger type of configuration changes</mark>. Configure an automatic remediation action that invokes an AWS Systems Manager Automation runbook to attach the default instance profile to the EC2 instances.
 
 - 🔑C. Configure an Amazon EventBridge rule that reacts to EC2 StartInstances API calls. Configure the rule to invoke an AWS Systems Manager Automation runbook to attach the default instance profile to the EC2 instances
 
@@ -847,7 +849,7 @@ Which solution will meet these requirements?
 
 - 🔑B. Create an AWS CloudFormation template that creates an SNS topic and subscribes the SecOps team’s email address to the SNS topic. In the template, include an Amazon EventBridge rule that uses an event pattern of CloudTrail activity for s3:PutBucketPublicAccessBlock and a target of the SNS topic. Deploy the stack to every account in the organization by using CloudFormation StackSets.
 
-- ##### 🔑C. Turn on AWS Config across the organization. In the delegated administrator account, create an SNS topic. Subscribe the SecOps team's email address to the SNS topic. Deploy a conformance pack that uses the s3-bucket-level-public-access-prohibited AWS Config managed rule in each account and uses an AWS Systems Manager document to publish an event to the SNS topic to notify the SecOps team.
+- ##### 🔑C. Turn on AWS Config across the organization. In the delegated administrator account, create an SNS topic. Subscribe the SecOps team's email address to the SNS topic. Deploy a conformance pack that uses the s3-bucket-level-public-access-prohibited AWS Config managed rule <mark>in each account</mark> and uses an AWS <mark>Systems Manager document</mark> to publish an event to the SNS topic to notify the SecOps team.
 
 - 🔑D. Turn on Amazon Inspector across the organization. In the Amazon Inspector delegated administrator account, create an SNS topic. Subscribe the SecOps team’s email address to the SNS topic. In the same account, create an Amazon EventBridge rule that uses an event pattern for public network exposure of the S3 bucket and publishes an event to the SNS topic to notify the SecOps team.
 
@@ -861,11 +863,11 @@ What should a DevOps engineer do to meet this requirement?
 
 - 🔑B. Enable Amazon GuardDuty and check the findings for security groups in AWS Security Hub. Configure an Amazon EventBridge rule with a custom pattern that matches GuardDuty events with an output of NON_COMPLIANT. Define an Amazon Simple Notification Service (Amazon SNS) topic as the target.
 
-- ##### 🔑C. Create an AWS Config rule by using the restricted-ssh managed rule to check whether security groups disallow unrestricted incoming SSH traffic. Configure automatic remediation to publish a message to an Amazon Simple Notification Service (Amazon SNS) topic.
+- ##### 🔑C. Create an AWS Config rule by using the restricted-ssh managed rule to check whether security groups disallow unrestricted incoming SSH traffic. <mark>Configure automatic remediation</mark> to publish a message to an Amazon Simple Notification Service (Amazon SNS) topic.
 
 - 🔑D. Enable Amazon Inspector. Include the Common Vulnerabilities and Exposures-1.1 rules package to check the security groups that are associated with the bastion hosts. Configure Amazon Inspector to publish a message to an Amazon Simple Notification Service (Amazon SNS) topic.
 
-#### 🎈Question #52
+#### 🎈?Question #52
 
 A company uses **AWS Organizations** to manage multiple accounts. Information security policies require that **all unencrypted Amazon EBS volumes be marked as non-compliant.** A DevOps engineer needs to **automatically deploy the solution and ensure that this compliance check is always present.**
 
@@ -873,7 +875,7 @@ Which solution will accomplish this?
 
 - 🔑A. Create an AWS CloudFormation template that defines an AWS Inspector rule to check whether EBS encryption is enabled. Save the template to an Amazon S3 bucket that has been shared with all accounts within the company. Update the account creation script pointing to the CloudFormation template in Amazon S3.
 
-- ##### 🔑B. Create an AWS Config organizational rule to check whether EBS encryption is enabled and deploy the rule using the AWS CLI. Create and apply an SCP to prohibit stopping and deleting AWS Config across the organization.
+- ##### 🔑B. Create an <mark>AWS Config organizational rule</mark> to check whether EBS encryption is enabled and deploy the rule using the AWS CLI. Create and apply an SCP to prohibit stopping and deleting AWS Config across the organization.
 
 - 🔑C. Create an SCP in Organizations. Set the policy to prevent the launch of Amazon EC2 instances without encryption on the EBS volumes using a conditional expression. Apply the SCP to all AWS accounts. Use Amazon Athena to analyze the AWS CloudTrail output, looking for events that deny an ec2:RunInstances action.
 
@@ -897,7 +899,7 @@ Which combination of actions should a DevOps engineer perform to meet these requ
 
 - 🔑D. Create an AWS Config organization aggregator in the organization's management account. Configure data collection from all AWS accounts in the organization and from all AWS Regions.
 
-- ##### 🔑E. Create an AWS Config organization aggregator in the delegated administrator account. Configure data collection from all AWS accounts in the organization and from all AWS Regions.
+- ##### 🔑E. Create an AWS <mark>Config organization aggregator</mark> in the delegated administrator account. Configure data collection from all AWS accounts in the organization and from all AWS Regions.
 
 > AWS 建议尽量把 Config 和 Security Hub、GuardDuty 等委托到 delegated admin 账号，便于权限隔离和安全管理
 > 
@@ -921,11 +923,11 @@ Which solution will meet these requirements?
 
 - 🔑D. Configure an IAM policy that denies the s3:CreateBucket action if the s3:x-amz-server-side-encryption condition key has a value that is not AES-256. Create an IAM group for all the company’s IAM users. Associate the IAM policy with the IAM group.
 
-#### 🎈Question #99
+#### 🎈?Question #99
 
 A company is using AWS Organizations to centrally manage its AWS accounts. The company **has turned on AWS Config in each member account by using AWS CloudFormation StackSets.** The company has configured trusted access in Organizations for AWS Config and has configured a member account as a delegated administrator account for AWS Config.
 
-A DevOps engineer needs to implement a new security policy. The policy must **require all current and future AWS member accounts to use a common baseline of AWS Config rules that contain remediation actions that are managed from a central account. Non-administrator users who can access member accounts must not be able to modify this common baseline of AWS Config rules that are deployed into each member account. **
+A DevOps engineer needs to implement a new security policy. The policy must require **all current and future AWS member accounts to use a common baseline of AWS Config rules that contain remediation actions that are managed from a central account.** Non-administrator users who can access member accounts must **not be able to modify this common baseline of AWS Config rules that are deployed into each member account**. 
 
 Which solution will meet these requirements?
 
@@ -935,11 +937,13 @@ Which solution will meet these requirements?
 
 - 🔑C. Create a CloudFormation template that contains the AWS Config rules and remediation actions. Deploy the template from the delegated administrator account by using AWS Config.
 
-- ##### 🔑D. Create an AWS Config conformance pack that contains the AWS Config rules and remediation actions. Deploy the pack from the delegated administrator account by using AWS Config.
+- ##### 🔑D. Create an AWS Config conformance pack that contains the AWS Config rules and remediation actions. Deploy the pack from the delegated administrator account <mark>by using AWS Config</mark>.
+
+> AWS Config conformance pack**原生支持跨账户部署**
 
 #### 🎈Question #114
 
-A company uses Amazon S3 to store proprietary information. The development team creates buckets for new projects on a daily basis. The security team wants to ensure that **all existing and future buckets have encryption, logging, and versioning enabled. Additionally, no buckets should ever be publicly read or write accessible. **
+A company uses Amazon S3 to store proprietary information. The development team creates buckets for new projects on a daily basis. The security team wants to ensure that  **all existing and future buckets have encryption, logging, and versioning enabled. Additionally, no buckets should ever be publicly read or write accessible**. 
 
 What should a DevOps engineer do to meet these requirements?
 
@@ -951,7 +955,7 @@ What should a DevOps engineer do to meet these requirements?
 
 - 🔑D. Enable AWS Systems Manager and configure automatic remediation using Systems Manager documents.
 
-#### 🎈Question #133
+#### 🎈?Question #133
 
 A company is using AWS to run digital workloads. Each application team in the company has its own AWS account for application hosting. The accounts are consolidated in an organization in AWS Organizations.
 
@@ -965,7 +969,7 @@ Which solution will meet these requirements with the LEAST development overhead?
 
 - 🔑B. Turn on AWS CloudTrail in the AWS accounts. Analyze CloudTrail logs by using Amazon Athena to identify noncompliant resources. Use AWS Step Functions to track query results on Athena for drift detection and to invoke an AWS Lambda function for remediation. For tracking, set up an Amazon QuickSight dashboard that uses Athena as the data source.
 
-- ##### 🔑C. Turn on the configuration recorder in AWS Config in all the AWS accounts to identify noncompliant resources. Enable AWS Security Hub with the --no-enable-default-standards option in all the AWS accounts. Set up AWS Config managed rules and custom rules. Set up automatic remediation by using AWS Config conformance packs. For tracking, set up a dashboard on Security Hub in a designated Security Hub administrator account.
+- ##### 🔑C. Turn on the <mark>configuration recorder</mark> in AWS Config in all the AWS accounts to identify noncompliant resources. Enable <mark>AWS Security Hub </mark>with the --no-enable-default-standards option in all the AWS accounts. Set up AWS Config managed rules and custom rules. Set up automatic remediation by using AWS Config conformance packs. For tracking, set up a dashboard on Security Hub in a designated Security Hub administrator account.
 
 - 🔑D. Turn on AWS CloudTrail in the AWS accounts. Analyze CloudTrail logs by using Amazon CloudWatch Logs to identify noncompliant resources. Use CloudWatch Logs filters for drift detection. Use Amazon EventBridge to invoke the Lambda function for remediation. Stream filtered CloudWatch logs to Amazon OpenSearch Service. Set up a dashboard on OpenSearch Service for tracking.
 
@@ -997,7 +1001,7 @@ Which solution will meet these requirements?
 
 - 🔑D. Create an Amazon EventBridge rule for the EC2 instance launch successful event. Send the event to an AWS Lambda function to inspect the EC2 metadata and to terminate the instance.
 
-#### 🎈Question #178
+#### 🎈?Question #178
 
 A healthcare services company is concerned about the growing costs of software licensing for an application for monitoring patient wellness. The company wants to **create an audit process to ensure that the application is running exclusively on Amazon EC2 Dedicated Hosts.** A DevOps engineer must **create a workflow to audit the application to ensure compliance**.
 
@@ -1007,7 +1011,7 @@ What steps should the engineer take to meet this requirement with the LEAST admi
 
 - 🔑B. Use custom Java code running on an EC2 instance. Set up EC2 Auto Scaling for the instance depending on the number of instances to be checked. Send the list of noncompliant EC2 instance IDs to an Amazon SQS queue. Set up another worker instance to process instance IDs from the SQS queue and write them to Amazon DynamoDUse an AWS Lambda function to terminate noncompliant instance IDs obtained from the queue, and send them to an Amazon SNS email topic for distribution.
 
-- ##### 🔑C. Use AWS Config. Identify all EC2 instances to be audited by enabling Config Recording on all Amazon EC2 resources for the region. Create a custom AWS Config rule that triggers an AWS Lambda function by using the "config-rule-change -triggered" blueprint. Modify the Lambda evaluateCompliance() function to verify host placement to return a NON_COMPLIANT result if the instance is not running on an EC2 Dedicated Host. Use the AWS Config report to address noncompliant instances.
+- ##### 🔑C. Use AWS Config. Identify all EC2 instances to be audited by enabling Config Recording on all Amazon EC2 resources for the region. Create a custom AWS Config rule that triggers an AWS Lambda function by using the "config-rule-change -triggered" blueprint. Modify the<mark> Lambda evaluateCompliance() function</mark> to verify host placement to return a NON_COMPLIANT result if the instance is not running on an EC2 Dedicated Host. Use the AWS Config report to address noncompliant instances.
 
 - 🔑D. Use AWS CloudTrail. Identify all EC2 instances to be audited by analyzing all calls to the EC2 RunCommand API action. Invoke an AWS Lambda function that analyzes the host placement of the instance. Store the EC2 instance ID of noncompliant resources in an Amazon RDS for MySQL DB instance. Generate a report by querying the RDS instance and exporting the query results to a CSV text file.
 
@@ -1029,7 +1033,7 @@ Which solution will meet these requirements?
 
 A company uses an organization in AWS Organizations to manage several AWS accounts that the company's developers use. The company requires all data to be encrypted in transit.
 
-Multiple Amazon S3 buckets that were created in developer accounts allow unencrypted connections. A DevOps engineer **must enforce encryption of data in transit for all existing S3 buckets that are created in accounts in the organization. **
+Multiple Amazon S3 buckets that were created in developer accounts allow unencrypted connections. A DevOps engineer **must enforce encryption of data in transit for all existing S3 buckets that are created in accounts in the organization**. 
 
 Which solution will meet these requirements?
 
@@ -1037,7 +1041,7 @@ Which solution will meet these requirements?
 
 - 🔑B. Use AWS CloudFormation StackSets to deploy an AWS Network Firewall firewall to each account. Route all inbound requests to the AWS environment through the firewall. Deploy a policy to block access to all inbound requests on port 80.
 
-- ##### 🔑C. Turn on AWS Config for the organization. Deploy a conformance pack that uses the s3-bucket-ssl-requests-only managed rule and an AWS Systems Manager Automation runbook. Use a runbook that adds a bucket policy statement to deny access to an S3 bucket when the value of the aws:SecureTransport condition key is false.
+- ##### 🔑C. Turn on AWS Config for the organization. Deploy a conformance pack that uses the <mark>s3-bucket-ssl-requests-only managed rule</mark> and an AWS Systems Manager Automation runbook. Use a runbook that adds a bucket policy statement to deny access to an S3 bucket when the value of the <mark>aws:SecureTransport condition key</mark> is false.
 
 - 🔑D. Turn on AWS Config for the organization. Deploy a conformance pack that uses the s3-bucket-ssl-requests-only managed rule and an AWS Systems Manager Automation runbook. Use a runbook that adds a bucket policy statement to deny access to an S3 bucket when the value of the s3:x-amz-server-side-encryption-aws-kms-key-id condition key is null.
 
@@ -1061,7 +1065,7 @@ Which solution will meet these requirements?
 
 #### 🎈Question #253
 
-A company's DevOps team manages a set of AWS accounts that are in an organization in AWS Organizations. The company needs a solution that ensures that **all Amazon EC2 instances use approved AM Is that the DevOps team manages.** The solution also must **remediate the usage of AMIs that are not approved.** The **individual account administrators must not be able to remove the restriction to use approved AMIs.**
+A company's DevOps team manages a set of AWS accounts that are in an organization in AWS Organizations. The company needs a solution that ensures that **all Amazon EC2 instances use approved AMIs that the DevOps team manages.** The solution also must **remediate the usage of AMIs that are not approved.** The **individual account administrators must not be able to remove the restriction to use approved AMIs.**
 
 Which solution will meet these requirements?
 
@@ -1099,7 +1103,7 @@ Which solution will meet these requirements?
 
 - 🔑B. Create an AWS Lambda function in each AWS account to delete all the security group rules. Create an Amazon EventBridge rule to match security group update events or creation events. Set the Lambda function in each account as a target for the rule.
 
-- ##### 🔑C. Enable AWS Config for all AWS accounts. Create a custom AWS Config rule to run on the restricted-ssh configuration change trigger. Configure the rule to invoke an AWS Lambda function to remediate any noncompliant resources.
+- ##### 🔑C. Enable AWS Config for all AWS accounts. Create a custom AWS Config rule to run <mark>on the restricted-ssh configuration change trigger</mark>. Configure the rule to invoke an AWS Lambda function to remediate any noncompliant resources.
 
 - 🔑D. Create an AWS Systems Manager Automation document in each account to inspect all security groups and to delete noncompliant rules. Use an Amazon EventBridge rule to run the Automation document every hour.
 
@@ -1117,7 +1121,7 @@ Which solution meets these requirements?
 
 - 🔑B. Configure AWS Config to use configuration change recording for the AWS account. Deploy the vpc-sg-open-only-to-authorized-ports AWS Config managed rule. Configure AWS Config to use the SNS topic as the target for notifications.
 
-- ##### 🔑C. Configure AWS Config to use configuration change recording for the AWS account. Deploy the ssh-restricted AWS Config managed rule. Configure AWS Config to use the SNS topic as the target for notifications.
+- ##### 🔑C. Configure AWS Config to use configuration change recording for the AWS account. Deploy the <mark>ssh-restricted AWS Config managed rule</mark>. Configure AWS Config to use the SNS topic as the target for notifications.
 
 - 🔑D. Create an AWS Lambda function to evaluate security groups and publish a message to the SNS topic. Use an Amazon EventBridge rule to schedule the Lambda function to run once a day.
 
@@ -1151,7 +1155,7 @@ Which solution will meet this requirement?
 
 - 🔑D. Use AWS Trusted Advisor to check for noncompliant configurations. Manually apply necessary changes based on Trusted Advisor recommendations.
 
-#### 🎈Question #359
+#### 🎈?Question #359
 
 A company runs applications on Amazon EC2 instances that are in an Amazon EC2 Auto Scaling group. The EC2 instances are behind an Application Load Balancer (ALB). Users recently began to experience errors when traffic was directed to some of the EC2 instances.
 
@@ -3324,42 +3328,6 @@ Which additional steps should the DevOps engineer perform to meet the requiremen
 > **source account 改 key policy → 允许 target account 创建 grant**  
 > **target account 用这个权限，创建 grant 给 Auto Scaling group 的 service-linked role，授予 `Decrypt` 权限**
 
-#### 🎈⚙️Question #8
-
-A company’s security team requires that all external Application Load Balancers (ALBs) and Amazon API Gateway APIs are associated with AWS WAF web ACLs. The company has hundreds of AWS accounts, all of which are included in a single organization in AWS Organizations. The company has configured AWS Config for the organization. During an audit, the company finds **some externally facing ALBs that are not associated with AWS WAF web ACLs.**
-
-Which combination of steps should a DevOps engineer **take to prevent future violations**? (Choose two.)
-
-- ##### 🔑A. Delegate AWS Firewall Manager to a security account.
-
-- 🔑B. Delegate Amazon GuardDuty to a security account.
-
-- ##### 🔑🤫C. Create an AWS Firewall Manager policy to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
-
-- 🔑D. Create an Amazon GuardDuty policy to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
-
-- 🔑E. Configure an AWS Config managed rule to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
-
-> AWS Firewall Manager 是多账号环境里，集中管理 WAF、Shield、VPC security group policies 的服务。  
-> 
-> 要启用它，首先必须在 Organizations 中**委派（delegate）一个账号来管理**，通常是 security account
-> 
-> AWS Firewall Manager 可以自动：
-> 
-> - 侦测新建的 ALB / API Gateway
-> 
-> - 如果没挂上 WAF ACL，自动挂上一个指定的 ACL 或阻止部署
-> 
-> 这正是题目说的**防止未来违规**。
-> 
-> 你可以创建一个 policy，比如：
-> 
-> - scope：所有 account，或者 OU
-> 
-> - resource type：ALB 和 API Gateway
-> 
-> - action：自动附加 WAF web ACL
-
 #### 🎈Question #138
 
 A company uses AWS Secrets Manager to store a set of sensitive API keys that an AWS Lambda function uses. When the Lambda function is invoked the Lambda function retrieves the API keys and makes an API call to an external service. The Secrets Manager secret is encrypted with the **default AWS Key Management Service (AWS KMS) key**.
@@ -4224,7 +4192,7 @@ Which solution will meet these requirements?
 
 A company uses AWS Organizations and AWS Control Tower to manage all the company's AWS accounts. The company uses the Enterprise Support plan.
 
-A DevOps engineer is using Account Factory for Terraform (AFT) to provision new accounts. When new accounts are provisioned, the DevOps engineer notices that the support plan for the new accounts is set to the Basic Support plan. The DevOps engineer needs to implement a solution to provision the new accounts with the Enterprise Support plan.
+A DevOps engineer is **using Account Factory for Terraform (AFT) to provision new accounts**. When new accounts are provisioned, the DevOps engineer notices that the support plan for the new accounts is set to the Basic Support plan. The DevOps engineer **needs to implement a solution to provision the new accounts with the Enterprise Support plan.**
 
 Which solution will meet these requirements?
 
@@ -4234,13 +4202,13 @@ Which solution will meet these requirements?
 
 - 🔑C. Add an additional value to the control_tower_parameters input to set the AWSEnterpriseSupport parameter as the organization's management account number.
 
-- ##### 🔑D. Set the aft_feature_enterprise_support feature flag to True in the AFT deployment input configuration. Redeploy AFT and apply the changes.
+- ##### 🔑D. Set the <mark>aft_feature_enterprise_support feature flag to True</mark> in the AFT deployment input configuration. Redeploy AFT and apply the changes.
 
-#### 🎈Question #227
+#### 🎈?Question #227
 
 A company needs to adopt a multi-account strategy to deploy its applications and the associated CI/CD infrastructure. The company has created an organization in AWS Organizations that has all features enabled. The company has configured AWS Control Tower and has set up a landing zone.
 
-The company needs to use AWS Control Tower controls (guardrails) in all AWS accounts in the organization. The company must create the accounts for a multi-environment application and must ensure that all accounts are configured to an initial baseline.
+The company needs to use AWS Control Tower controls (guardrails) in all AWS accounts in the organization. The company must **create the accounts for a multi-environment application and must ensure that <mark>all accounts are configured to an initial baseline</mark>.**
 
 Which solution will meet these requirements with the LEAST operational overhead?
 
@@ -4255,6 +4223,8 @@ Which solution will meet these requirements with the LEAST operational overhead?
 ## AWS Organization ，SCP，Control Tower
 
 ![image-20250505024955490](./images/image-20250505024955490.png)
+
+##### **Root OU 没 attach 任何 SCP的时候**，**Organizations 会默认有个 `FullAWSAccess` policy attach 在 Root 上**。
 
 ##### Service Control Policies (SCP)
 
@@ -4279,7 +4249,7 @@ Which solution will meet these requirements with the LEAST operational overhead?
 
 **Trusted access**: we can enable a compatible AWS service to perform operations across all of the AWS accounts in our organization
 
-**Delegated administrator for AWS services**: a compatible AWS service can register an AWS member account in the organization as an administrator for the organization's accounts in that service
+<mark>**Delegated administrator for AWS services</mark>**: a compatible AWS service can register an AWS member account in the organization as an administrator for the organization's accounts in that service
 
 #### 🎈Question #26
 
@@ -4328,7 +4298,7 @@ Which combination of actions will provide this access? (Choose three.)
 > 
 > 这个 Group 里绑定一条权限策略，允许 assume 各 workload account 中的 SysAdmin role：
 
-#### 🎈Question #37
+#### 🎈?Question #37
 
 A company has multiple member accounts that are part of an organization in AWS Organizations. The security team needs to review every Amazon EC2 security group and their inbound and outbound rules. The security team wants to programmatically **retrieve this information from the member accounts using an AWS Lambda function in the management account of the organization.**
 
@@ -4429,7 +4399,7 @@ Which combination of access changes will meet these requirements? (Choose three.
   - Delete The AWS Default VPC: deletes the default VPCs in all AWS regions
 - The Terraform module is maintained by AWS
 
-#### 🎈Question #48
+#### 🎈?Question #48
 
 A company has chosen AWS to host a new application. The company needs to implement a multi-account strategy. A DevOps engineer creates a new AWS account and an organization in AWS Organizations. The DevOps engineer also creates the OU structure for the organization and **sets up a landing zone by using AWS Control Tower.**
 
@@ -4450,11 +4420,11 @@ Which solution will meet these requirements in the MOST automated way?
 > - It is a GitOps-style customization framework created by AWS
 > - Helps us to add customizations to our Landing Zone using custom CloudFormation templates and SCPs
 > - It will automatically deploy resources to new AWS accounts created using Account Factory
-> - Note: CfCT is different from AFC (Account Factory Customization)
+> - Note: <mark>CfCT is different from AFC (Account Factory Customization)</mark>
 
 #### 🎈Question #66
 
-A DevOps engineer needs to apply a core set of security controls to an existing set of AWS accounts. The accounts are in an organization in AWS Organizations. Individual teams will administer individual accounts by using the AdministratorAccess AWS managed policy. For all accounts. **AWS CloudTrail and AWS Config must be turned on in all available AWS Regions.** **Individual account administrators must not be able to edit or delete any of the baseline resources**. However, individual account administrators must **be able to edit or delete<mark>their own CloudTrail trails and AWS Config rules.</mark>**
+A DevOps engineer needs to apply a core set of security controls to an existing set of AWS accounts. The accounts are in an organization in AWS Organizations. Individual teams will administer individual accounts by using the AdministratorAccess AWS managed policy. For all accounts. **AWS CloudTrail and AWS Config must be turned on in all available AWS Regions.** **Individual account administrators must not be able to edit or delete any of the baseline resources**. However, individual account administrators must **be able to edit or delete <mark>their own CloudTrail trails and AWS Config rules.</mark>**
 
 Which solution will meet these requirements in the MOST operationally efficient way?
 
@@ -4480,7 +4450,7 @@ How should a DevOps engineer configure the accounts to meet these requirements?
 
 - ##### 🔑D. Create an SCP that allows access to only approved AWS services. Attach the SCP to the root OU of the organization. Remove the FullAWSAccess SCP from the root OU of the organization.
 
-#### 🎈Question #125
+#### 🎈?Question #125
 
 A global company manages multiple AWS accounts by using AWS Control Tower. The company hosts internal applications and public applications. Each application team in the company has its own AWS account for application hosting. The accounts are consolidated in an organization in AWS Organizations. One of the AWS Control Tower member accounts serves as a **centralized DevOps account** with CI/CD pipelines that application teams use to deploy applications to their respective target AWS accounts. An IAM role for deployment exists in the centralized DevOps account.
 
@@ -4510,6 +4480,8 @@ What will be the outcome of this policy replacement?
 
 - 🔑D. All users in the Development OU will be denied all API actions on EC2 resources. All other API actions will be allowed.
 
+> SCP 可以继承，但是权限是取交集
+
 #### 🎈Question #142
 
 A company manages 500 AWS accounts that are in an organization in AWS Organizations. The company discovers many unattached Amazon Elastic Block Store (Amazon EBS) volumes in all the accounts. The company wants to automatically tag the unattached EBS volumes for investigation.
@@ -4522,7 +4494,7 @@ Which solution will meet these requirements in the MOST operationally efficient 
 
 - 🔑B. Create a cross-account IAM role in the organization's member accounts. Attach the AWSLambda_FullAccess policy and the AWSCloudFormationFullAccess policy to the role. Create an AWS CloudFormation template that contains the Lambda function and an Amazon EventBridge scheduled rule to invoke the Lambda function every 30 minutes. Create a custom script in the organization’s management account that assumes the role and deploys the CloudFormation template to the member accounts.
 
-- ##### 🔑C. Configure a delegated administrator account for the organization. Create an AWS CloudFormation template that contains the Lambda function and an Amazon EventBridge scheduled rule to invoke the Lambda function every 30 minutes. Use CloudFormation StackSets to deploy the CloudFormation template from the delegated administrator account to all the member accounts in the organization
+- ##### 🔑C. Configure a <mark>delegated administrator account for the organization</mark>. Create an AWS CloudFormation template that contains the Lambda function and an Amazon EventBridge scheduled rule to invoke the Lambda function every 30 minutes. Use CloudFormation StackSets to deploy the CloudFormation template from the delegated administrator account to all the member accounts in the organization
 
 - 🔑D. Create a cross-account IAM role in the organization's member accounts. Attach the AmazonS3FullAccess policy and the AWSCodeDeployDeployerAccess policy to the role. Use AWS CodeDeploy to assume the role to deploy the Lambda function from the organization's management account. Configure an Amazon EventBridge scheduled rule in the member accounts to invoke the Lambda function every 30 minutes.
 
@@ -4570,7 +4542,7 @@ Which combination of steps will meet these requirements? (Choose two.)
 
 - ##### 🔑E. Create an SCP that denies IAM related actions with a condition to exclude the management IAM role. Attach the SCP to the production OU.
 
-#### 🎈🎃🧨✨Question #163
+#### 🎈?Question #163
 
 A company has an AWS Control Tower landing zone that manages its organization in AWS Organizations. The company created an OU structure that is based on the company's requirements. The company's DevOps team has established the core accounts for the solution and **an account for all centralized AWS CloudFormation and AWS Service Catalog solutions.**
 
@@ -4580,7 +4552,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑A. Enable trusted access for CloudFormation with Organizations by using service-managed permissions.
 
-- ##### 🔑B. Create an IAM role that is named AWSControlTowerBlueprintAccess. Configure the role with a trust policy that allows the AWSControlTowerAdmin role in the management account to assume the role. Attach the AWSServiceCatalogAdminFullAccess IAM policy to the AWSControlTowerBlueprintAccess role.
+- ##### 🔑B. Create an IAM role that is named <mark>AWSControlTowerBlueprintAccess</mark>. Configure the role with a trust policy that allows the AWSControlTowerAdmin role in the management account to assume the role. Attach the AWSServiceCatalogAdminFullAccess IAM policy to the AWSControlTowerBlueprintAccess role.
 
 - ##### 🔑C. Create a Service Catalog product for each CloudFormation template.
 
@@ -4609,7 +4581,7 @@ Which combination of steps should the DevOps team take to meet these requirement
 
 - ##### 🔑B. Invite the acquired company's AWS accounts to join the organization. Create the OrganizationAccountAccessRole IAM role in the invited accounts. Grant permission to the management account to assume the role.
 
-- ##### 🔑C. Use AWS Security Hub to collect and group findings across all accounts. Use Security Hub to automatically detect new accounts as the accounts are added to the organization.
+- ##### 🔑C. Use <mark>AWS Security Hub</mark> to collect and group findings across all accounts. Use Security Hub to automatically detect new accounts as the accounts are added to the organization.
 
 - 🔑D. Use AWS Firewall Manager to collect and group findings across all accounts. Enable all features for the organization. Designate an account in the organization as the delegated administrator account for Firewall Manager.
 
@@ -4633,7 +4605,7 @@ Which change should the DevOps engineer make to launch the EC2 instance in the v
 
 #### 🎈Question #184
 
-A DevOps engineer is implementing governance controls for a company that **requires its infrastructure to be housed within the United States.** The engineer must restrict which AWS Regions can be used, and ensure an alert is sent as soon as possible if any activity outside the governance policy takes place. The controls should be automatically enabled on any new Region outside the United States (US).
+A DevOps engineer is implementing governance controls for a company that **requires its infrastructure to be housed within the United States.** The engineer must restrict which AWS Regions can be used, and ensure **an alert is sent as soon as possible if any activity outside the governance policy takes place.** The controls should be automatically enabled on any new Region outside the United States (US).
 
 Which combination of actions will meet these requirements? (Choose two.)
 
@@ -4647,7 +4619,7 @@ Which combination of actions will meet these requirements? (Choose two.)
 
 - 🔑E. Write an SCP using the aws:RequestedRegion condition key limiting access to US Regions. Apply the policy to all users, groups, and roles.
 
-#### 🎈🎃🎃🎃Question #186
+#### 🎈?Question #186
 
 A company is launching an application. The application must use only approved AWS services. The account that runs the application was created less than 1 year ago and is assigned to an AWS Organizations OU. The company needs to create a new Organizations account structure. The account structure must have an appropriate **SCP that supports the use of only services that are currently active in the AWS account.** The company will **use AWS Identity and Access Management (IAM) Access Analyzer in the solution.**
 
@@ -4661,7 +4633,7 @@ Which solution will meet these requirements?
 
 - 🔑D. Create an SCP that allows the services that IAM Access Analyzer identifies. Create an OU for the account. Move the account into the new OU. Attach the new SCP to the management account. Detach the default FullAWSAccess SCP from the new OU.
 
-#### 🎈Question #190
+#### 🎈?Question #190
 
 A company's application teams use AWS CodeCommit repositories for their applications. The application teams have repositories in multiple AWS accounts. All accounts are in an organization in AWS Organizations. Each application team uses AWS IAM Identity Center (AWS Single Sign-On) configured with an external IdP to assume a developer IAM role. The developer role allows the application teams to use Git to work with the code in the repositories.
 
@@ -4702,7 +4674,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 >   
 >   `Condition` 是 IAM 策略中的关键部分，用于 **精细化控制策略的生效场景**。只有当条件满足时，策略的 `Effect`（如 `Deny`）才会被触发。
 
-#### 🎈Question #206
+#### 🎈?Question #206
 
 A company uses AWS Control Tower and AWS CloudFormation to manage its AWS accounts and to create AWS resources. The company requires **all Amazon S3 buckets to be encrypted with AWS Key Management Service (AWS KMS) when the S3 buckets are created in a CloudFormation stack.**
 
@@ -4710,7 +4682,7 @@ Which solution will meet this requirement?
 
 - 🔑A. Use AWS Organizations. Attach an SCP that denies the s3:PutObject permission if the request does not include an x-amz-server-side-encryption header that requests server-side encryption with AWS KMS keys (SSE-KMS).
 
-- ##### 🔑B. Use AWS Control Tower with a multi-account environment. Configure and enable proactive AWS Control Tower controls on all OUs with CloudFormation hooks.
+- ##### 🔑B. Use AWS Control Tower with a multi-account environment. Configure and enable <mark>proactive AWS Control Tower controls</mark> on all OUs with <mark>CloudFormation hooks</mark>.
 
 - 🔑C. Use AWS Control Tower with a multi-account environment. Configure and enable detective AWS Control Tower controls on all OUs with CloudFormation hooks.
 
@@ -4719,9 +4691,9 @@ Which solution will meet this requirement?
 > - **Proactive controls** (a feature of AWS Control Tower) allow you to **prevent non-compliant resources from being created** in the first place.
 > - **CloudFormation hooks** can intercept CloudFormation requests and **enforce encryption policies before the S3 bucket is created**.
 
-#### 🎈Question #198
+#### 🎈?Question #198
 
-A company uses Amazon RDS for all databases in its AWS accounts. The company uses AWS Control Tower to build a landing zone that has an audit and logging account. All databases must be encrypted at rest for compliance reasons. The company's security engineer needs to **receive notification about any noncompliant databases that are in the company’s accounts.**
+A company uses Amazon RDS for all databases in its AWS accounts. The company uses AWS Control Tower to build a landing zone that has an audit and logging account. All databases must be encrypted at rest for compliance reasons. The company's security engineer needs to **receive notification about any <mark>noncompliant</mark> databases that are in the company’s accounts.**
 
 Which solution will meet these requirements with the MOST operational efficiency?
 
@@ -4733,7 +4705,7 @@ Which solution will meet these requirements with the MOST operational efficiency
 
 - 🔑D. Launch an Amazon C2 instance. Run an hourly cron job by using the AWS CLI to determine whether the RDS storage is encrypted in each AWS account. Store the results in an RDS database. Notify the security engineer by sending email messages from the EC2 instance when noncompliance is detected
 
-#### 🎈Question #209
+#### 🎈?Question #209
 
 A company's organization in AWS Organizations has a single OU. The company runs Amazon EC2 instances in the OU accounts. The company needs to **limit the use of each EC2 instance’s credentials to the specific EC2 instance that the credential is assigned to. A DevOps engineer must configure security for the EC2 instances.**
 
@@ -4768,11 +4740,11 @@ Which solution will meet these requirements?
 
 - 🔑D. Create an AWS Lambda function that deletes IAM users. Create an Amazon EventBridge rule that detects the IAM CreateUser event. Configure the rule to invoke the Lambda function.
 
-#### 🎈Question #218
+#### 🎈?Question #218
 
 A company operates sensitive workloads across the AWS accounts that are in the company's organization in AWS Organizations. The company uses an IP address range to delegate IP addresses for Amazon VPC CIDR blocks and all non-cloud hardware.
 
-The company needs a solution that **prevents principals that are outside the company’s IP address range from performing AWS actions in the organization's accounts.**
+The company needs a solution that **prevents <mark>principals </mark>that are outside the company’s IP address range from performing AWS actions in the organization's accounts.**
 
 Which solution will meet these requirements?
 
@@ -4784,7 +4756,7 @@ Which solution will meet these requirements?
 
 - 🔑D. In Organizations, create an SCP that allows source IP addresses that are inside of the company’s IP address range. Attach the SCP to the organization's root.
 
-#### 🎈Question #222
+#### 🎈?Question #222
 
 A company has started using AWS across several teams. Each team has multiple accounts and unique security profiles. The company manages the accounts in an organization in AWS Organizations. Each account has its own configuration and security controls.
 
@@ -4816,7 +4788,7 @@ Which combination of steps will meet these requirements? (Choose two.)
 
 - ##### 🔑E. Create an SCP in Organizations to deny password creation for IAM users.
 
-#### 🎈Question #247
+#### 🎈?Question #247
 
 A company uses an organization in AWS Organizations to manage its AWS accounts. The company's DevOps team has developed an **AWS Lambda function that calls the Organizations API to create new AWS accounts.**
 
@@ -4846,7 +4818,7 @@ Which solution will meet these requirements?
 > - 部署 Lambda
 > - Lambda 执行 AssumeRole → 获取管理账户内权限 → 调用 `organizations:CreateAccount`
 
-#### 🎈Question #261
+#### 🎈?Question #261
 
 A company has an organization in AWS Organizations. A DevOps engineer needs to maintain multiple AWS accounts that belong to different OUs in the organization. All resources, including IAM policies and Amazon **S3 policies within an account, are deployed through AWS CloudFormation. All templates and code are maintained in an AWS CodeCommit repository.** Recently, some **developers have not been able to access an S3 bucket from some accounts in the organization.**
 
@@ -4898,22 +4870,6 @@ Which solution will meet these requirements?
 
 - 🔑D. Configure a statement to allow the ec2:RunInstances action for all EC2 instance resources when the ec2:InstanceType condition is equal to t3.small. Configure another statement to allow the ec2:RunInstances action for all EC2 instance resources when the aws:RequestedRegion condition is equal to us-*.
 
-#### 🎈Question #289
-
-A large company runs critical workloads in multiple AWS accounts. The AWS accounts are managed under AWS Organizations with all features enabled. The company stores confidential customer data in an Amazon S3 bucket. Access to the S3 bucket requires multiple levels of approval.
-
-The company wants to <mark>monitor when the S3 bucket is accessed by using the AWS CLI</mark>. The company also wants <mark>insights into the various activities performed by other users on all other S3 buckets in the AWS accounts to detect any issues.</mark>
-
-Which solution will meet these requirements?
-
-- 🔑A. Create an AWS CloudTrail trail that is delivered to Amazon CloudWatch in each AWS account. Enable data events logs for all S3 buckets. Use Amazon GuardDuty for anomaly detection in all the AWS accounts. Use Amazon Athena to perform SQL queries on the custom metrics created from the CloudTrail logs.
-
-- 🔑B. Create an AWS CloudTrail organization trail that is delivered to Amazon CloudWatch in the Organizations management account. Enable data events logs for all S3 buckets. Use Amazon CloudWatch anomaly detection in all the AWS accounts. Use Amazon Athena to perform SQL queries on the custom metrics created from the CloudTrail logs.
-
-- ##### 🔑C. Create an <mark>AWS CloudTrail organization trail</mark> that is delivered to Amazon CloudWatch in the Organizations management account. Enable data events logs for all S3 buckets. Use <mark>Amazon CloudWatch anomaly detection</mark> in all the AWS accounts. Use Amazon CloudWatch Metrics Insights to perform SQL queries on the custom metrics created from the CloudTrail logs.
-
-- 🔑D. Create an AWS CloudTrail trail that is delivered to Amazon CloudWatch in each AWS account. Enable data events logs for all S3 buckets. Use a custom solution for anomaly detection in all the AWS accounts. Use Amazon CloudWatch Metrics Insights to perform SQL queries on the custom metrics created from the CloudTrail logs.
-
 #### 🎈Question #292
 
 A security team wants to use AWS CloudTrail to monitor all actions and API calls in multiple accounts that are in the same organization in AWS Organizations. The security team needs to ensure that **account users cannot turn off CloudTrail in the accounts.**
@@ -4928,7 +4884,7 @@ Which solution will meet this requirement?
 
 - 🔑D. Use AWS Config to automatically re-enable CloudTrail if a user disables CloudTrail in an account.
 
-#### 🎈Question #303
+#### 🎈?Question #303
 
 A company recently configured AWS Control Tower in its organization in AWS Organizations. The company enrolled all existing AWS accounts in AWS Control Tower. The company wants to **ensure that all new AWS accounts are automatically enrolled in AWS Control Tower.**
 
@@ -4940,9 +4896,9 @@ The company has an existing AWS Step Functions workflow that creates new AWS acc
 
 - 🔑B. Create an Amazon EventBridge event that has an aws.controltower source and a SetupLandingZone detail-type. Add the details of the new AWS account to the detail field of the event.
 
-- ##### 🔑C. Create an AWSControlTowerExecution role in the new AWS account. Configure the role to allow the AWS Control Tower administrator account to assume the role.
+- ##### 🔑C. Create an<mark> AWSControlTowerExecution role</mark> in the new AWS account. Configure the role to allow the AWS Control Tower administrator account to assume the role.
 
-- ##### 🔑D. Call the AWS Service Catalog ProvisionProduct API operation with the details of the new AWS account.
+- ##### 🔑D. Call the <mark>AWS Service Catalog ProvisionProduct API operation</mark> with the details of the new AWS account.
 
 - 🔑E. Call the Organizations EnableAWSServiceAccess API operation with the controltower.amazonaws.com service name and the details of the new AWS account.
 
@@ -4956,7 +4912,7 @@ The company has an existing AWS Step Functions workflow that creates new AWS acc
 > - AWS Control Tower **uses Service Catalog under the hood** to provision accounts.
 > - The `ProvisionProduct` API triggers the **automatic enrollment process** in Control Tower.
 
-#### 🎈Question #326
+#### 🎈?Question #326
 
 A company uses an organization in AWS Organizations to manage its 500 AWS accounts. The organization has all features enabled. The AWS accounts are in a single OU. **The developers need to use the CostCenter tag key for all resources in the organization's member accounts**. Some teams do not use the CostCenter tag key to tag their Amazon EC2 instances.
 
@@ -4966,7 +4922,7 @@ The cloud team needs to **ensure that all EC2 instances in the organization use 
 
 Which solution will meet these requirements?
 
-- ##### 🔑A. Create an SCP that prevents the creation of EC2 instances without the CostCenter tag key. Create a tag policy that requires the CostCenter tag to be values from a known list of cost centers for all EC2 instances. Attach the policy to the OU. Update the script to scan the tag keys and tag values. Modify the script to update noncompliant resources with a default approved tag value for the CostCenter tag key.
+- ##### 🔑A. Create an SCP that prevents the creation of EC2 instances without the CostCenter tag key. Create a <mark>tag policy</mark> that requires the CostCenter tag to be values from a known list of cost centers for all EC2 instances. Attach the policy to the OU. Update the script to scan the tag keys and tag values. Modify the script to update noncompliant resources with a default approved tag value for the CostCenter tag key.
 
 - 🔑B. Create an SCP that prevents the creation of EC2 instances without the CostCenter tag key. Attach the policy to the OU. Update the script to scan the tag keys and tag values and notify the administrators when the tag values are not valid.
 
@@ -4974,7 +4930,7 @@ Which solution will meet these requirements?
 
 - 🔑D. Create a tag policy that requires the CostCenter tag to be values from a known list of cost centers for all EC2 instances. Attach the policy to the OU. Configure an AWS Lambda function that adds an empty CostCenter tag key to an EC2 instance. Create an Amazon EventBridge rule that matches events to the RunInstances API action with the Lambda function as the target.
 
-#### 🎈？Question #329
+#### 🎈?Question #329
 
 A company is using AWS Organizations and wants to implement a governance strategy with the following requirements:
 
@@ -4982,9 +4938,9 @@ A company is using AWS Organizations and wants to implement a governance strateg
 
 • AWS services are limited to a specific group of authorized services for all accounts.
 
-• Authentication is provided by Active Directory.
+• **Authentication is provided by Active Directory**.
 
-• Access permissions are organized by job function and are identical in each account.
+•** Access permissions are organized by job function and are identical in each account.**
 
 Which solution will meet these requirements?
 
@@ -4994,9 +4950,9 @@ Which solution will meet these requirements?
 
 - 🔑C. Establish a service control policy in the management account to restrict Regions and authorized services. Use AWS Resource Access Manager (AWS RAM) to share management account roles with permissions for each job function, including AWS IAM Identity Center for authentication in each account.
 
-- ##### 🔑D. Establish a service control policy in the management account to restrict Regions and authorized services. Use AWS CloudFormation StackSets to provision roles with permissions for each job function, including an IAM trust policy for IAM identity provider authentication in each account.
+- ##### 🔑D. Establish a<mark> service control policy</mark> in the management account to restrict Regions and authorized services. Use AWS CloudFormation StackSets to provision <mark>roles with permissions</mark> for each job function, including an IAM trust policy for IAM <mark>identity provider authentication</mark> in each account.
 
-#### 🎈Question #334
+#### 🎈?Question #334
 
 A company use an organization in AWS Organizations to manage multiple AWS accounts. The company has enabled all features enabled for the organization. The company configured the organization as a hierarchy of OUs under the root OU. The company recently registered all its OUs and enrolled all its AWS accounts in AWS Control Tower.
 
@@ -5012,7 +4968,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑D. Configure the AWSControlTowerExecution IAM role in each AWS account in the organization to be assumable by an AWS Lambda function. Configure the Lambda function to assume the AWSControlTowerExecution IAM role.
 
-- ##### 🔑E. Create an IAM role in the AWS Control Tower management account that an AWS Lambda function can assume. Grant the IAM role permission to assume the AWSControlTowerExecution IAM role in any account in the organization. Configure the Lambda function to use the new IAM role.
+- ##### 🔑E. Create an IAM role in the AWS Control Tower management account that an AWS Lambda function can assume. Grant the IAM role permission to assume the <mark>AWSControlTowerExecution IAM role </mark>in any account in the organization. Configure the Lambda function to use the new IAM role.
 
 - ##### 🔑F. Configure an Amazon EventBridge rule in the AWS Control Tower management account to invoke an AWS Lambda function when an AWS account is updated or enrolled in AWS Control Tower or when the landing zone is updated. Re-register each Organizations OU in the organization.
 
@@ -5036,17 +4992,17 @@ Which combination of steps will meet these requirements? (Choose three.)
 >    
 >    - **Future accounts**: Auto-triggered during enrollment.
 
-#### 🎈Question #336
+#### 🎈?Question #336
 
 A company uses an organization in AWS Organizations to manage 10 AWS accounts. All features are enabled, and trusted access for AWS CloudFormation is enabled.
 
-A DevOps engineer needs to **use CloudFormation to deploy an IAM role to the Organizations management account and all member accounts in the organization.**
+A DevOps engineer needs to **use CloudFormation to deploy an IAM role to the Organizations <mark>management account</mark> and <mark>all member accounts </mark>in the organization.**
 
 Which solution will meet these requirements with the LEAST operational overhead?
 
 - 🔑A. Create a CloudFormation StackSet that has service-managed permissions. Set the root OU as a deployment target.
 
-- ##### 🔑B. Create a CloudFormation StackSet that has service-managed permissions. Set the root OU as a deployment target. Deploy a separate CloudFormation stack in the Organizations management account.
+- ##### 🔑B. Create a CloudFormation StackSet that has <mark>service-managed</mark> permissions. Set the root OU as a deployment target. Deploy a separate CloudFormation stack in the Organizations management account.
 
 - 🔑C. Create a CloudFormation StackSet that has self-managed permissions. Set the root OU as a deployment target.
 
@@ -5066,7 +5022,7 @@ Which solution will meet these requirements?
 
 - 🔑C. Create a new SCP statement that denies "*" when the ec2:RoleDelivery condition key value is less than two. Attach the SCP to the root of the organization.
 
-- ##### 🔑D. Create a new SCP statement that denies when the ec2:MetadataHttpTokens condition key value is not equal to required. Attach the SCP to the root of the organization.
+- ##### 🔑D. Create a new SCP statement that denies when the <mark>ec2:MetadataHttpTokens</mark> condition key value is not equal to required. Attach the SCP to the root of the organization.
 
 > ##### SCP允许（Allow）或禁止（Deny）特定API操作  （限制成员账户对AWS服务API的访问）
 > 
@@ -5090,7 +5046,7 @@ Which solution will meet these requirements with the MOST operational efficiency
 
 - 🔑B. Create individual AWS CloudFormation templates that align to a guardrail. Store the templates in an AWS CodeCommit repository. Create an AWS::ControlTower::EnableControl logical resource in the template for each account in the organization. Configure an AWS CodePipeline pipeline in the security team's account. Advise the security team to invoke the pipeline and provide these parameters when starting the pipeline.
 
-- ##### 🔑C. Create individual AWS CloudFormation templates that align to a guardrail. Store the templates in an AWS CodeCommit repository. Create an AWS::ControlTower::EnableControl logical resource in the template for each OU in the organization. Configure an AWS CodePipeline pipeline in the security team's account that an Amazon EventBridge rule will invoke for the security team's CodeCommit changes.
+- ##### 🔑C. Create individual AWS CloudFormation templates that align to a guardrail. Store the templates in an AWS CodeCommit repository. Create an AWS::ControlTower::<mark>EnableControl logical resource</mark> in the template for <mark>each OU</mark> in the organization. Configure an AWS <mark>CodePipeline pipeline</mark> in the security team's account that an Amazon EventBridge rule will invoke for the security team's CodeCommit changes.
 
 - 🔑D. Configure an AWS CodePipeline pipeline in the security team's account that an Amazon EventBridge rule will invoke for PutObject events to an Amazon S3 bucket. Create individual AWS CloudFormation templates that align to a guardrail. Store the templates in the S3 bucket. Create an AWS::ControlTower::EnableControl logical resource in the template for each OU in the organization.
 
@@ -5166,9 +5122,9 @@ Which combination of steps will meet these requirements? (Choose two.)
   - **Add/remove member accounts in GuarDuty**
   - Manage GuarDuty within the associated member accounts
   - Manage findings, suppression rules, trusted IP lists, treat list
-- The administrator of GuarDuty does not necessarily have to be the administrator of the organization, **we can have delegated administrators for GuarDuty**
+- The administrator of GuarDuty does not necessarily have to be the administrator of the organization, **we can have <mark>delegated administrators for GuarDuty</mark>**
 
-#### 🎈Question #102
+#### 🎈？Question #102
 
 A company runs applications in AWS accounts that are in an organization in AWS Organizations. The applications use Amazon EC2 instances and Amazon S3.
 
@@ -5186,7 +5142,7 @@ Which solution will meet these requirements in accordance with AWS best practice
 
 ## IAM
 
-#### 🎈Question #10
+#### 🎈？Question #10
 
 A security review has identified that an AWS CodeBuild project is downloading a database population script from an Amazon S3 bucket using an unauthenticated request. The security team **does not allow unauthenticated requests to S3 buckets for this project.**
 
@@ -5222,7 +5178,7 @@ IAM Identity Center **必须从Organizations管理账户启用**
 
 **创建权限集并附加permission set**
 
-#### 🎈⚙️Question #11
+#### 🎈？Question #11
 
 An ecommerce company has chosen AWS to host its new platform. The company's DevOps team has started building an AWS Control Tower landing zone. The DevOps team has set the identity store within AWS IAM Identity Center (AWS Single Sign-On) to external identity provider (IdP) and has configured SAML 2.0.
 
@@ -5232,7 +5188,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑A. Create IAM policies that include the required permissions. Include the aws:PrincipalTag condition key.
 
-- ##### 🔑🤫B. Create permission sets. Attach an inline policy that includes the required permissions and uses the aws:PrincipalTag condition key to scope the permissions.
+- ##### 🔑🤫B. Create permission sets. Attach an inline policy that includes the required permissions and uses the <mark>aws:PrincipalTag condition key</mark> to scope the permissions.
 
 - ##### 🔑🤫C. Create a group in the IdP. Place users in the group. Assign the group to accounts and the permission sets in IAM Identity Center.
 
@@ -5242,7 +5198,9 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - ##### 🔑🤫F. <mark>Enable attributes for access control</mark> in IAM Identity Center. Map attributes from the IdP as key-value pairs.
 
-#### 🎈Question #25
+> ![image-20250506204532530](.\images\image-20250506204532530.png)
+
+#### 🎈？Question #25
 
 A company has multiple AWS accounts. The company uses AWS IAM Identity Center (AWS Single Sign-On) that is integrated with AWS Toolkit for Microsoft Azure DevOps. The attributes for access control feature is enabled in IAM Identity Center.
 
@@ -5262,21 +5220,35 @@ The company’s security team wants to **use AWS Security Hub to view compliance
 
 Which combination of steps will meet these requirements in the MOST automated way? (Choose three.)
 
-- ##### 🔑A. Turn on trusted access for Security Hub in the organization’s management account. Create a new security account by using AWS Control Tower. Configure the new security account as the delegated administrator account for Security Hub. In the new security account, provide Security Hub with the CIS Benchmarks for AWS Foundations standards.
+- ##### 🔑A. Turn on trusted access for Security Hub in the organization’s management account. Create a new security account by using AWS Control Tower. Configure the new security account as the <mark>delegated administrator account</mark> for Security Hub. In the new security account, provide Security Hub with the CIS Benchmarks for AWS Foundations standards.
+
+> - Enable **trusted access** for Security Hub in the **management account**.
+> 
+> - Use AWS Control Tower to create a **security account** (best practice for landing zones).
+> 
+> - Set this account as the **delegated administrator** for Security Hub.
+> 
+> - Enable **CIS AWS Foundations Benchmark** in the delegated admin account.
 
 - 🔑B. Turn on trusted access for Security Hub in the organization’s management account. From the management account, provide Security Hub with the CIS Benchmarks for AWS Foundations standards.
 
-- ##### 🔑C. Create an AWS IAM Identity Center (AWS Single Sign-On) permission set that includes the required permissions. Use the CreateAccountAssignment API operation to associate the security team users with the permission set and with the delegated security account.
+- ##### 🔑C. Create an AWS IAM Identity Center (AWS Single Sign-On) permission set that includes the required permissions. Use the <mark>CreateAccountAssignment API</mark> operation to associate the security team users with the permission set and with the delegated security account.
+
+> - Create a **permission set** with required Security Hub permissions (e.g., `securityhub:GetFindings`).
+> 
+> - Use the **`CreateAccountAssignment` API** to automatically grant security team users access to the **delegated security account**.
 
 - 🔑D. Create an SCP that explicitly denies any user who is not on the security team from accessing Security Hub.
 
 - ##### 🔑E. In Security Hub, turn on automatic enablement.
 
+> - In the **delegated admin account**, enable **auto-enablement** (`EnableOrganizationAdminAccount` + auto-enable new accounts).
+
 - 🔑F. In the organization’s management account, create an Amazon EventBridge rule that reacts to the CreateManagedAccount event. Create an AWS Lambda function that uses the Security Hub CreateMembers API operation to add new accounts to Security Hub. Configure the EventBridge rule to invoke the Lambda function.
 
 #### 🎈Question #132
 
-A company manually provisions IAM access for its employees. The company wants to replace the manual process with an automated process. The company has an existing Active Directory system configured with an external SAML 2.0 identity provider (IdP).
+A company manually provisions IAM access for its employees. The company wants to <mark>replace the manual process with an automated process.</mark> The company has an existing Active Directory system configured with an external SAML 2.0 identity provider (IdP).
 
 The company **wants employees to use their existing corporate credentials to access AWS.** The groups from the existing Active Directory system must be available for permission management in AWS Identity and Access Management (IAM). A DevOps engineer has completed the initial configuration of AWS IAM Identity Center (AWS Single Sign-On) in the company’s AWS account.
 
@@ -5304,7 +5276,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 - 🔑C. Create an IAM role that has a policy that allows the necessary S3 actions. Configure the role's trust policy to allow the OIDC IP to assume the role if the sts.amazon.com:aud context key is appid_from_idp.
 
-- ##### 🔑D. Create an IAM role that has a policy that allows the necessary S3 actions. Configure the role's trust policy to allow the OIDC IP to assume the role if the auth.company.com:aud context key is appid_from_idp.
+- ##### 🔑D. Create an IAM role that has a policy that allows the necessary S3 actions. Configure the role's trust policy to allow the <mark>OIDC IP</mark> to assume the role if the auth.company.com:aud context key is appid_from_idp.
 
 - ##### 🔑E. Configure the web application to use the<mark> AssumeRoleWithWebIdentity API operation</mark> to retrieve temporary credentials. Use the temporary credentials to make the S3 API calls.
 
@@ -5326,21 +5298,21 @@ Which combination of steps will meet these requirements? (Choose two.)
 
 - ##### 🔑E. Create an SCP in Organizations to <mark>deny password creation for IAM users</mark>.
 
-#### 🎈Question #270
+#### 🎈?Question #270
 
 A company uses AWS Organizations to manage hundreds of AWS accounts. The company has a team that is responsible for AWS Identity and Access Management (IAM).
 
-The IAM team wants to implement AWS IAM Identity Center (AWS Single Sign-On). The IAM team must have only the minimum needed permissions to manage IAM Identity Center. The IAM team must not be able to gain unneeded access to the Organizations management account. The IAM team must be able to provision new IAM Identity Center permission sets and assignments for existing and new member accounts.
+The IAM team **wants to implement AWS IAM Identity Center** (AWS Single Sign-On). The IAM team must **have only the minimum needed permissions to manage IAM Identity Center**. The IAM team must not be able to gain unneeded access to the Organizations management account. The IAM team must **be able to provision new IAM Identity Center permission sets and assignments for existing and new member accounts.**
 
 Which combination of steps will meet these requirements? (Choose three.)
 
--  🔑A. Create a new AWS account for the IAM team. In the new account, enable IAM Identity Center. In the Organizations management account, register the new account as a delegated administrator for IAM Identity Center.
+- 🔑A. Create a new AWS account for the IAM team. In the new account, enable IAM Identity Center. In the Organizations management account, register the new account as a delegated administrator for IAM Identity Center.
 
 - ##### 🔑B. Create a new AWS account for the IAM team. In the Organizations <mark>management account</mark>, <mark>enable IAM Identity Center</mark>. In the Organizations management account, register the new account as a delegated administrator for IAM Identity Center.
 
 - 🔑C. In IAM Identity Center, create users and a group for the IAM team. Add the users to the group. Create a new permission set. Attach the AWSSSODirectoryAdministrator managed IAM policy to the group.
 
-- ##### 🔑D. In IAM Identity Center, create users and a group for the IAM team. Add the users to the group. Create a new permission set. Attach the AWSSSOMemberAccountAdministrator managed IAM policy to the group.
+- ##### 🔑D. In IAM Identity Center, create users and a group for the IAM team. Add the users to the group. Create a new permission set. Attach the <mark>AWSSSOMemberAccountAdministrator managed IAM policy</mark> to the group.
 
 - 🔑E. Assign the permission set to the Organizations management account. Allow the IAM team group to use the permission set.
 
@@ -5413,7 +5385,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 你在 EventBridge 中就可以写**Event Pattern**匹配特定事件，然后做相应操作。
 
-#### 🎈Question #237
+#### #### 🎈Question #237
 
 A company has an event-driven JavaScript application. The application uses decoupled AWS managed services that publish, consume, and route events. During application testing, **events are not delivered to the target that is specified by an Amazon EventBridge rule**.
 
@@ -5432,6 +5404,22 @@ Which combination of steps should the DevOps team take to meet these requirement
 - ##### 🔑E. Create a log group in Amazon CloudWatch Logs Specify the log group as an additional target of the EventBridge rule.
 
 - 🔑F. Update the application code base to use the AWS X-Ray SDK tracing feature to instrument the code with support for the X-Amzn-Trace-Id header.
+
+#### 🎈?Question #289
+
+A large company runs critical workloads in multiple AWS accounts. The AWS accounts are managed under AWS Organizations with all features enabled. The company stores confidential customer data in an Amazon S3 bucket. Access to the S3 bucket requires multiple levels of approval.
+
+The company wants to **monitor when the S3 bucket is accessed by using the AWS CLI**. The company also wants **insights into the various activities performed by other users on all other S3 buckets in the AWS accounts to detect any issues**.
+
+Which solution will meet these requirements?
+
+- 🔑A. Create an AWS CloudTrail trail that is delivered to Amazon CloudWatch in each AWS account. Enable data events logs for all S3 buckets. Use Amazon GuardDuty for anomaly detection in all the AWS accounts. Use Amazon Athena to perform SQL queries on the custom metrics created from the CloudTrail logs.
+
+- 🔑B. Create an AWS CloudTrail organization trail that is delivered to Amazon CloudWatch in the Organizations management account. Enable data events logs for all S3 buckets. Use Amazon CloudWatch anomaly detection in all the AWS accounts. Use Amazon Athena to perform SQL queries on the custom metrics created from the CloudTrail logs.
+
+- ##### 🔑C. Create an <mark>AWS CloudTrail organization trail</mark> that is delivered to Amazon CloudWatch in the Organizations management account. Enable data events logs for all S3 buckets. Use <mark>Amazon CloudWatch anomaly detection</mark> in all the AWS accounts. Use Amazon CloudWatch Metrics Insights to perform SQL queries on the custom metrics created from the CloudTrail logs.
+
+- 🔑D. Create an AWS CloudTrail trail that is delivered to Amazon CloudWatch in each AWS account. Enable data events logs for all S3 buckets. Use a custom solution for anomaly detection in all the AWS accounts. Use Amazon CloudWatch Metrics Insights to perform SQL queries on the custom metrics created from the CloudTrail logs.
 
 #### 🎈Question #320
 
@@ -7309,9 +7297,46 @@ What is the MOST operationally efficient way to ensure users remain logged in?
 
 - ##### 🔑D. Modify the application to store user session information in an Amazon ElastiCache cluster.
 
+## AWS Firewall Manager
+
+- It is a service that can be used to <mark>manage all the firewall rules in all accounts </mark>from an AWS Organization
+- We can set Security Policies, which are a common set of security rules, for example:
+  - <mark>WAF rules</mark>
+  - AWS Shield Advanced rules
+  - Security Groups for EC2, ALB and resources that use ENIs in a VPC
+  - AWS Network Firewall (VPC Level)
+  - Amazon Route53 Resolver DNS Firewall
+- **Rules are applied to new resources as they are created (good for compliance) across all and future accounts in our organization**
+
+#### 🎈⚙️Question #8
+
+A company’s security team requires that all external Application Load Balancers (ALBs) and Amazon API Gateway APIs are associated with AWS WAF web ACLs. The company has hundreds of AWS accounts, all of which are included in a single organization in AWS Organizations. The company has configured AWS Config for the organization. During an audit, the company finds **some externally facing ALBs that are not associated with AWS WAF web ACLs.**
+
+Which combination of steps should a DevOps engineer **take to prevent future violations**? (Choose two.)
+
+- ##### 🔑A. Delegate AWS Firewall Manager to a security account.
+
+- 🔑B. Delegate Amazon GuardDuty to a security account.
+
+- ##### 🔑🤫C. Create an AWS Firewall Manager policy to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
+
+- 🔑D. Create an Amazon GuardDuty policy to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
+
+- 🔑E. Configure an AWS Config managed rule to attach AWS WAF web ACLs to any newly created ALBs and API Gateway APIs.
+
+> AWS Firewall Manager 是多账号环境里，集中管理 WAF、Shield、VPC security group policies 的服务。  
+> 
+> 要启用它，首先必须在 Organizations 中**委派（delegate）一个账号来管理**，通常是 security account
+> 
+> <mark>AWS Firewall Manager 可以自动</mark>：
+> 
+> - 侦测新建的 ALB / API Gateway
+> 
+> - 如果没挂上 WAF ACL，自动<mark>挂上一个指定的 ACL 或阻止部署</mark>
+
 ## WAF
 
-#### 🎈Question #340
+#### 🎈?Question #340
 
 A company has proprietary data available by using an Amazon CloudFront distribution. The company needs to ensure that the distribution is **accessible by only users from the corporate office that have a known set of IP address ranges**. An **AWS WAF web ACL is associated with the distribution and has a default action set to Count**.
 
@@ -7581,7 +7606,7 @@ Which solution will resolve the scaling behavior of the web application in the E
 > 
 > - 动态分析实际运行 metrics，自动推荐/更新合理的 request/limit，保证 pod 数量和资源消耗平衡。
 
-#### 🎈Question #269
+#### 🎈?Question #269
 
 A company's video streaming platform usage has increased from 10,000 users each day to 50,000 users each day in multiple countries. The company deploys the streaming platform on Amazon Elastic Kubernetes Service (Amazon EKS). The EKS workload scales up to thousands of nodes during peak viewing time.
 
