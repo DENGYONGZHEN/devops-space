@@ -38,7 +38,7 @@ func (l *List) Add(task string) {
 func (l *List) Complete(i int) error {
 	ls := *l
 	if i <= 0 || i > len(ls) {
-		return fmt.Errorf("Item %d does not exit", i)
+		return fmt.Errorf("item %d does not exit", i)
 	}
 	//Adjusting index for 0 based indexing
 	ls[i-1].Done = true
@@ -51,7 +51,7 @@ func (l *List) Complete(i int) error {
 func (l *List) Delete(i int) error {
 	ls := *l
 	if i <= 0 || i > len(ls) {
-		return fmt.Errorf("Itme %d does not exit", i)
+		return fmt.Errorf("itme %d does not exit", i)
 	}
 
 	//Adjusting index for 0 based index

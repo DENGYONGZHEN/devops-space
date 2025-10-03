@@ -7,6 +7,10 @@ import (
 	todo "github.com/devops-space/powerfulCommandLineApplicationInGO/2_interactWithUser"
 )
 
+//in general,all file in the same directory must belong to the same Go package.
+//An exception to this rule is when writing tests. You can define a different package for your tests
+//to access only the exported types,variables,and functions from the package you're testing.
+
 // TestAdd tests the Add method of the List type
 func TestAdd(t *testing.T) {
 

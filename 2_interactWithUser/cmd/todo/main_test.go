@@ -95,7 +95,7 @@ func TestTodoCLI(t *testing.T) {
 		if err != nil {
 			t.Fatal(err)
 		}
-		expected := fmt.Sprintf("X 1: %s\n", task)
+		expected := fmt.Sprintf("X 1: %s\n  2: %s\n", task, task2)
 		// if string(out) != "" {
 		// 	t.Errorf("Completed task should be removerd ,but %q still exists", string(out))
 		// }

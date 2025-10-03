@@ -15,6 +15,8 @@ var todoFileName = ".todo.json"
 
 func main() {
 
+	//flag.Usage: this varaible is pointing to a function,
+	// change it will display custome message
 	flag.Usage = func() {
 		fmt.Fprintf(flag.CommandLine.Output(),
 			"%s tool. Developed for deng\n", os.Args[0])
@@ -44,6 +46,7 @@ func main() {
 
 	switch {
 	case *listFlag:
+		//List类型实现了Stringer接口，拥有自定义的String方法，fmt.Print(l)会调用对象的String方法
 		fmt.Print(l)
 		// for _, task := range *l {
 		// 	if !task.Done {
@@ -78,23 +81,6 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Decide what to do based on the number of arguments provided
-	// switch {
-	// case len(os.Args) == 1:
-	// 	for _, item := range *l {
-	// 		fmt.Println(item.Task)
-	// 	}
-	// // Concatenate all provided arguments with a space and
-	// // add to the list as an item
-	// default:
-	// 	item := strings.Join(os.Args[1:], " ")
-	// 	l.Add(item)
-
-	// 	if err := l.Save(todoFileName); err != nil {
-	// 		fmt.Fprintln(os.Stderr, err)
-	// 		os.Exit(1)
-	// 	}
-	// }
 }
 
 // getTask function decides where to get the description for a new
@@ -113,3 +99,18 @@ func getTask(r io.Reader, args ...string) (string, error) {
 	}
 	return s.Text(), nil
 }
+
+//exercise
+//1  Implement the flag -del to delete an item from the list. Use the Delete()
+//method from the API to perform the action.
+//2 Add another flag to enable verbose output, showing information like
+//date/time.
+//3 Add another flag to prevent displaying completed items.
+//4 Update the custom usage function to include additional instructions on
+//how to provide new tasks to the tool.
+//5 Include test cases for the remaining options, such as -complete.
+//6 Update the tests to use the TODO_FILENAME environment variable instead of
+//hard-coding the test file name so that it doesn’t cause conflicts with an
+// existing file.
+//7 Update the getTask() function allowing it to handle multiline input from
+// STDIN. Each line should be a new task in the list.
