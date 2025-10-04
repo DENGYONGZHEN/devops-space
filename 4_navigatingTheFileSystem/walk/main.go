@@ -20,6 +20,8 @@ type config struct {
 	del bool
 	//log destination writer
 	wLog io.Writer
+	//archive directory
+	archive string
 }
 
 func main() {
@@ -28,6 +30,7 @@ func main() {
 	logFile := flag.String("log", "", "Log deletes to this file")
 	// Action options
 	list := flag.Bool("list", false, "List files only")
+	archive := flag.String("archive", "", "Archive directory")
 	del := flag.Bool("del", false, "Delete files")
 	//Fileter options
 	ext := flag.String("ext", "", "File extension to filter out")
@@ -49,11 +52,12 @@ func main() {
 	}
 
 	c := config{
-		ext:  *ext,
-		size: *size,
-		list: *list,
-		del:  *del,
-		wLog: f,
+		ext:     *ext,
+		size:    *size,
+		list:    *list,
+		del:     *del,
+		wLog:    f,
+		archive: *archive,
 	}
 
 	if err := run(*root, os.Stdout, c); err != nil {
@@ -78,6 +82,13 @@ func run(root string, out io.Writer, cfg config) error {
 				return listFile(path, out)
 			}
 
+			//Archive files and continue if successful
+			if cfg.archive != "" {
+				if err := archiveFile(cfg.archive, root, path); err != nil {
+					return err
+				}
+			}
+
 			//Delete files
 			if cfg.del {
 				return delFile(path, delLogger)
@@ -86,3 +97,13 @@ func run(root string, out io.Writer, cfg config) error {
 			return listFile(path, out)
 		})
 }
+
+//1. Update the walk tool so that it allows the user to provide more than one
+//file extension.
+//2. Improve the walk tool by adding more filtering options, such as files
+//modified after a certain date or files with long file names.
+//3. Create a companion tool for walk that restores the archived files in case
+//they are needed again. Recreate the original directory by using the same
+//approach you used to create the destination directory in the archiveFile()
+// function. Then use the gzip.Reader type from the compress/gzip package to
+//uncompress the archive files.
