@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: github.com/devops-space/powerfulCommandLineApplicationInGO/5_improveingThePerformance/colStats
+cpu: Intel(R) Core(TM) Ultra 5 125H
+Benchmark-18    	      10	 265541786 ns/op	215041763 B/op	 2529489 allocs/op
+PASS
+ok  	github.com/devops-space/powerfulCommandLineApplicationInGO/5_improveingThePerformance/colStats	3.050s
