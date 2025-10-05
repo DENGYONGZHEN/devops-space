@@ -17,11 +17,11 @@ func TestRun(t *testing.T) {
 		expected string
 	}{
 		{name: "NoFilter", root: "testdata", cfg: config{
-			ext: "", size: 0, list: true}, expected: "testdata\\dir.log\ntestdata\\dir2\\script.sh\n"},
+			ext: "", size: 0, list: true}, expected: "testdata/dir.log\ntestdata/dir2/script.sh\n"},
 		{name: "FilterExtensionMatch", root: "testdata", cfg: config{
-			ext: ".log", size: 0, list: true}, expected: "testdata\\dir.log\n"},
+			ext: ".log", size: 0, list: true}, expected: "testdata/dir.log\n"},
 		{name: "FilterExtensionSizeMatch", root: "testdata", cfg: config{
-			ext: ".log", size: 10, list: true}, expected: "testdata\\dir.log\n"},
+			ext: ".log", size: 10, list: true}, expected: "testdata/dir.log\n"},
 		{name: "FilterExtensionSizeNoMatch", root: "testdata", cfg: config{
 			ext: ".log", size: 20, list: true}, expected: ""},
 		{name: "FilterExtensionNoMatch", root: "testdata", cfg: config{
