@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"runtime"
 	"sync"
 )
 
@@ -45,29 +46,41 @@ func run(filenames []string, op string, column int, out io.Writer) error {
 	resCh := make(chan []float64)
 	errCh := make(chan error)
 	doneCh := make(chan struct{})
+	fileCh := make(chan string)
 	wg := sync.WaitGroup{}
 
-	//Loop through all files adding their data to consolidate
-	for _, fname := range filenames {
+	//Loop through all files sending them through the channel
+	// so each one will be processed when a worker is available
+	go func() {
+		defer close(fileCh)
+		for _, fname := range filenames {
+			fileCh <- fname
+		}
+	}()
+	for i := 0; i < runtime.NumCPU(); i++ {
 		wg.Add(1)
-		go func(fname string) {
+		go func() {
 			defer wg.Done()
-			f, err := os.Open(fname)
-			if err != nil {
-				errCh <- fmt.Errorf("cannot open file: %w", err)
-				return
+			for fname := range fileCh {
+
+				f, err := os.Open(fname)
+				if err != nil {
+					errCh <- fmt.Errorf("cannot open file: %w", err)
+					return
+				}
+
+				//Parse the CSV into a slice of float64 numbers
+				data, err := csv2float(f, column)
+				if err != nil {
+					errCh <- err
+				}
+				if err := f.Close(); err != nil {
+					errCh <- err
+				}
+				resCh <- data
 			}
 
-			//Parse the CSV into a slice of float64 numbers
-			data, err := csv2float(f, column)
-			if err != nil {
-				errCh <- err
-			}
-			if err := f.Close(); err != nil {
-				errCh <- err
-			}
-			resCh <- data
-		}(fname)
+		}()
 	}
 	go func() {
 		wg.Wait()
@@ -88,3 +101,12 @@ func run(filenames []string, op string, column int, out io.Writer) error {
 	}
 
 }
+
+// 1. Execute the tracer on the last version of the tool. Look for the new gorou
+//tine pattern. Is there a difference between this version and the previous
+//version? Have you addressed the scheduling contention?
+//2. Improve the colStats tool by adding more functions such as Min and Max,
+// which return the lowest and the largest values in a given column. Write
+//tests for these functions.
+//3. Write benchmarks for the new functions Min and Max.
+//4. Profile the functions Min and Max, looking for improvement areas.
