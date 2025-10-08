@@ -76,3 +76,17 @@ func run(proj string, out io.Writer) error {
 		}
 	}
 }
+
+
+//1 Add another step to the pipeline: code linting using golangci-lint. For more
+// information consult its home page.8
+//2 Add gocyclo to the pipeline. Capture its output and return an error if gocyclo
+// returns any functions with a complexity score of 10 or greater. For more
+// information about this tool, consult its GitHub page.9
+//3 Add environment variables to handle Git authentication with remote
+// repositories that require it.
+//4 Add another command-line flag to your tool asking for the Git branch to
+// push. Update the Git step to accept a configurable branch instead of
+// master.
+//5 Get the Pipeline configuration from a file instead of hard-coding it in the
+// run() function.

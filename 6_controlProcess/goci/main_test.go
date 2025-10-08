@@ -92,6 +92,7 @@ func setupGit(t *testing.T, proj string) func() {
 	}{
 		{[]string{"init", "--bare"}, tempDir, nil},
 		{[]string{"init"}, projPath, nil},
+		 {[]string{"checkout", "-b", "main"}, projPath, nil}, // Ensure main branch
 		{[]string{"remote", "add", "origin", remoteURI}, projPath, nil},
 		{[]string{"add", "."}, projPath, nil},
 		{[]string{"commit", "-m", "test"}, projPath,
