@@ -26,3 +26,14 @@ import "pScan/cmd"
 func main() {
 	cmd.Execute()
 }
+
+//  1 Allow the user to provide port ranges, such as 1-1024, in addition to specific
+//  ports for scan.
+//  2 Validate the provided port numbers are within the proper range for TCP
+//  ports from 1 to 65535.
+//  3 Allow the user to execute UDP port scans in addition to TCP. Update the
+//  scan package and the command-line tool accordingly.
+//  4 Add a new flag to the scan subcommand allowing the user to specify a filter
+//  to show only open or closed ports.
+//  5 Add a new flag to the scan subcommand allowing the user to specify a
+//  custom timeout for the scan.
