@@ -12,7 +12,7 @@ import (
 type item struct {
 	Task        string
 	Done        bool
-	CreateAt    time.Time
+	CreatedAt   time.Time
 	CompletedAt time.Time
 }
 
@@ -23,7 +23,7 @@ func (l *List) Add(task string) {
 	t := item{
 		Task:        task,
 		Done:        false,
-		CreateAt:    time.Now(),
+		CreatedAt:   time.Now(),
 		CompletedAt: time.Time{},
 	}
 	//Note that you need to dereference the pointer to the List type with *l
