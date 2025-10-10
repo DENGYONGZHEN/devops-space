@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	todo "github.com/devops-space/powerfulCommandLineApplicationInGO/2_interactWithUser"
+	todo "interactWithUser"
 )
 
 //in general,all file in the same directory must belong to the same Go package.

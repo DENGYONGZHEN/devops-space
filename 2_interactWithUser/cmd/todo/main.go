@@ -8,15 +8,15 @@ import (
 	"os"
 	"strings"
 
-	todo "github.com/devops-space/powerfulCommandLineApplicationInGO/2_interactWithUser"
+	todo "interactWithUser"
 )
 
 var todoFileName = ".todo.json"
 
 func main() {
 
-	//flag.Usage: this varaible is pointing to a function,
-	// change it will display custome message
+	//flag.Usage: this variable is pointing to a function,
+	// change it will display custom message
 	flag.Usage = func() {
 		fmt.Fprintf(flag.CommandLine.Output(),
 			"%s tool. Developed for deng\n", os.Args[0])
@@ -27,7 +27,7 @@ func main() {
 
 	listFlag := flag.Bool("list", false, "List all tasks")
 	// taskFlag := flag.String("task", "", "Task to be included in the ToDO list")
-	addFalg := flag.Bool("add", false, "Add task to the ToDo list")
+	addFlag := flag.Bool("add", false, "Add task to the ToDo list")
 	completeFlag := flag.Int("complete", 0, "Item to be completed")
 
 	flag.Parse()
@@ -63,7 +63,7 @@ func main() {
 			os.Exit(1)
 		}
 	// case *taskFlag != "":
-	case *addFalg:
+	case *addFlag:
 		// When any arguments (excluding flags) are provided, they will be
 		// used as the new task
 		t, err := getTask(os.Stdin, flag.Args()...)
